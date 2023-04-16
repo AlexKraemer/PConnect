@@ -15,6 +15,8 @@ Io deals 37787 magical damage to all enemies, lowers their TP and TP Fill Rate b
 
 **Skill 1: Tail Whip**
 no UE: Io deals 19697 magical damage to all enemies in an area around the 2nd nearest enemy.
+
+**Skill 1+: Tail Whip+**
 w/ UE: Io deals 42782 magical damage to all enemies in an area around the 2nd nearest enemy, lowers the TP of targets afflicted with Charm by 560 and lowers the P.ATK and M.ATK of targets not afflicted with Charm by 2690.
 【Post-S.Lv260】Damage increased (32692 → 42782), TP Disruption capped at 560.
 

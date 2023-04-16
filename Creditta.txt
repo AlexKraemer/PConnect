@@ -11,6 +11,8 @@ Creditta deals 43377 physical damage to all enemies in front of her and lowers t
 
 **Skill 1: Trap Wallet**
 no UE: Creditta deals 41359 physical damage to all enemies in an area around the nearest enemy. The first usage of this Skill also lowers the P.DEF of enemies hit by 74.
+
+**Skill 1+: Trap Wallet+**
 w/ UE: Creditta deals 49871 physical damage to all enemies in an area around the nearest enemy. The first usage of this Skill also lowers the P.DEF of enemies hit by 74 and applies to them a debuff that increases the damage taken from Critical attacks by 2%.
 
 **Skill 2: Royalty Right**

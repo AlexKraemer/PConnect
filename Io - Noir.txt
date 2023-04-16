@@ -11,6 +11,8 @@ Io deals 43357 magical damage to all enemies in an area in front of her and heal
 
 **Skill 1: Romantic Heart**
 no UE: Io deals 21678 magical damage to the enemy with the highest M.ATK and afflicts the target with a Charm debuff.
+
+**Skill 1+: Romantic Heart+**
 w/ UE: Io deals 67707 magical damage to the enemy with the highest M.ATK, afflicts the target with a Charm debuff and lowers the target's TP by 150.
 
 **Skill 2: Magic Love Beam**

@@ -11,6 +11,8 @@ Neneka summons a clone of hers that does not use Union Burst. She also deploys a
 
 **Skill 1: Saturate Ray**
 no UE: Neneka deals 55162 magical damage to all enemies in an area around the nearest enemy and afflicts them with a brief Stun debuff.
+
+**Skill 1+: Saturate Ray+**
 w/ UE: Neneka deals 85906 magical damage to all enemies in an area around the nearest enemy, lowers their M.DEF by 54 and afflicts them with a Stun debuff.
 
 **Skill 2: Instance Gem**

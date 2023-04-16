@@ -14,6 +14,7 @@ She also deploys a Barrier that negates up to 12105 physical and magical damage 
 no UE: Karin boosts the P.ATK and M.ATK of all allies by 3363 and engraves Magic Words of Power.
 While Magic Words of Power is engraved, the Action Speed of all allies is boosted by a large amount (50%) (This Skill's effect stacks with other Action Speed modifier Skills).
 
+
 **Skill 2: Guild of Detonation**
 Karin deals 40184 magical damage to all enemies and Pushes them away by a large distance.
 

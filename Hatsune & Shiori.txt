@@ -14,6 +14,7 @@ no UE: Hatsune & Shiori deal 42827 physical damage to all enemies in front of th
 The amount of damage dealt and amount of TP recovered increases according to the number of enemies hit.
 【Post-S.Lv260】Damage increased (30580 → 42827), TP Recovery capped at 310.
 
+
 **Skill 2: Sisters' Link**
 Hatsune & Shiori boost the P.ATK, P.Critical and P.Critical Damage of all allies in an area around them by 807, 10 and 1% respectively. Each buff goes up to 4 times according to Hatsune & Shiori's P.ATK.
 

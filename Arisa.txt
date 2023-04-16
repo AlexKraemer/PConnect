@@ -14,6 +14,8 @@ Arisa deals 221876 physical damage to the nearest enemy. This Skill goes up in d
 
 **Skill 1: Karamitsuku Tsuta**
 no UE: Arisa deals 26990 physical damage to the enemy with the highest M.ATK and lowers the target's Action Speed by a small amount (20%).
+
+**Skill 1+: Karamitsuku Tsuta+**
 w/ UE: Arisa deals 56176 physical damage to the enemy with the highest M.ATK and lowers the target's M.ATK by 1009 and Action Speed by a small amount (20%).
 
 **Skill 2: Hane no Kagayaki**

@@ -11,6 +11,8 @@ Yuki boosts the M.ATK of all allies by 4304 and Action Speed of all allies by a 
 
 **Skill 1: Tenshi na boku ga iyashichau?**
 no UE: Yuki heals all allies in an area around the ally with the lowest HP for 9691 HP.
+
+**Skill 1+: Tenshi na boku ga iyashichau?+**
 w/ UE: Yuki boosts the M.ATK of all allies in an area around the ally with the lowest HP by 4035 and heals them for 10114 HP.
 
 **Skill 2: Boku no utsukushisa ga shohousen sa?**

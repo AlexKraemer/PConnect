@@ -14,6 +14,8 @@ She also boosts their M.Critical Damage and TP Fill Rate by 10% and 5 respective
 no UE: Neneka boosts the M.ATK and M.Critical of the ally with the highest M.ATK by 5444 and 100 respectively.
 She also boosts the target's M.Critical Damage by 5% and recovers the target's TP by 174.
 【Post-S.Lv260】M.ATK buff increased (5380 → 5444), TP Recovery capped at 174.
+
+**Skill 1+: Flower Blessing+**
 w/ UE: Neneka boosts the M.ATK, M.Critical and M.Critical Damage of the ally with the highest M.ATK by 5444, 120 and 5% respectively.
 The potencies of the M.ATK and M.Critical buffs increase up to 4 times and the potency of the M.Critical Damage buff increases up to 2 times according to Neneka's M.ATK.
 She also recovers the target's TP by 174.

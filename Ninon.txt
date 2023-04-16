@@ -16,6 +16,8 @@ The potency of the P.ATK buff and the amount of TP recovered goes up according t
 **Skill 1: Senpuugeki**
 no UE: Ninon deals 24584 physical damage to all enemies in an area in front of her, and recovers her TP by 150 if she managed to defeat an enemy with this Skill.
 The amount of TP recovered increases with the number of enemies defeated.
+
+**Skill 1+: Senpuugeki+**
 w/ UE: Ninon deals 42622 physical damage to all enemies in an area in front of her, and recovers her TP by 1000 if she managed to defeat an enemy with this Skill.
 
 **Skill 2: Kaensen**

@@ -11,6 +11,8 @@ Misaki boosts the M.ATK and M.Critical of all allies in an area around her by 26
 
 **Skill 1: Booster Eye**
 no UE: Misaki boosts the M.ATK of all allies in an area around her by 1345. The higher Misaki's M.ATK is, the higher the potency of the M.ATK buff (up to 10 times).
+
+**Skill 1+: Booster Eye+**
 w/ UE: Misaki boosts the M.ATK of all allies in an area around her by 1345. The higher Misaki's M.ATK is, the higher the potency of the M.ATK buff (up to 10 times).
 She also boosts the M.Critical Damage of all allies in an area around her by 6%.
 

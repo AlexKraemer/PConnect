@@ -14,6 +14,7 @@ After the start of the battle, the first usage of this Skill increases the damag
 no UE: Kaya deals 60975 physical damage to all enemies in an area in front of her and boosts her P.Critical by 100.
 After the start of the battle, the first usage of this Skill increases the P.Critical buff to 250.
 
+
 **Skill 2: Dragonic Call**
 Kaya boosts her P.ATK by 5380 and recovers her TP by 200.
 After the start of the battle, the first usage of this Skill increases the P.ATK buff to 10760 and TP recovery to 1000.

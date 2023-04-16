@@ -11,6 +11,8 @@ Muimi deals 144569 physical damage to the nearest enemy. She then equips Tenrou 
 
 **Skill 1: Bibiraseteyaru!**
 no UE: Muimi deals 21793 physical damage to all enemies in an area in front of her, afflicts them with a Stun debuff and pushes them away by a small distance.
+
+**Skill 1+: Bibiraseteyaru!+**
 w/ UE: Muimi deals 34044 physical damage to all enemies in an area in front of her, afflicts them with a Stun debuff and pushes them away by a small distance.
 
 **Skill 2: Kocchi da kocchi!**

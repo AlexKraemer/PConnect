@@ -11,6 +11,8 @@ Suzuna deals 160696 physical damage to the nearest enemy. If 'Summer Runway?' ha
 
 **Skill 1: Tropical Dart**
 no UE: Suzuna does 3 hits that each deal 20221 physical damage to the nearest enemy.
+
+**Skill 1+: Tropical Dart+**
 w/ UE: Suzuna does 3 hits that each deal 26321 physical damage to the nearest enemy and boosts her P.ATK by 3363. This Skill is always a Critical hit.
 
 **Skill 2: Summer Runway?**

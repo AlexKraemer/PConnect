@@ -11,6 +11,8 @@ When Chieru has 40 Cheru stacks, she boosts the P.ATK of all allies by 8608 and 
 
 **Skill 1: Cherurun?Rush Hour**
 no UE: Chieru deals 34589 physical damage to the nearest enemy. This Skill's damage increases according to the number of Cheru stacks.
+
+**Skill 1+: Cherurun?Rush Hour+**
 w/ UE: Chieru deals 50287 physical damage to the nearest enemy. This Skill's damage increases according to the number of Cheru stacks.
 When Chieru has 40 Cheru stacks, she boosts the P.ATK and P.Critical of all allies by 8608 and 200 respectively.
 

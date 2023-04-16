@@ -11,6 +11,8 @@ Anne deals 136301 magical damage to the nearest enemy, and boosts the M.ATK of a
 
 **Skill 1: Collision Spell**
 no UE: Anne deals 55058 magical damage to the enemy.
+
+**Skill 1+: Collision Spell+**
 w/ UE: Anne deals 96302 magical damage and recovers the TP of all allies by 100 if she is under Blessing of the Heroic Spirit, or boosts her Action Speed by a medium amount (25%) if she is not.
 
 **Skill 2: Princess Calling**

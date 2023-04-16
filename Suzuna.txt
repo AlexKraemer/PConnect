@@ -14,6 +14,8 @@ Suzuna boosts her P.Critical Damage by 25%. She also deals 363533 physical damag
 
 **Skill 1: Okopun Dart**
 no UE: Suzuna deals 30480 physical damage to the nearest enemy. This Skill is always a Critical hit.
+
+**Skill 1+: Okopun Dart+**
 w/ UE: Suzuna does 3 hits that deal 31759, 22249 and 22249 physical damage respectively to the nearest enemy, and this Skill does 3 times damage instead of 2 times when it procs Critical hits.
 The first hit of this Skill is always a Critical hit.
 

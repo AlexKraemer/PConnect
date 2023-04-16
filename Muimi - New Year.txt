@@ -11,6 +11,8 @@ Muimi deals 82016 physical damage to all enemies in an area in front of her.
 
 **Skill 1: Dokee!**
 no UE: After a short delay after the start of the battle, Muimi dashes into the frontmost enemy, deals 57667 physical damage to the target, lowers the target's P.DEF by 162 and pushes it by a small distance.
+
+**Skill 1+: Dokee!+**
 w/ UE: After a short delay after the start of the battle, Muimi dashes into the frontmost enemy, deals 65839 physical damage to the target, lowers the target's P.DEF by 216 and pushes it by a small distance. Muimi also becomes invincible for a short period.
 
 **Skill 2: Moratta zo!**

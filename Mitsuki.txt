@@ -14,6 +14,8 @@ Mitsuki lowers the P.DEF of all enemies in front of her by 269 and deals 120107 
 
 **Skill 1: Curse Bloom**
 no UE: Mitsuki afflicts all enemies in an area in front of her with a Curse debuff that deals 645 damage per second.
+
+**Skill 1+: Curse Bloom+**
 w/ UE: Mitsuki afflicts all enemies in an area in front of her with a Curse debuff that deals 968 damage per second, and lowers their Action Speed by a small amount (5%).
 
 **Skill 2: Rose Field**

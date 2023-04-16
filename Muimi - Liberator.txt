@@ -14,6 +14,7 @@ Muimi also deals 261078 physical damage to the nearest enemy.
 **Skill 1: Tenrou Gekkuusen**
 no UE: Muimi deals 87026 physical damage to the nearest enemy and lowers the target's P.DEF by 108.
 
+
 **Skill 2: Tenrou Gouhajin**
 Muimi boosts her P.ATK and P.Critical by 6725 and 100 respectively and deals 87026 physical damage to the nearest enemy.
 

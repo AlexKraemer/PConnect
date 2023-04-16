@@ -12,6 +12,7 @@ Ranpha deals 56245 magical damage to all enemies in front of her and lowers thei
 **Skill 1: Mystic Harmony**
 no UE: Ranpha boosts the M.ATK of all allies by 3228. Ranpha also summons a Nephrite Wyvern if there is no Nephrite Wyvern in your party.
 
+
 **Skill 2: Tear's Song**
 Ranpha lowers the M.DEF of all enemies by 81 and afflicts them with a debuff that increases the damage taken from Critical attacks by 2%.
 

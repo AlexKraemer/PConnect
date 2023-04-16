@@ -14,6 +14,8 @@ Kuuka deploys a Barrier that absorbs up to 12105 magical damage on herself and h
 
 **Skill 1: Nerau nara Kuuka wo!**
 no UE: Kuuka Taunts all enemies and boosts her P.DEF by 323.
+
+**Skill 1+: Nerau nara Kuuka wo!+**
 w/ UE: Kuuka Taunts all enemies and boosts her P.DEF by 404. She also heals herself for 13075 HP.
 
 **Skill 2: Hageshii no kangei desuu!**

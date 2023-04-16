@@ -11,6 +11,8 @@ Ninon deals 155572 physical damage to the nearest enemy. This Skill does 3 times
 
 **Skill 1: Ninpou: Chubame Gaeshi**
 no UE: Ninon deals 41503 physical damage to the nearest enemy and lowers the target's P.DEF by 54.
+
+**Skill 1+: Ninpou: Chubame Gaeshi+**
 w/ UE: Ninon deals 64467 physical damage to the nearest enemy and lowers the target's P.DEF by 97. This Skill does 3 times damage instead of 2 times when it procs Critical hits.
 
 **Skill 2: Ninpou: Kage Bunshin no Jutsu**

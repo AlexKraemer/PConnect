@@ -11,6 +11,8 @@ Chloe deals 119655 physical damage to the nearest enemy and boosts her P.ATK by 
 
 **Skill 1: Kurotsuchi no Sayoarashi**
 no UE: Chloe boosts her P.ATK by 3632 and lowers the P.DEF of the nearest enemy by 189. After Chloe uses this Skill for the first time in a battle, she recovers her TP by 1000 every 49 times she deals damage.
+
+**Skill 1+: Kurotsuchi no Sayoarashi+**
 w/ UE: Chloe boosts her P.ATK by 6725 and lowers the P.DEF of the nearest enemy by 323. After Chloe uses this Skill for the first time in a battle, she recovers her TP by 1000 every 13 times she deals damage.
 
 **Skill 2: Suibi no Shinato**

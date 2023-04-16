@@ -11,6 +11,8 @@ Chloe deals 158733 physical damage to the nearest enemy.
 
 **Skill 1: Shikon no Tasogare**
 no UE: Chloe puts all enemies in a state where they gain 1 Cowering debuff whenever she lands an attack on them. Cowering stacks up to 66 times. She also boosts her P.ATK by 4035.
+
+**Skill 1+: Shikon no Tasogare+**
 w/ UE: Chloe puts all enemies in a state where they gain 1 Cowering debuff whenever she lands an attack on them. Cowering stacks up to 99 times. She also boosts her P.ATK by 8070.
 
 **Skill 2: Hakugin no Tsukikage**

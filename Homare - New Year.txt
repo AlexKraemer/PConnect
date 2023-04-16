@@ -12,6 +12,7 @@ Homare deals 52872 magical damage to all enemies and lowers their M.DEF by 54. T
 **Skill 1: Sticky Bite**
 no UE: Homare boosts her M.ATK, M.Critical and M.Critical Damage by 10760, 200 and 10% respectively and recovers her TP by 225.
 
+
 **Skill 2: Cruel Bloom**
 Homare deals 57023 magical damage to all enemies and lowers their M.DEF by 189.
 

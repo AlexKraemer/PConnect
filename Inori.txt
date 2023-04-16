@@ -11,6 +11,8 @@ Inori deals 59103 physical damage to all enemies in an area in front of her, aff
 
 **Skill 1: Dragonic Pikohan**
 no UE: Inori deals 8865 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff.
+
+**Skill 1+: Dragonic Pikohan+**
 w/ UE: Inori deals 36575 physical damage to all enemies in an area in front of her, afflicts them with a Stun debuff and Pushes them away by a small distance.
 
 **Skill 2: Dragon Fire**

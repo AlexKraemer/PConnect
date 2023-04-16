@@ -11,6 +11,8 @@ Ninon boosts the P.ATK and P.Critical of all allies that do physical attacks by 
 
 **Skill 1: Ayakashi Ninpou: Maboroshi Kagee no Jutsu**
 no UE: Ninon boosts the P.ATK of all allies that do physical attacks by 4035 and the Action Speed of all allies that do physical attacks by a large amount (55%).
+
+**Skill 1+: Ayakashi Ninpou: Maboroshi Kagee no Jutsu+**
 w/ UE: Ninon boosts the P.ATK of all allies that do physical attacks by 6053, the Action Speed of all allies by large amount (55%) and P.Critical of all allies by 50.
 
 **Skill 2: Ayakashi Ninpou: Kabocha Totsugeki no Jutsu**

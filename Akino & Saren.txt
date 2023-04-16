@@ -12,6 +12,7 @@ Akino & Saren deal 138144 physical damage to the nearest enemy. The higher their
 **Skill 1: Fire Enhancement**
 no UE: Akino & Saren boost the P.ATK, P.Critical and P.Critical Damage of all allies by 6456, 30 and 10% respectively.
 
+
 **Skill 2: Glitter Force**
 Akino & Saren deploy a Field around themselves that heals and recovers the HP and TP of all allies by 1169 and 10 per second respectively. They also recover their own TP by 280.
 

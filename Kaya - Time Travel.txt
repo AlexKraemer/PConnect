@@ -11,6 +11,8 @@ Kaya deals 135818 physical damage to the nearest enemy, boosts her Action Speed 
 
 **Skill 1: Dragon's Edge**
 no UE: Kaya deals 61118 physical damage to the nearest enemy.
+
+**Skill 1+: Dragon's Edge+**
 w/ UE: Kaya deals 63537 physical damage to the nearest enemy. Additionally, if her Action Speed was boosted when this Skill is used, she also deals 120014 physical damage to the nearest enemy and boosts her P.ATK by 6725.
 
 **Skill 2: Accel Reactor**

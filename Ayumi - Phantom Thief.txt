@@ -11,6 +11,8 @@ Ayumi deals 60036 physical damage to all enemies in an area around the furthest 
 
 **Skill 1: Stealth Turn**
 no UE: 【Stealth】Ayumi places herself in a Stealth state. She lowers the P.ATK and M.ATK of the furthest enemy by 5380 and boosts her P.ATK by 5380. She also deals 40024 physical damage to the target.
+
+**Skill 1+: Stealth Turn+**
 w/ UE: 【Stealth】Ayumi places herself in a Stealth state. She lowers the P.ATK and M.ATK of the furthest enemy by 5380 and boosts her P.ATK by 12912. She also deals 222433 physical damage to the target.
 Enemies don't recover TP from the damage dealt by this Skill.
 

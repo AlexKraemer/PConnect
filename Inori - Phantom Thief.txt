@@ -13,6 +13,8 @@ Also, this Skill deals 4 times damage instead of 2 times when Critical procs.
 **Skill 1: Shadow Fang**
 no UE: Inori deals 32424 physical damage to the nearest enemy. If Inori is in a Stealth state, she recovers her TP by 80, the damage of this Skill goes up to 64849 and is guaranteed to proc Critical.
 Also, this Skill deals 4 times damage instead of 2 times when Critical procs.
+
+**Skill 1+: Shadow Fang+**
 w/ UE: Inori deals 44707 physical damage to the nearest enemy. If Inori is in a Stealth state, she recovers her TP by 150, the damage of this Skill goes up to 89415 and she does an additional attack that deals 29805 physical damage.
 Also, this Skill's damage is guaranteed to proc Critical and it deals 4 times damage instead of 2 times when Critical procs.
 
