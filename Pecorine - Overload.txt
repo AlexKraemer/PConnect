@@ -15,7 +15,6 @@ If the target's remaining HP was under 50%, the damage dealt increases (addition
 no UE: Pecorine applies a Regen buff that heals for 3782 HP per second to herself.
 If the enemy with the highest remaining HP has 50% and above remaining HP, Pecorine boosts the P.ATK and P.Critical of all allies by 4788 and 50 respectively.
 If the target's remaining HP was under 50%, Pecorine boosts the P.ATK of all allies by 12768.
-
 **Skill 1+: Limiter Overwrite+**
 w/ UE: Pecorine applies a Regen buff that heals for 3782 HP per second to herself and recovers her TP by 100.
 If the enemy with the highest remaining HP has 50% and above remaining HP, Pecorine boosts the P.ATK and P.Critical of all allies by 6916 and 70 respectively.

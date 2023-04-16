@@ -11,7 +11,6 @@ Kaori deals 67695 | 83223 | 98750 | 114278 | 129805 physical damage to all enemi
 
 **Skill 1: Enshin Reppa**
 no UE: Kaori deals 27534 physical damage to all enemies in an area in front of her and pushes the nearest enemy away by a small distance.
-
 **Skill 1+: Enshin Reppa+**
 w/ UE: Kaori deals 64293 physical damage to all enemies in an area in front of her, afflicts them with a Stun debuff and pushes the nearest enemy away by a small distance.
 

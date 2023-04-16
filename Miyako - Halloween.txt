@@ -11,7 +11,6 @@ Miyako deals 123822 physical damage to the furthest enemy and afflicts the targe
 
 **Skill 1: Ookami onna nano**
 no UE: Miyako lowers the furthest enemy's TP by 528 and applies a Stun debuff on the target.【Post-S.Lv260】Additional P.ATK and M.ATK debuffs (32) to target, TP Disruption capped at 528.
-
 **Skill 1+: Ookami onna nano+**
 w/ UE: Miyako lowers the furthest enemy's TP by 528 and applies Stun and Panic debuffs on the target.
 【Post-S.Lv260】Additional P.ATK and M.ATK debuffs (32) to target, TP Disruption capped at 528.

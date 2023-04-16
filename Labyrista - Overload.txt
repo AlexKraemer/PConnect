@@ -11,7 +11,6 @@ Labyrista deals 103507 physical damage to the nearest enemy and afflicts the tar
 
 **Skill 1: Append Courage**
 no UE: Labyrista boosts the P.ATK and P.Critical of all allies by 2394 and 45 respectively. She also applies a Regen buff that heals for 749 HP per second to all allies.
-
 **Skill 1+: Append Courage+**
 w/ UE: Labyrista boosts the P.ATK and P.Critical of all allies by 3591 and 80 respectively and deploys a Barrier that negates up to 11970 physical damage on them.
 She also applies a Regen buff that heals for 780 HP per second to all allies.

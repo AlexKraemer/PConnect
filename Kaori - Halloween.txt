@@ -11,7 +11,6 @@ Kaori deals 83194 physical damage to the nearest enemy. The damage increases the
 
 **Skill 1: Yuugen Sokutou**
 no UE: Kaori deals 41597 physical damage to the nearest enemy and boosts her P.ATK by 1345. The damage and buff potency increases the lower the target's remaining HP percentage is.
-
 **Skill 1+: Yuugen Sokutou+**
 w/ UE: Kaori deals 69907 physical damage to the nearest enemy and boosts her P.ATK by 1883. The damage and buff potency increases the lower the target's remaining HP percentage is.
 If the target has lower than 50% HP, Kaori boosts her P.Critical Damage by 20%.

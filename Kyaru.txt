@@ -8,13 +8,11 @@ Overall: E
 
 **Union Burst: Grim Burst**
 Kyaru deals 35359 magical damage to all enemies.
-
 **Union Burst (6★): Abyss Burst**
 Kyaru deals 84459 magical damage to all enemies and afflicts them with a Panic debuff.
 
 **Skill 1: Thunder Ball**
 no UE: Kyaru deals 52976 magical damage to the nearest enemy.
-
 **Skill 1+: Thunder Ball+**
 w/ UE: Kyaru deals 55150 magical damage to the nearest enemy, deals a further 12408 magical damage to all enemies in an area around the target and lowers their M.DEF by 38.
 

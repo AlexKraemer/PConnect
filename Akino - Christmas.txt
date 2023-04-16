@@ -12,7 +12,6 @@ Akino deals 83050 physical damage to the nearest enemy. This Skill's damage incr
 **Skill 1: Holy Prize**
 no UE: Akino gains 1 Seiya no Kirameki whenever she receives a status up buff. Seiya no Kirameki stacks up to 25 times.
 Akino also boosts her P.ATK, P.Critical and TP Fill Rate by 6456, 100 and 10 respectively.
-
 **Skill 1+: Holy Prize+**
 w/ UE: Akino gains 1 Seiya no Kirameki whenever she receives a status up buff. Seiya no Kirameki stacks up to 50 times.
 Akino also boosts her P.ATK, P.Critical and TP Fill Rate by 7263, 150 and 15 respectively.

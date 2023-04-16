@@ -9,7 +9,6 @@ Overall: S
 **Union Burst: Schneeich Tanz**
 Shefi deals 163651 physical damage to the nearest enemy and applies 5 Kennzeichen stacks to herself.
 Each time she uses Union Burst, the number of Kennzeichen stacks applied increases by 1. Kennzeichen stacks up to 10.
-
 **Union Burst (6★): Frost Fang**
 Shefi deals 249468 physical damage to the nearest enemy and applies 7 Kennzeichen stacks to herself.
 Each time she uses Union Burst, the number of Kennzeichen stacks applied increases by 1. Kennzeichen stacks up to 20.
@@ -17,7 +16,6 @@ If Seegefroren's Field is being deployed, Shefi applies to herself a TP Regen bu
 
 **Skill 1: Viel Glück**
 no UE: Shefi deals 14967 physical damage to the nearest enemy and lowers the target's P.DEF by 144. This Skill's damage increases according to the number of Kennzeichen stacks. Uses up 1 Kennzeichen.
-
 **Skill 1+: Viel Glück+**
 w/ UE: Shefi deals 23199 physical damage to the nearest enemy, lowers the target's P.DEF by 213 and boosts her P.ATK by 1064. This Skill's damage and P.ATK buff potency increase according to the number of Kennzeichen stacks. Uses up 1 Kennzeichen.
 

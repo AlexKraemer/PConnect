@@ -12,7 +12,6 @@ Hatsune deals 107110 magical damage to all enemies but puts herself to Sleep. Th
 **Skill 1: Pom-pom Yell?Shoot**
 no UE: Hatsune deals 36473 magical damage to all enemies and recovers her TP by 310. The amount of TP recovered increases according to the number of enemies hit.
 【Post-S.Lv260】Damage increased (25202 → 36473), TP Recovery capped at 310.
-
 **Skill 1+: Pom-pom Yell?Shoot+**
 w/ UE: Hatsune deals 51110 magical damage to all enemies and recovers her TP by 310. The amount of damage dealt and TP recovered increases according to the number of enemies hit.
 【Post-S.Lv260】Damage increased (39330 → 51110), TP Recovery capped at 310.

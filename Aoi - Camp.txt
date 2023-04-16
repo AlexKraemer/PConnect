@@ -12,7 +12,6 @@ Aoi deals 52482 physical damage to all enemies, and further deals 78723 physical
 **Skill 1: Bush Shot**
 no UE: Aoi deals 23325 physical damage to all enemies, and further deals 46651 physical damage to all enemies in an area in front of her.
 
-
 **Skill 2: Precious Coffee**
 Aoi deploys a Barrier that negates up to 23940 physical and magical damage on herself and boosts her TP Fill Rate by 20.
 

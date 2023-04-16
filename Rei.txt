@@ -8,13 +8,11 @@ Overall: D
 
 **Union Burst: Slash Storm**
 Rei deals 152169 physical damage to the nearest enemy.
-
 **Union Burst (6★): Slash Tempest**
 Rei deals 371260 physical damage to the nearest enemy and clads herself in Blades of Wind. While Blades of Wind is active, all Skills are twice as potent.
 
 **Skill 1: Wind Thrust**
 no UE: Rei deals 50723 physical damage to the nearest enemy.
-
 **Skill 1+: Wind Thrust+**
 w/ UE: Rei deals 52920 physical damage to the nearest enemy and lowers the target's P.DEF by 160.
 

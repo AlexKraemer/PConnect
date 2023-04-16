@@ -8,13 +8,11 @@ Overall: A
 
 **Union Burst: Neko Neko Final Break**
 Tamaki deals 155344 physical damage to the enemy with the highest M.ATK.
-
 **Union Burst (6★): Neko Neko Phantom Rush**
 Tamaki deals 186386 physical damage to the enemy with the highest M.ATK. If the target can do magical attacks, damage dealt is increased to 380942 and Tamaki lowers the target's P.DEF by 364.
 
 **Skill 1: Neko Neko Throwing**
 no UE: Tamaki deals 38836 physical damage to the enemy with the highest M.ATK and lowers the target's M.ATK by 740.
-
 **Skill 1+: Neko Neko Throwing+**
 w/ UE: Tamaki deals 40137 physical damage to the enemy with the highest M.ATK, lowers the target's M.ATK by 1480 and afflicts the target with a Stun debuff.
 

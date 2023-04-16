@@ -11,7 +11,6 @@ Mahiru boosts the P.DEF of all allies by 243 and deploys a Barrier that negates 
 
 **Skill 1: Saint Harvest**
 no UE: Mahiru heals the ally with the lowest HP for 33856 HP and boosts the target's P.DEF by 296.
-
 **Skill 1+: Saint Harvest+**
 w/ UE: Mahiru heals the ally with the lowest HP for 34896 HP and boosts the target's P.DEF by 296. She also boosts the P.ATK of all allies by 8070, heals them for 7382 HP and recovers their TP by 100.
 

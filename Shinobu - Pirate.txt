@@ -13,7 +13,6 @@ If the target was afflicted with Ghost Anchor Seal, the damage dealt increases a
 **Skill 1: Soul Bind**
 no UE: Shinobu deals 56740 physical damage to the nearest enemy and lowers the target's P.DEF by 162. She also afflicts the target with 2 stacks of Ghost Anchor Seals.
 
-
 **Skill 2: Void Slash**
 Shinobu deals 56740 physical damage to the nearest enemy, boosts her P.ATK by 2421 and recovers her TP by 75.
 If the target was afflicted with Ghost Anchor Seal, the potency of the P.ATK buff and the amount of TP recovered increase according to the number of Ghost Anchor Seals (up to 3) and 3 Ghost Anchor Seals are used up.

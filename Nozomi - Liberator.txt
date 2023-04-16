@@ -12,7 +12,6 @@ Nozomi deals 97338 physical damage to the nearest enemy and lowers the target's 
 **Skill 1: Grow Elation**
 no UE: Nozomi boosts the P.ATK, P.Critical and P.Critical Damage of all allies that do physical attacks by 5054, 125 and 10% respectively.
 
-
 **Skill 2: Yell for Future**
 Nozomi boosts the P.ATK of all allies that do physical attacks by 4522 and recovers their TP by 65.
 After the start of the battle, the first usage of this Skill increases the TP Recovery to 520 and lowers all enemies' P.DEF by 80.

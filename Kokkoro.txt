@@ -8,13 +8,11 @@ Overall: D
 
 **Union Burst: Aurora**
 Kokkoro boosts the P.ATK and M.ATK of all allies by 1197 and heals herself for 21037 HP.
-
 **Union Burst (6★): Aurora Blooming**
 Kokkoro heals herself for 30958 HP, heals all allies for 12899 HP and boosts the P.ATK and M.ATK of all allies by 4788 and TP Fill Rate of all allies by 10.
 
 **Skill 1: Tri-Slash**
 no UE: Kokkoro deals 33872 physical damage to the nearest enemy.
-
 **Skill 1+: Tri-Slash+**
 w/ UE: Kokkoro deals 35028 physical damage to the nearest enemy, and boosts her P.ATK by 2926 and TP Fill Rate by 15.
 

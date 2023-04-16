@@ -11,7 +11,6 @@ Yui heals the party for 9015 HP and boosts their P.ATK by 2926. She also applies
 
 **Skill 1: Spiritual Brave**
 no UE: Yui boosts the P.ATK and P.Critical of all allies in an area around the ally with the highest P.ATK by 4788 and 50 respectively.
-
 **Skill 1+: Spiritual Brave+**
 w/ UE: Yui boosts the P.ATK, P.Critical and TP Fill Rate of all allies in an area around the ally with the highest P.ATK by 7182, 100 and 5 respectively.
 

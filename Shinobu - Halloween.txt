@@ -11,7 +11,6 @@ Shinobu deals 134018 physical damage to the enemy with the lowest remaining HP p
 
 **Skill 1: Wraith Weapon**
 no UE: Shinobu boosts her P.ATK by 5380.
-
 **Skill 1+: Wraith Weapon+**
 w/ UE: Shinobu boosts her P.ATK and P.Critical by 13450 and 150 respectively.
 

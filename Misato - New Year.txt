@@ -12,7 +12,6 @@ Misato applies a HP Regen buff that heals for 2125 HP per second to all allies a
 **Skill 1: Happy New Taste**
 no UE: Misato boost the P.ATK and P.Critical of all allies by 4788 and 50 respectively and recovers their TP by 100.
 
-
 **Skill 2: New Year Affection**
 Misato heals the ally with the lowest HP for 14875 HP and boosts the P.ATK, P.Critical Damage and M.DEF of all allies in an area the target by 5320, 16% and 320 respectively.
 

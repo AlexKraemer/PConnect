@@ -11,7 +11,6 @@ Rima transforms herself into a human form and boosts her P.ATK by 8070.
 
 **Skill 1: Mofumofu Smash**
 no UE: Rima deals 122679 physical damage to the nearest enemy.
-
 **Skill 1+: Mofumofu Smash+**
 w/ UE: Rima deals 318011 physical damage to the nearest enemy.
 

@@ -11,7 +11,6 @@ Nozomi boosts the P.DEF of all allies by 67. The amount boosted increases accord
 
 **Skill 1: Christmas Yell**
 no UE: Nozomi deploys Barriers that negate up to 2660 physical damage on all allies.
-
 **Skill 1+: Christmas Yell+**
 w/ UE: Nozomi heals herself for 1916 HP. She then deploys Barriers that negate up to 5320 physical damage on all allies, boost their P.DEF by 40, and applies to them a Regen that heals for 383 HP per second.
 The amount of HP she heals herself for, the P.DEF boosted and the amount of HP healed per second by the Regen increases according to the number of allies positioned behind her.

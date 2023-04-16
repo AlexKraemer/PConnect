@@ -12,7 +12,6 @@ If she had 90% and above remaining HP, she also boosts her P.ATK by 11172.
 
 **Skill 1: Daifuku Time**
 no UE: Pecorine boosts her P.ATK by 2394. If she had 80% and above remaining HP, she further boosts the P.ATK of all allies by 1330. The higher her remaining HP, the higher the potency of the buffs get.
-
 **Skill 1+: Daifuku Time+**
 w/ UE: Pecorine boosts her P.ATK by 2434. If she had 80% and above remaining HP, she further boosts the P.ATK of all allies by 1330. The higher her remaining HP, the higher the potency of the buffs get.
 If she had 90% and above remaining HP, she further recovers her TP by 270.

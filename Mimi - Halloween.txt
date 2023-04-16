@@ -11,7 +11,6 @@ Mimi deals 111666 physical damage to all enemies in an area in front of her.
 
 **Skill 1: Guruguru Attack**
 no UE: Mimi deals 75331 physical damage to all enemies in an area in front of her.
-
 **Skill 1+: Guruguru Attack+**
 w/ UE: Mimi deals 95610 physical damage to all enemies in an area in front of her.
 

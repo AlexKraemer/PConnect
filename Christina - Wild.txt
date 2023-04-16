@@ -12,7 +12,6 @@ Christina deals 123824 physical damage to all enemies in an area around the near
 **Skill 1: Rapid Rabbit**
 no UE: Christina deals 58653 physical damage to the nearest enemy and Pushes the target away by a large distance. She also deals 71688 physical damage to all enemies in an area around herself. This attack will always proc Critical.
 
-
 **Skill 2: Elevation**
 Christina dodges all physical attacks for a duration. She also boosts her P.ATK by 8070.
 

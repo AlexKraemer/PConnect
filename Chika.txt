@@ -8,14 +8,12 @@ Overall: D
 
 **Union Burst: Sylphid Breath**
 Chika heals all allies in front of her for 9987 HP and summons a Sylph next to the frontmost ally.
-
 **Union Burst (6★): Sylphid Orchestra**
 Chika heals all allies for 14766 HP, boosts their P.ATK and P.Critical Damage by 6384 and 28% respectively and applies to them a Regen buff that heals for 718 HP per second.
 She also summons a Sylph next to the frontmost ally.
 
 **Skill 1: Cheer Song**
 no UE: Chika boosts the P.ATK of all allies in an area around the frontmost ally by 2128.
-
 **Skill 1+: Cheer Song+**
 w/ UE: Chika boosts the P.ATK and P.Critical of all allies in an area around the frontmost ally by 4788 and 50 respectively, and applies a Regen that heals for 1238 HP per second on them.
 

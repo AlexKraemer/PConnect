@@ -11,7 +11,6 @@ Rino boosts her P.Critical by 150 and deals 67762 physical damage to all enemies
 
 **Skill 1: Blessing Wreath**
 no UE: Rino boosts the P.ATK and P.Critical of all allies in an area around her by 2660 and 50 respectively.
-
 **Skill 1+: Blessing Wreath+**
 w/ UE: Rino deploys a Field around herself that heals all allies within it for 1677 HP per second and boost the P.ATK and P.Critical of all allies in an area around her by 6650 and 70 respectively.
 

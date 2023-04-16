@@ -11,7 +11,6 @@ Jun deals 150437 physical damage to the nearest enemy and boosts her P.ATK by 84
 
 **Skill 1: Heat Spike**
 no UE: Jun deals 47196 physical damage to the nearest enemy and afflicts the target with a Burn debuff that deals 1614 damage per second. The Burn damage increases with Jun's P.ATK.
-
 **Skill 1+: Heat Spike+**
 w/ UE: Jun boosts her P.ATK by 1614, deals 83118 physical damage to the nearest enemy and afflicts the target with a Burn debuff that deals 2421 damage per second. The Burn damage increases with Jun's P.ATK.
 

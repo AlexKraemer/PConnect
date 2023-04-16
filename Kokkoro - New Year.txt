@@ -11,7 +11,6 @@ Kokkoro heals herself for 10309 HP, applies a Regen buff that heals for 2168 HP 
 
 **Skill 1: Spirit Wall**
 no UE: Kokkoro deploys a Barrier on herself that absorbs up to 4389 physical and magical damage and Taunts all enemies.
-
 **Skill 1+: Spirit Wall+**
 w/ UE: Kokkoro deploys a Barrier on herself that absorbs up to 5320 physical and magical damage, boosts the P.ATK of all allies by 3591 and Taunts all enemies.
 

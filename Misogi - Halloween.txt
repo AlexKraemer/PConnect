@@ -11,7 +11,6 @@ Misogi sets up bombs on all enemies in front of her, which blow up after 5 secon
 
 **Skill 1: Painting Kick**
 no UE: Misogi deals 40501 physical damage to all enemies in an area around the nearest enemy.
-
 **Skill 1+: Painting Kick+**
 w/ UE: Misogi deals 41368 physical damage to all enemies in an area around the nearest enemy and lowers their P.ATK by 1463. This Skill does 3 times damage instead of 2 times when doing Critical hits.
 

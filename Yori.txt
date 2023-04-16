@@ -8,13 +8,11 @@ Overall: A
 
 **Union Burst: Lightning Javelin**
 Yori deals 48129 magical damage to all enemies in an area in front of her.
-
 **Union Burst (6★): Judgment Javelin**
 Yori deals 107335 magical damage to all enemies in an area in front of her. The damage dealt increases the lower Yori's HP is.
 
 **Skill 1: Overcharge**
 no UE: Yori uses up 18058 HP and boosts her M.ATK by 5320.
-
 **Skill 1+: Overcharge+**
 w/ UE: Yori uses up 18058 HP, boosts her M.ATK by 13340 and recovers her TP by 360.
 【Post-S.Lv260】M.ATK buff increased (13300 → 13340), TP recovery capped at 360.

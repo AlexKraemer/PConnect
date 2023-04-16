@@ -8,13 +8,11 @@ Overall: C
 
 **Union Burst: Arrow Rain**
 Rino deals 53120 physical damage to all enemies in an area in front of her.
-
 **Union Burst (6★): Corona Rain**
 Rino deals 85443 physical damage to all enemies in an area in front of her. This Skill does 3.5 times damage instead of 2 times when it procs a Critical hit.
 
 **Skill 1: Concentration**
 no UE: Rino boosts her P.ATK and P.Critical by 3990 and 45 respectively.
-
 **Skill 1+: Concentration+**
 w/ UE: Rino boosts her P.ATK by 5320, P.Critical by 75 and Action Speed by a large amount (80%).
 

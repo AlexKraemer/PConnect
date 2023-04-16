@@ -8,14 +8,12 @@ Overall: S
 
 **Union Burst: Elizabeth**
 Mahiru deals 110394 physical damage to the nearest enemy and afflicts the target with a Stun debuff.
-
 **Union Burst (6★): Elizabeth Combination**
 Mahiru deals 207721 physical damage to the nearest enemy, afflicts the target with a Stun debuff, pushes away the target by a large distance,
 deals a further 71404 physical damage to all enemies in an area around the target and afflicts them with a Confusion debuff.
 
 **Skill 1: Milk Tank Attack**
 no UE: Mahiru deals 22078 physical damage to the nearest enemy and pushes the target away by a small distance.
-
 **Skill 1+: Milk Tank Attack+**
 w/ UE: Mahiru deals 53630 physical damage to the nearest enemy, afflicts the target with a Confusion debuff and pushes the target away by a large distance.
 

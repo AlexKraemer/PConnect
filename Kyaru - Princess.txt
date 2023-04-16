@@ -11,7 +11,6 @@ Kyaru deals 482529 magical damage to the nearest enemy.
 
 **Skill 1: Calamity Thunder**
 no UE: Kyaru deals 26807 magical damage to the nearest enemy and lowers the target's M.DEF by 200.
-
 **Skill 1+: Calamity Thunder+**
 w/ UE: Kyaru deals 55356 magical damage to the nearest enemy, lowers the target's M.DEF by 266 and afflicts the target with a debuff that increases Critical damage taken by 10%.
 She also boosts her M.ATK by 2128 and recovers her TP by 350. The potency of the M.ATK buff goes up with the damage dealt by this Skill.

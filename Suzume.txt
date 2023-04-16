@@ -8,13 +8,11 @@ Overall: B
 
 **Union Burst: Wind Stream**
 Suzume deals 32094 magical damage to all enemies in an area in front of her and lowers their P.DEF by 115 or 230.
-
 **Union Burst (6★): Sweep Cyclone**
 Suzume deals 80569 magical damage to all enemies in an area in front of her and lowers their P.DEF and M.DEF by 269.
 
 **Skill 1: Wind Blast**
 no UE: Suzume deals 21396 magical damage to all enemies in an area in front of her.
-
 **Skill 1+: Wind Blast+**
 w/ UE: Suzume deals 37326 magical damage to all enemies in an area in front of her and lowers their P.DEF and M.DEF by 95.
 

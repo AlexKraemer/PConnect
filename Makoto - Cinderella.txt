@@ -12,7 +12,6 @@ The potency of the P.ATK buff goes up according to the number of allies within t
 
 **Skill 1: Chivalric Order**
 no UE: Makoto boosts the P.ATK of all allies in an area around her by 861. The potency of the buff goes up according to the number of allies within the area.
-
 **Skill 1+: Chivalric Order+**
 w/ UE: Makoto boosts the P.ATK of all allies in an area around her by 861 and boosts her P.ATK by 1292. The potency of the buffs goes up according to the number of allies within the area.
 

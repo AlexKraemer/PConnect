@@ -11,7 +11,6 @@ Mahiru deals 59561 physical damage to all enemies in an area in front of her and
 
 **Skill 1: No Milk No Life**
 no UE: Mahiru boosts her P.ATK by 4842 and applies to herself a TP Regen that recovers TP by 15 per second.
-
 **Skill 1+: No Milk No Life+**
 w/ UE: Mahiru boosts her P.ATK and P.Critical by 4842 and 50 respectively and applies to herself a TP Regen that recovers TP by 15 per second.
 The potency of the P.ATK and P.Critical buffs increase with the number of enemies.

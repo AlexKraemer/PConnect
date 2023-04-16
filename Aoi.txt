@@ -8,14 +8,12 @@ Overall: S
 
 **Union Burst: Twist Vine**
 Aoi deals 41891 physical damage to all enemies in an area around the nearest enemy.
-
 **Union Burst (6★): Venom Blooming**
 Aoi deals 48471 physical damage to all enemies in an area around the nearest enemy and afflicts them with a Poison debuff that deals 997 damage per second.
 If the target was already Poisoned, this Skill does 161572 physical damage to the target instead and afflicts the target with a Toxic debuff that does 7448 damage per second.
 
 **Skill 1: Poison Arrow**
 no UE: Aoi deals 34909 physical damage to the nearest enemy and afflicts the target with a Poison debuff that does 598 damage per second.
-
 **Skill 1+: Poison Arrow+**
 w/ UE: Aoi deals 35949 physical damage to the nearest enemy and afflicts the target with a Poison debuff that does 997 damage per second. 
 If the target was already afflicted with Poison, this Skill does 119832 physical damage instead and afflicts the target with a Toxic debuff that does 7448 damage per second.

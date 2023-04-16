@@ -12,7 +12,6 @@ Yui deals 80798 magical damage to all enemies.
 **Skill 1: Twinkle Boost**
 no UE: Yui recovers her TP by 450, boosts her M.ATK, M.Critical and M.Critical Damage by 2138, 25 and 5% respectively.
 【Post-S.Lv260】M.ATK buff increased (2128 → 2138), TP Recovery capped at 450.
-
 **Skill 1+: Twinkle Boost+**
 w/ UE: Yui recovers her TP by 540, boosts her M.ATK, M.Critical and M.Critical Damage by 2138, 25 and 5% respectively. The potencies of the M.ATK and M.Critical Damage buffs go up every time Yui uses this Skill (up to 5 times).
 【Post-S.Lv260】M.ATK buff increased (2128 → 2138), TP Recovery capped at 540.

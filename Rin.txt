@@ -11,7 +11,6 @@ Rin deals 46501 physical damage to the nearest enemy and deploys a Barrier that 
 
 **Skill 1: Lazur Leo**
 no UE: Rin deals 11625 physical damage to all enemies in an area in front of her, lowers their P.DEF and M.DEF by 81 and Taunts all enemies.
-
 **Skill 1+: Lazur Leo+**
 w/ UE: Rin deals 23250 physical damage to all enemies in an area in front of her, lowers their P.DEF and M.DEF by 122, Taunts all enemies and boosts her P.DEF and M.DEF by 216.
 

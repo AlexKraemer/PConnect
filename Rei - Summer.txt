@@ -12,7 +12,6 @@ Rei deals 168865 and applies to herself 7 stacks of Water Blade Blessing (up to 
 **Skill 1: Raging Flood**
 no UE: Rei boosts the P.ATK of all allies in an area around herself by 6384 and deals 27018 to the nearest enemy. The potency of the P.ATK buff and the damage dealt by this Skill increase according to the number of Water Blade Blessing stacks. Uses up 1 stack of Water Blade Blessing.
 
-
 **Skill 2: Azul Shot**
 Rei deals 64168 to the nearest enemy and afflicts the target with a debuff that increases the amount of damage taken from Critical attacks by 16%. The damage dealt by this Skill increases according to the number of Water Blade Blessing stacks. Uses up 1 stack of Water Blade Blessing.
 

@@ -13,7 +13,6 @@ If there is only one remaining target, Makoto deals 174885 physical damage inste
 **Skill 1: Aqua Crossing**
 no UE: Makoto deals 56178 physical damage to the nearest enemy.
 If there is only one remaining target, Makoto deals an additional 28089 physical damage and lowers the target's P.DEF by 81.
-
 **Skill 1+: Aqua Crossing+**
 w/ UE: Makoto deals 58218 physical damage to the nearest enemy.
 If there is only one remaining target, Makoto deals an additional 58218 physical damage, lowers the target's P.DEF by 135 and boosts her P.ATK by 1345.

@@ -12,7 +12,6 @@ Ayane deals 135230 physical damage to all enemies in an area in front of her and
 **Skill 1: Puukichi Chopping**
 no UE: Ayane deals 101422 physical damage to all enemies in an area in front of her.
 
-
 **Skill 2: Puukichi Embrace**
 Ayane boosts the P.ATK and P.Critical of all allies in an area around her by 4304 and 80 respectively.
 

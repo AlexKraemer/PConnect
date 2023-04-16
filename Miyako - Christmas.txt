@@ -13,7 +13,6 @@ Miyako deals 129634 physical damage to the nearest enemy and lowers the target's
 **Skill 1: Yukidaruma ni shite yaru no**
 no UE: Miyako deals 29167 physical damage to the nearest enemy and boosts her P.ATK by 5380.
 【When Field is active】The damage dealt increases to 58335 and Miyako boosts the P.ATK of all allies around her by 5380.
-
 **Skill 1+: Yukidaruma ni shite yaru no+**
 w/ UE: Miyako deals 60677 physical damage to the nearest enemy, boosts her P.ATK by 5380 and recovers the TP of all allies around herself by 80.
 【When Field is active】The damage dealt increases to 121354 and Miyako boosts the P.ATK of all allies around her by 5380 and recovers their TP by 80.

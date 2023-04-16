@@ -11,7 +11,6 @@ Tomo deals 235263 magical damage to the nearest enemy based on both her P.ATK an
 
 **Skill 1: Shiny Blade**
 no UE: Tomo deals 76114 magical damage to the nearest enemy based on both her P.ATK and M.ATK combined.
-
 **Skill 1+: Shiny Blade+**
 w/ UE: Tomo boosts her P.ATK and M.Critical by 5380 and 600 respectively for a short period and deals 142438 magical damage to the nearest enemy based on both her P.ATK and M.ATK combined.
 

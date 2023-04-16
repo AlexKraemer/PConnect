@@ -8,13 +8,11 @@ Overall: C
 
 **Union Burst: Princess Strike**
 Pecorine deals 44652 physical damage to the nearest enemy and boosts her P.DEF and M.DEF by 479.
-
 **Union Burst (6★): Princess Valiant**
 Pecorine deals 105278 physical damage to the nearest enemy, boosts her P.DEF and M.DEF by 639 and P.ATK by 2660. The higher Pecorine's remaining HP is, the stronger the P.ATK buff.
 
 **Skill 1: Lunch Time**
 no UE: Pecorine boosts her M.DEF by 213, and heals herself for 16610 HP.
-
 **Skill 1+: Lunch Time+**
 w/ UE: Pecorine boosts her M.DEF by 266, heals herself for 20996 HP and deploys a Barrier that absorbs up to 5985 physical and magical damage on herself.
 

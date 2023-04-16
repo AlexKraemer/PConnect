@@ -8,13 +8,11 @@ Overall: A
 
 **Union Burst: Raging Floater**
 Kyaru deals 165200 magical damage to the nearest enemy.
-
 **Union Burst (6★): Summerful Floater**
 Kyaru deals 205555 magical damage to the nearest enemy and lowers the target's M.DEF by 80. If the target was already afflicted with M.DEF debuff, Kyaru deals a further 131980 magical damage to the target.
 
 **Skill 1: Water Bullet**
 no UE: Kyaru deals 53076 magical damage to the nearest enemy.
-
 **Skill 1+: Water Bullet+**
 w/ UE: Kyaru deals 82564 magical damage to the nearest enemy and lowers the target's M.DEF by 160.
 

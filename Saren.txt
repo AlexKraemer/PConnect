@@ -8,13 +8,11 @@ Overall: C
 
 **Union Burst: Sword of Sonic**
 Saren deals 42498 physical damage to all enemies in an area in front of her. The lower Saren's HP is, the higher the damage..
-
 **Union Burst (6★): End of Phoenix**
 Saren deals 86941 physical damage to all enemies in an area in front of her and boosts the P.ATK and M.ATK of all allies by 4708. The lower Saren's HP is, the higher the damage and buff amounts.
 
 **Skill 1: Fire Slash**
 no UE: Saren deals 21249 physical damage to all enemies in an area in front of her.
-
 **Skill 1+: Fire Slash+**
 w/ UE: Saren deals 28129 physical damage to all enemies in an area in front of her. The lower Saren's HP is, the higher the damage.
 

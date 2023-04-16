@@ -12,7 +12,6 @@ Kurumi boosts the P.ATK of all allies that do physical attacks by 2152. The high
 **Skill 1: Tiny Yell**
 no UE: Kurumi recovers her TP by 144 and applies a Regen buff that heals for 1241 HP per second and a TP Regen buff that recovers 10 TP per second to all allies that do physical attacks.
 【Post-S.Lv260】Regen heal increased (986 → 1241), TP Recovery capped at 144.
-
 **Skill 1+: Tiny Yell+**
 w/ UE: Kurumi boosts the P.Critical of all allies that do physical attacks by 50 and applies to them a Regen buff that heals for 1293 HP per second and a TP Regen buff that recovers 10 TP per second.
 The higher Kurumi's remaining HP is, the higher the potency of the Regen and TP Regen buffs (TP Regen buff goes up to 1.4x).

@@ -12,7 +12,6 @@ Yori deals 45602 magical damage to the enemy with the highest TP and lowers the 
 
 **Skill 1: Angel Attention**
 no UE: Yori applies Taunt to the ally with the highest remaining HP among allies in front of her and boosts the target's P.DEF and M.DEF by 373.
-
 **Skill 1+: Angel Attention+**
 w/ UE: Yori applies Taunt to the ally with the highest remaining HP among allies in front of her and boosts the target's P.DEF and M.DEF by 559, P.ATK and M.ATK by 3325 and applies to the target a Regen buff that heals for 1940 HP per second.
 

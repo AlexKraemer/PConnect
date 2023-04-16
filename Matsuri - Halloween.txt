@@ -11,7 +11,6 @@ Matsuri deals 123435 physical damage to the nearest enemy and boosts her Action 
 
 **Skill 1: Hollow Tiger Claw**
 no UE: Matsuri deals 41145 physical damage to the nearest enemy. This Skill's damage goes up whenever she uses UB (caps out at 4 times).
-
 **Skill 1+: Hollow Tiger Claw+**
 w/ UE: Matsuri deals 84206 physical damage to the nearest enemy and boosts her P.ATK by 2152. She also recovers her TP by 180.
 This Skill's damage and P.ATK buff potency goes up whenever she uses UB (caps out at 4 times).

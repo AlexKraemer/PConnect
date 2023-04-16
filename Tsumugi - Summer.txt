@@ -11,7 +11,6 @@ Tsumugi deals 90979 physical damage to the nearest enemy and lowers the target's
 
 **Skill 1: Splash String**
 no UE: Tsumugi deals 26184 physical damage to the nearest enemy and afflicts the target with a Bind debuff.
-
 **Skill 1+: Splash String+**
 w/ UE: Tsumugi deals 54345 physical damage to the enemy with the highest P.ATK or M.ATK (whichever is higher), afflicts the target with a Bind debuff and lowers the target's TP by 150.
 

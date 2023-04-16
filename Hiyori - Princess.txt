@@ -11,7 +11,6 @@ Hiyori deals 172310 physical damage to the nearest enemy and lowers the target's
 
 **Skill 1: Twinkle Brave**
 no UE: Hiyori boosts her P.ATK, P.Critical and P.Critical Damage by 3325, 25 and 5% respectively.
-
 **Skill 1+: Twinkle Brave+**
 w/ UE: Hiyori boosts her P.ATK, P.Critical and P.Critical Damage by 4788, 40 and 10% respectively and recovers her TP by 100.
 

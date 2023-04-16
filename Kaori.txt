@@ -8,13 +8,11 @@ Overall: B
 
 **Union Burst: Ryuukyuuken Knuckle Arrow**
 Kaori deals 167205 physical damage to the nearest enemy.
-
 **Union Burst (6★): Shin Ryuukyuuken Knuckle Dash**
 Kaori boosts her P.ATK by 4035 and deals 606492 physical damage to the nearest enemy.
 
 **Skill 1: Seichuusen Tsuki**
 no UE: Kaori deals 55735 physical damage to the nearest enemy.
-
 **Skill 1+: Seichuusen Tsuki+**
 w/ UE: Kaori deals 83581 physical damage to the nearest enemy.
 

@@ -11,7 +11,6 @@ Aoi deploys a Field (250 AoE) around the furthest enemy that applies a Poison de
 
 **Skill 1: Poisonous Bullet**
 no UE: Aoi deals 6426 physical damage to all enemies in an area around the nearest enemy, applies a Poison debuff to them that deals 997 damage per second and lowers their P.DEF by 133.
-
 **Skill 1+: Poisonous Bullet+**
 w/ UE: Aoi deals 22576 physical damage to all enemies in an area around the nearest target, applies a Poison debuff to them that deals 1596 damage per second and lowers their P.DEF by 133.
 If the target was already afflicted with Poison, Aoi also deals 56157 physical damage to them.

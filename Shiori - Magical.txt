@@ -11,7 +11,6 @@ Shiori boosts the P.ATK of all allies by 8070.
 
 **Skill 1: Purely Aiming**
 no UE: Shiori boosts the P.ATK and P.Critical of allies in an area around her by 2690 and 60 respectively.
-
 **Skill 1+: Purely Aiming+**
 w/ UE: Shiori boosts the P.ATK and P.Critical of all allies in an area around her by 4035 and 75 respectively, and also boosts their P.Critical Damage by 10%.
 

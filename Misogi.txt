@@ -8,13 +8,11 @@ Overall: E
 
 **Union Burst: Trick Bomber**
 Misogi deals 42548 physical damage to all enemies in an area around the 2nd nearest enemy.
-
 **Union Burst (6★): Trick Heart**
 Misogi deals 68875 damage to all enemies and lowers their P.ATK and P.Critical by 7980 and 433 respectively. She also lowers their damage when doing physical critical attacks by 25%.
 
 **Skill 1: Ink Shooter**
 no UE: Misogi deals 15877 physical damage to the 2nd nearest enemy and afflicts the target with a Darkness debuff.
-
 **Skill 1+: Ink Shooter+**
 w/ UE: Misogi deals 43534 physical damage to the 2nd nearest enemy and afflicts the target with a Darkness debuff. She also lowers the P.ATK of all enemies in an area by 1330.
 
