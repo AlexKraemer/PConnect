@@ -1,4 +1,3 @@
-**Tsumugi - Summer (1★)**
 Details:
 Arena: ATK - D, DEF - D
 CB: ST - D, Multi - B

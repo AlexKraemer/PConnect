@@ -1,4 +1,3 @@
-**Akino (3★)**
 Details:
 Arena: ATK - C, DEF - D
 CB: ST - B, Multi - C

@@ -1,4 +1,3 @@
-**Kaiser Insight (3★)**
 Details:
 Arena: ATK - A, DEF - A
 CB: ST - N/A, Multi - N/A

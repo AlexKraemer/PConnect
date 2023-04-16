@@ -1,4 +1,3 @@
-**Yukari - Camp (3★)**
 Details:
 Arena: ATK - D, DEF - D
 CB: ST - C, Multi - C

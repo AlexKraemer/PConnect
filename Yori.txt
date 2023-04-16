@@ -1,4 +1,3 @@
-**Yori (1★)**
 Details:
 Arena: ATK - C, DEF - B
 CB: ST - S, Multi - B

@@ -1,4 +1,3 @@
-**Suzume (1★)**
 Details:
 Arena: ATK - A, DEF - SS
 CB: ST - D, Multi - D

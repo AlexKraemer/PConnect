@@ -1,4 +1,3 @@
-**Nanaka (2★)**
 Details:
 Arena: ATK - S, DEF - D
 CB: ST - D, Multi - D

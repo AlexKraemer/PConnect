@@ -1,4 +1,3 @@
-**Kasumi - Magical (3★)**
 Details:
 Arena: ATK - A, DEF - S
 CB: ST - N, Multi - N

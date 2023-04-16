@@ -1,4 +1,3 @@
-**Io (3★)**
 Details:
 Arena: ATK - C/S, DEF - C
 CB: ST - N/A, Multi - N/A

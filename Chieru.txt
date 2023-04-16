@@ -1,4 +1,3 @@
-**Chieru (3★)**
 Details:
 Arena: ATK - C, DEF - E
 CB: ST - E, Multi - E

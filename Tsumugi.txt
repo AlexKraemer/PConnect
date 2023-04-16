@@ -1,4 +1,3 @@
-**Tsumugi (2★)**
 Details:
 Arena: ATK - C, DEF - C
 CB: ST - D, Multi - D

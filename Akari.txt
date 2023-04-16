@@ -1,4 +1,3 @@
-**Akari (2★)**
 Details:
 Arena: ATK - D, DEF - D
 CB: ST - D, Multi - D

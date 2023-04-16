@@ -1,4 +1,3 @@
-**Aoi - Camp (1★)**
 Details:
 Arena: ATK - D, DEF - D
 CB: ST - N/A, Multi - D

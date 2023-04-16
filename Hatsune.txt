@@ -1,4 +1,3 @@
-**Hatsune (3★)**
 Details:
 Arena: ATK - C, DEF - B
 CB: ST - N/A, Multi - N

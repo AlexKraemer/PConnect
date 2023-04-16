@@ -1,4 +1,3 @@
-**Kurumi (1★)**
 Details:
 Arena: ATK - S, DEF - SS
 CB: ST - N/A, Multi - N/A

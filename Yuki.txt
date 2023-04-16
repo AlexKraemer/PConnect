@@ -1,4 +1,3 @@
-**Yuki (2★)**
 Details:
 Arena: ATK - A, DEF - D
 CB: ST - SS, Multi - SS

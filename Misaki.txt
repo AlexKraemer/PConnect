@@ -1,4 +1,3 @@
-**Misaki (1★)**
 Details:
 Arena: ATK - B, DEF - B
 CB: ST - N/A, Multi - N/A

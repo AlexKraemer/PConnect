@@ -1,4 +1,3 @@
-**Djeeta (3★)**
 Details:
 Arena: ATK - B, DEF - B
 CB: ST - SS, Multi - SS

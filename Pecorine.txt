@@ -1,4 +1,3 @@
-**Pecorine (1★)**
 Details:
 Arena: ATK - C, DEF - A
 CB: ST - N/A, Multi - N/A
