@@ -14,6 +14,8 @@ Hatsune deals 85170 magical damage to all enemies that do physical attacks, lowe
 
 **Skill 1: Psycho?Blast**
 no UE: Hatsune deals 50009 magical damage to the enemy with the highest P.ATK.
+
+**Skill 1+: Psycho?Blast+**
 w/ UE: Hatsune deals 58417 magical damage to the enemy with the highest P.ATK and lowers the target's M.DEF by 54.
 
 **Skill 2: Star?Light**

@@ -14,6 +14,8 @@ Shizuru deals 172555 physical damage to the nearest enemy. She then boosts the P
 
 **Skill 1: Saint Heal**
 no UE: Shizuru heals the ally with the lowest HP for 18411 HP.
+
+**Skill 1+: Saint Heal+**
 w/ UE: Shizuru heals the ally with the lowest HP for 19336 HP and boosts the target's P.DEF by 213.
 
 **Skill 2: Protection**

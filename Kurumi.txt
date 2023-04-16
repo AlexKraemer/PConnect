@@ -15,6 +15,8 @@ She also greatly boosts the party's P.DEF and M.DEF by 296 and applies a Regen t
 
 **Skill 1: Bravely Bell**
 no UE: Kurumi boosts the P.DEF and M.DEF of all allies by 101.
+
+**Skill 1+: Bravely Bell+**
 w/ UE: Kurumi boosts the P.DEF and M.DEF of all allies by 202 and recovers their TP by 50.
 
 **Skill 2: Bell Vibrato**

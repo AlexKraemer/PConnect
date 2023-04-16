@@ -14,6 +14,8 @@ Hiyori deals 183048 physical damage to the nearest enemy, deals a further 137286
 
 **Skill 1: Cat Strike**
 no UE: Hiyori deals 49980 physical damage to the nearest enemy.
+
+**Skill 1+: Cat Strike+**
 w/ UE: Hiyori deals 52155 physical damage to the nearest enemy, deals a further 23469 physical damage to all enemies in a small area around her.
 
 **Skill 2: Cat Combination**

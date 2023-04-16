@@ -15,6 +15,8 @@ Dokuro-Oyaji's status go up when summoned while Spiritual Powers is active.
 
 **Skill 1: Phantom Call**
 no UE: Shinobu summons a skull in front of her that attacks the nearest enemy.
+
+**Skill 1+: Phantom Call+**
 w/ UE: Shinobu summons a skull in front of her that attacks the nearest enemy, and also boosts the P.ATK and P.Critical of allies in an area around her by 3192 and 50 respectively.
 
 **Skill 2: Weak Wraith**

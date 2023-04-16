@@ -11,6 +11,8 @@ Suzume heals all allies for 8580 HP and boosts their Action Speed by a large amo
 
 **Skill 1: Gashun Senpuu**
 no UE: Suzume deals 20158 magical damage to the furthest enemy and pushes the target away by a large distance.
+
+**Skill 1+: Gashun Senpuu+**
 w/ UE: Suzume deals 21477 magical damage to all enemies in an area around the furthest enemy, pushes them away by a large distance and afflicts them with a Stun debuff.
 The Stun duration increases with the number of targets.
 

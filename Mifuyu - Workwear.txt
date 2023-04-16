@@ -11,6 +11,8 @@ Mifuyu deals 144242 physical damage to the nearest enemy and boosts her P.Critic
 
 **Skill 1: Heavy Tool**
 no UE: Mifuyu deals 54090 physical damage to the nearest enemy.
+
+**Skill 1+: Heavy Tool+**
 w/ UE: Mifuyu deals 110802 physical damage to the nearest enemy, boosts her P.ATK by 6994 and recovers her TP by 350.
 
 **Skill 2: Modification**

@@ -15,6 +15,8 @@ Akino deals 392834 physical damage to the nearest enemy, deploys a Physical Dama
 **Skill 1: Proud Slash**
 no UE: Akino deals 34198 physical damage to the nearest enemy and boosts her P.ATK by 1480.
 If she gets attacked while laughing afterwards, she counterattacks and deals 22798 physical damage to enemies in an area in front of her.
+
+**Skill 1+: Proud Slash+**
 w/ UE: Akino deals 35238 physical damage to the nearest enemy, boosts her P.ATK and TP Fill Rate by 4035 and 15 respectively and Taunts.
 If she gets attacked while laughing afterwards, she counterattacks and deals 70477 physical damage to enemies in an area in front of her.
 

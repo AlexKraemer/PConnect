@@ -12,6 +12,7 @@ Misogi deals 62947 physical damage to all enemies in an area around the furthest
 **Skill 1: Summer Splash Bomb**
 no UE: Misogi deals 31473 physical damage to all enemies in an area in front of her and lowers their TP by 150.
 
+
 **Skill 2: Tropical Sunshine**
 Misogi deals 31473 physical damage to the nearest enemy and afflicts the target with a Stun debuff. She also lowers the target's P.DEF by 107.
 

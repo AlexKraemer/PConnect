@@ -11,6 +11,8 @@ Yui deploys Barriers that negate up to 11970 physical and magical damage and app
 
 **Skill 1: Weakness Petal**
 no UE: Yui lowers the 2nd nearest enemy's P.ATK and M.ATK by 1463.
+
+**Skill 1+: Weakness Petal+**
 w/ UE: Yui lowers the 2nd nearest enemy's P.ATK and M.ATK by 1463, M.DEF by 213 and TP Fill Rate by 30.
 
 **Skill 2: Blooming Cheers**

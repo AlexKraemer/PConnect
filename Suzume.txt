@@ -14,6 +14,8 @@ Suzume deals 80569 magical damage to all enemies in an area in front of her and 
 
 **Skill 1: Wind Blast**
 no UE: Suzume deals 21396 magical damage to all enemies in an area in front of her.
+
+**Skill 1+: Wind Blast+**
 w/ UE: Suzume deals 37326 magical damage to all enemies in an area in front of her and lowers their P.DEF and M.DEF by 95.
 
 **Skill 2: Maid Yell**

@@ -11,6 +11,8 @@ Kyouka lowers the nearest enemy's M.DEF by 213 and boosts the M.ATK of all allie
 
 **Skill 1: Magical Trick**
 no UE: Kyouka boosts the M.ATK of the ally with the highest M.ATK by 3990. The higher Kyouka's M.ATK is, the higher this boost gets.
+
+**Skill 1+: Magical Trick+**
 w/ UE: Kyouka boosts the M.ATK of the ally with the highest M.ATK by 5985. The higher Kyouka's M.ATK is, the higher this boost gets.
 
 **Skill 2: Magical Treat**

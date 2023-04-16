@@ -11,6 +11,8 @@ Tsumugi deals 52733 physical damage to the enemy with the highest P.ATK and lowe
 
 **Skill 1: Tailored Halloween**
 no UE: Tsumugi deploys a Barrier on her that negates up to 19950 physical damage, and boosts her P.DEF by 333.
+
+**Skill 1+: Tailored Halloween+**
 w/ UE: Tsumugi deploys a Barrier on her that negates up to 23940 physical damage, boosts her P.DEF by 399 and applies to herself a Regen buff that heals for 2763 HP per second.
 
 **Skill 2: Fear Attention**

@@ -11,6 +11,8 @@ Shizuru deals 28653 physical damage to all enemies in an area in front of her an
 
 **Skill 1: Blue Waving**
 no UE: Shizuru deals 11461 physical damage to all enemies in an area in front of her, boosts her P.DEF by 360 and heals herself for 1687 HP. The damage dealt and amount healed go up according to Shizuru's P.DEF.
+
+**Skill 1+: Blue Waving+**
 w/ UE: Shizuru deals 29629 physical damage to all enemies in an area in front of her, boosts her P.DEF by 360, heals herself for 4349 HP and boosts the P.ATK of all allies by 1330. The damage dealt, amount healed and the potency of the P.ATK buff go up according to Shizuru's P.DEF.
 
 **Skill 2: Sun Flowery**

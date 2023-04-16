@@ -12,6 +12,7 @@ Rei deals 79634 physical damage to all enemies in an area in front of her. The m
 **Skill 1: Twinkle Edge**
 no UE: Rei boosts her P.ATK and P.Critical by 2660 and 50 respectively, and also boosts her P.Critical Damage by 8%. The Skill's potency goes up according to the number of enemies.
 
+
 **Skill 2: Rampage Slash**
 Rei deals 39817 physical damage to all enemies in an area in front of her and boosts her P.ATK by 1330. The P.ATK boost goes up according to the number of enemies hit.
 

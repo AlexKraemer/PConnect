@@ -14,6 +14,8 @@ Misogi deals 68875 damage to all enemies and lowers their P.ATK and P.Critical b
 
 **Skill 1: Ink Shooter**
 no UE: Misogi deals 15877 physical damage to the 2nd nearest enemy and afflicts the target with a Darkness debuff.
+
+**Skill 1+: Ink Shooter+**
 w/ UE: Misogi deals 43534 physical damage to the 2nd nearest enemy and afflicts the target with a Darkness debuff. She also lowers the P.ATK of all enemies in an area by 1330.
 
 **Skill 2: Water Balloon**

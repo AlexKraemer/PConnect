@@ -11,6 +11,8 @@ Tamaki deals 129441 physical damage to the nearest enemy and boosts her P.ATK by
 
 **Skill 1: Fish Edge**
 no UE: Tamaki deals 61314 physical damage to the nearest enemy.
+
+**Skill 1+: Fish Edge+**
 w/ UE: Tamaki deals 127312 physical damage to the nearest enemy and boosts the P.ATK of all allies by 8608. She also boosts her TP Fill Rate by 10 and recovers her TP by 225.
 
 **Skill 2: Neko no Omotenashi**

@@ -11,6 +11,8 @@ Makoto deals 125883 physical damage to the nearest enemy and lowers the target's
 
 **Skill 1: Hard Slash**
 no UE: Makoto deals 55948 physical damage to the nearest enemy.
+
+**Skill 1+: Hard Slash+**
 w/ UE: Makoto deals 72825 physical damage to the nearest enemy and boosts her P.ATK by 2018.
 
 **Skill 2: Brave Howling**

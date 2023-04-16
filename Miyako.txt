@@ -14,6 +14,8 @@ Miyako deals 116407 physical damage to the nearest enemy, heals herself for 2411
 
 **Skill 1: U~ra~me~shi~ya nano**
 no UE: Miyako transforms into a ghost and gains invincibility for a short period.
+
+**Skill 1+: U~ra~me~shi~ya nano+**
 w/ UE: Miyako transforms into a ghost and gains invincibility for a short period. She also boosts her Evasion and P.DEF by 27 and 323 respectively.
 
 **Skill 2: Oyatsu no Jikan nano**

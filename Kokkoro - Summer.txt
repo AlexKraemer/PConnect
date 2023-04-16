@@ -14,6 +14,8 @@ Kokkoro heals the ally with the lowest HP for 74060 HP. She also heals all allie
 
 **Skill 1: Nereid Spear**
 no UE: Kokkoro deals 17932 physical damage to the nearest enemy and lowers the target's P.DEF by 160.
+
+**Skill 1+: Nereid Spear+**
 w/ UE: Kokkoro deals 18417 physical damage to the nearest enemy and lowers the target's P.DEF by 266.
 
 **Skill 2: Naval Support**

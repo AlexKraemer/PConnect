@@ -15,6 +15,8 @@ If the target was already afflicted with an immobilising debuff when UB was used
 
 **Skill 1: First Aid**
 no UE: Mifuyu heals herself for 25187 HP.
+
+**Skill 1+: First Aid+**
 w/ UE: Mifuyu heals herself for 31525 HP, boosts her P.DEF and M.DEF by 323 and deploys a Field around her that heals all allies within it for 1785 HP per second.
 
 **Skill 2: Hydro Slash**

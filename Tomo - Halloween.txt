@@ -13,6 +13,7 @@ This potency of the P.ATK buff on this Skill goes up according to Tomo's P.ATK (
 **Skill 1: Mikuma-ryuu Kenjutsu: Hoku**
 no UE: Tomo boosts her P.ATK by 5380 and deals 83283 physical damage to the nearest enemy. She also recovers her TP by 100.
 
+
 **Skill 2: Mikuma-ryuu: Ruten**
 Tomo boosts the P.ATK and P.Critical of herself and the ally with the highest P.ATK (other than herself) by 13450 and 250 respectively.
 

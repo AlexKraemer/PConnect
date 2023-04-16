@@ -11,6 +11,8 @@ Shefi deals 81225 physical damage to all enemies in an area in front of her. Ice
 
 **Skill 1: Harukutsu**
 no UE: Shefi boosts the P.ATK and TP Fill Rate of all allies in an area around her by 1995 and 5 respectively. This Skill's potency increases when Ice Dragon Fang is on the field.
+
+**Skill 1+: Harukutsu+**
 w/ UE: Shefi boosts the P.ATK and TP Fill Rate of all allies in an area around her by 3192 and 10 respectively. She also deploys a Field around her that heals all allies within it for 1033 HP per second.
 This Skill's potency increases when Ice Dragon Fang is on the field.
 

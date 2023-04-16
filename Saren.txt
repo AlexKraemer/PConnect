@@ -14,6 +14,8 @@ Saren deals 86941 physical damage to all enemies in an area in front of her and 
 
 **Skill 1: Fire Slash**
 no UE: Saren deals 21249 physical damage to all enemies in an area in front of her.
+
+**Skill 1+: Fire Slash+**
 w/ UE: Saren deals 28129 physical damage to all enemies in an area in front of her. The lower Saren's HP is, the higher the damage.
 
 **Skill 2: Elegance Yell**

@@ -14,6 +14,8 @@ Yui heals all allies for 15736 HP, boosts their P.DEF by 320 and Action Speed by
 
 **Skill 1: Flower Shot**
 no UE: Yui deals 25809 magical damage to the nearest enemy.
+
+**Skill 1+: Flower Shot+**
 w/ UE: Yui deals 35476 magical damage to the nearest enemy and lowers the target's P.ATK by 1995.
 
 **Skill 2: Floral Shield**

@@ -11,6 +11,8 @@ Ruka deals 47996 physical damage to the nearest enemy and lowers the target's P.
 
 **Skill 1: Ichi no Tachi: Shizuku Nagi**
 no UE: Ruka Taunts all enemies. If she gets hit during the movement after Taunting, Ruka deals 23983 physical damage to all enemies in an area in front of her and pushes them away by a small distance.
+
+**Skill 1+: Ichi no Tachi: Shizuku Nagi+**
 w/ UE: Ruka Taunts all enemies. If she gets hit during the movement after Taunting, Ruka deals 42510 physical damage to all enemies in an area in front of her, lowers their P.DEF by 65 and pushes them away by a small distance.
 
 **Skill 2: Kaidai Musou no Kata**

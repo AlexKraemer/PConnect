@@ -14,6 +14,8 @@ Akari boosts the M.ATK and M.Critical of all allies by 6384 and 100 respectively
 
 **Skill 1: Shadow Bolt**
 no UE: Akari deals 40308 magical damage to the nearest enemy.
+
+**Skill 1+: Shadow Bolt+**
 w/ UE: Akari deals 52468 magical damage to the nearest enemy and lowers the target's M.DEF by 54.
 
 **Skill 2: Koakuma no Kiss**

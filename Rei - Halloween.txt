@@ -11,6 +11,8 @@ Rei deals 54270 physical damage to all enemies in an area in front of her. If th
 
 **Skill 1: Hollow Thrust**
 no UE: Rei deals 27135 physical damage to all enemies in an area in front of her. If the target has under 50% remaining HP, the damage dealt increases to 81405 and Rei lowers the targets' P.DEF by 213.
+
+**Skill 1+: Hollow Thrust+**
 w/ UE: Rei deals 28236 physical damage to all enemies in an area in front of her. If  the target has under 50% remaining HP, the damage dealt increases to 127062 and Rei lowers the targets' P.DEF by 320.
 
 **Skill 2: Call of Ghost**

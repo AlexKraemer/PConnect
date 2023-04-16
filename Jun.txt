@@ -14,6 +14,8 @@ Jun deploys a Barrier that absorbs up to 19368 physical and magical damage on he
 
 **Skill 1: Brave Recovery**
 no UE: Jun heals the ally in an area around her with the lowest HP for 17844 HP.
+
+**Skill 1+: Brave Recovery+**
 w/ UE: Jun heals the ally in an area around her with the lowest HP for 18806 HP and boosts the target's P.ATK by 2959 and Action Speed by a small amount (20%).
 
 **Skill 2: Armour Break**

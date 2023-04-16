@@ -14,6 +14,8 @@ Christina does 2 attacks that each deals 137828 physical damage (50 P.DEF Ignore
 
 **Skill 1: Overlay**
 no UE: Christina boosts her P.ATK and TP Fill Rate by 4035 and 15 respectively.
+
+**Skill 1+: Overlay+**
 w/ UE: Christina boosts her P.ATK and TP Fill Rate by 9748 and 30 respectively, recovers her TP by 540 and boosts her P.Critical Damage by 10%.
 【Post-S.Lv260】P.ATK buff increased (9684 → 9748), TP Recovery capped at 540.
 

@@ -11,6 +11,8 @@ Misato deploys a Barrier that negates up to 11926 magical damage on all allies t
 
 **Skill 1: Healing Drink**
 no UE: Misato boosts the M.DEF of the frontmost ally by 333 and applies to the target a Regen that heals for 3514 HP per second.
+
+**Skill 1+: Healing Drink+**
 w/ UE: Misato boosts the M.DEF of the frontmost ally by 333 and applies to the target a Regen that heals for 4756 HP per second.
 If the target does physical attacks, Misato further boosts the target's M.DEF by 333.
 If the target does magical attacks, Misato further boosts the target's P.DEF by 333.

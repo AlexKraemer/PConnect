@@ -14,6 +14,8 @@ Ayane deals 176032 physical damage to all enemies in an area in front of her, pu
 
 **Skill 1: Puukichi Break**
 no UE: Ayane deals 25587 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff.
+
+**Skill 1+: Puukichi Break+**
 w/ UE: Ayane deals 39249 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff.
 She also deals 26704 physical damage to the nearest enemy and lowers the target's Action Speed by a medium amount (20%).
 

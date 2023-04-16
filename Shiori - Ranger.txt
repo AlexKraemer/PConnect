@@ -12,6 +12,7 @@ Shiori deals 201153 physical damage to the nearest enemy and lowers the target's
 **Skill 1: Ranger Arrow**
 no UE: Shiori deals 100576 physical damage to the nearest enemy and lowers the target's P.DEF by 135. She also recovers her TP by 150.
 
+
 **Skill 2: Forest Blessing**
 Shiori boosts her P.ATK and P.Critical Damage by 7263 and 8% respectively and recovers her TP by 150.
 

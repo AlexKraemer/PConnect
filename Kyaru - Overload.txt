@@ -13,6 +13,8 @@ Kyaru deals 53523 magical damage to all enemies and afflicts them with a Panic d
 **Skill 1: Dark Vortex**
 no UE: Kyaru deals 41627 magical damage to all enemies in an area around the nearest enemy and lowers their TP by 180.
 【Post-S.Lv260】Damage increased (29739 → 41627), TP Disruption capped at 180.
+
+**Skill 1+: Dark Vortex+**
 w/ UE: Kyaru deals 68690 magical damage to all enemies in an area around the nearest enemy and lowers their TP by 180.
 If the targets are afflicted with Panic when this Skill was used, she lowers their TP by a further 180.
 

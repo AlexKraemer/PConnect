@@ -14,6 +14,8 @@ Rei deals 371260 physical damage to the nearest enemy and clads herself in Blade
 
 **Skill 1: Wind Thrust**
 no UE: Rei deals 50723 physical damage to the nearest enemy.
+
+**Skill 1+: Wind Thrust+**
 w/ UE: Rei deals 52920 physical damage to the nearest enemy and lowers the target's P.DEF by 160.
 
 **Skill 2: Counter Slash**

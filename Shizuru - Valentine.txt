@@ -13,6 +13,8 @@ Shizuru deploys a Field around herself that boosts the P.ATK, P.Critical and TP 
 no UE: Shizuru heals the ally in an area around her with the lowest HP for 14080 HP and recovers the target's TP by 144.
 【While Field is being deployed】Heals and recovers all allies' HP and TP.
 【Post-S.Lv260】Heal increased (10603 → 14080), TP Recovery capped at 144.
+
+**Skill 1+: Cureness Sign+**
 w/ UE: Shizuru heals the ally in an area around her with the lowest HP for 17482 HP and recovers the target's TP by 180.
 【While Field is being deployed】 Heals and recovers all allies' HP and TP, and boosts their P.ATK by 3990.
 【Post-S.Lv260】Heal increased (13832 → 17482), TP Recovery capped at 180.

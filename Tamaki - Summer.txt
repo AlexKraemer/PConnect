@@ -12,6 +12,8 @@ Tamaki does 4 hits that deal 45293 physical damage each to random enemies in an 
 **Skill 1: Summer Beach Absorb**
 no UE: Tamaki lowers the TP of the nearest enemy by 365 and recovers her TP by 365.
 【Post-S.Lv260】Additional P.ATK buff (+64) to self, TP Disruption and TP Recovery capped at 365.
+
+**Skill 1+: Summer Beach Absorb+**
 w/ UE: Tamaki lowers the TP of the nearest enemy by 440 and recovers her TP by 440. She also lowers the P.ATK of the nearest enemy by 4304 and boosts her P.ATK by 8672.
 【Post-S.Lv260】P.ATK buff increased (8608 → 8672), TP Disruption and TP Recovery capped at 440.
 

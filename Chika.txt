@@ -15,6 +15,8 @@ She also summons a Sylph next to the frontmost ally.
 
 **Skill 1: Cheer Song**
 no UE: Chika boosts the P.ATK of all allies in an area around the frontmost ally by 2128.
+
+**Skill 1+: Cheer Song+**
 w/ UE: Chika boosts the P.ATK and P.Critical of all allies in an area around the frontmost ally by 4788 and 50 respectively, and applies a Regen that heals for 1238 HP per second on them.
 
 **Skill 2: Fairy's Lullaby**

@@ -14,6 +14,8 @@ Tomo deals 190464 physical damage to the 2 nearest enemies, boosts the P.ATK of 
 
 **Skill 1: Mikuma-ryuu Kenjutsu: Jinpuu**
 no UE: Tomo deals 27966 physical damage to all enemies in an area in front of her.
+
+**Skill 1+: Mikuma-ryuu Kenjutsu: Jinpuu+**
 w/ UE: Tomo deals 36775 | 41644 | 46513 | 51383 | 56252 physical damage to all enemies in an area in front of her. The damage goes up according to the number of enemies in the area in front of her.
 
 **Skill 2: Mikuma-ryuu Kenjutsu: Tsubame Gaeshi**

@@ -12,6 +12,7 @@ Akari deals 200886 magical damage to the nearest enemy and boosts the M.ATK of a
 **Skill 1: Gingerbread Friends**
 no UE: Akari deals 100443 magical damage to the nearest enemy and boosts the M.ATK of all allies by 2128. The potency of the M.ATK buff goes up according to Akari's M.ATK (up to 5 times the base amount).
 
+
 **Skill 2: Angel Ornament**
 Akari boosts the M.ATK and M.Critical of all allies by 7980 and 200 respectively and boosts her TP Fill Rate by 15.
 

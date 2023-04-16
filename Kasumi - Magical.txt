@@ -16,13 +16,17 @@ Kasumi deals 114485 magical damage to the enemy with the highest P.ATK or M.ATK 
 **Skill 1: Aqua Capture**
 no UE: Kasumi lowers the M.DEF of the enemy with the highest P.ATK or M.ATK (whichever is higher) by 189 and also afflicts them with a debuff that increases the damage they take when receiving Critical attacks by 12%.
 
+
 **Skill 1: Magical Halation**
 no UE: Kasumi lowers the TP of the enemy with the highest TP by 540. This does not include enemies that already have full TP gauges.
 【Post-S.Lv260】Additional P.ATK and M.ATK debuffs (-32) to target for a short duration, TP Disruption capped at 540.
+
+**Skill 1+: Magical Halation+**
 w/ UE: Kasumi lowers the TP of the enemy with the highest TP by 558. She also lowers the P.ATK, M.ATK, P.Critical and M.Critical of the target by 5412, 5412, 150 and 150 respectively for a short duration.
 This does not include enemies that already have full TP gauges.
 【Post-S.Lv260】P.ATK and M.ATK debuffs increased (5380 → 5412), TP Recovery capped at 558.
 
+**Skill 1+: Aqua Capture+**
 w/ UE: Kasumi lowers the M.DEF of the enemy with the highest P.ATK or M.ATK (whichever is higher) by 350 and afflicts them with a debuff that increases the damage they take when receiving Critical attacks by 16%.
 Kasumi also deals 32846 magical damage to the target. This Skill always procs Critical hits.
 

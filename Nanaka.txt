@@ -14,6 +14,8 @@ Nanaka deals 428170 magical damage to the enemy with the highest remaining HP an
 
 **Skill 1: Stardust Magic**
 no UE: Nanaka lowers the M.DEF of all enemies in an area around the nearest enemy by 130.
+
+**Skill 1+: Stardust Magic+**
 w/ UE: Nanaka lowers the M.DEF of all enemies in an area around the nearest enemy by 216.
 
 **Skill 2: Energy Impact**

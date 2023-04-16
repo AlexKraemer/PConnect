@@ -11,6 +11,8 @@ Ilya boosts her M.ATK and M.Critical by 10108 and 100 respectively, deals 134684
 
 **Skill 1: New Moon Eclipse**
 no UE: Ilya deals 67342 magical damage to the nearest enemy and boosts her M.ATK by 3990 but uses up 40% of her remaining HP.
+
+**Skill 1+: New Moon Eclipse+**
 w/ UE: Ilya deals 120291 magical damage to the nearest enemy and boosts her M.ATK by 3990 but uses up 40% of her remaining HP.
 She also deploys a Barrier that absorbs up to 266 physical and magical damage on herself and lowers the TP Fill Rate of the nearest enemy by 15.
 The higher Ilya's remaining HP is, the higher the potency of the M.ATK buff and amount of damage the Barrier can absorb.

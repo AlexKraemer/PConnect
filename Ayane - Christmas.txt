@@ -11,6 +11,8 @@ Ayane deals 255212 physical damage to the nearest enemy, but uses up 56844 HP.
 
 **Skill 1: Puukichi Yell**
 no UE: Ayane boosts her P.ATK by 5918.
+
+**Skill 1+: Puukichi Yell+**
 w/ UE: Ayane boosts her P.ATK by 11298 and Action Speed by a large amount (75%).
 
 **Skill 2: Puukichi Rush**

@@ -13,6 +13,8 @@ If Christina has a coin, she uses up the coin to deal 335457 damage to the neare
 **Skill 1: Enhance Present**
 no UE: If Christina has no coin, she boosts the P.ATK of all allies that do physical attacks by 5380.
 If Christina has a coin, she boosts the P.ATK of all allies that do physical attacks by 2690 and her P.ATK by 9415.
+
+**Skill 1+: Enhance Present+**
 w/ UE: If Christina has no coin, she boosts the P.ATK of all allies that do physical attacks by 6456.
 If Christina has a coin, she boosts the P.ATK of all allies that do physical attacks by 2690 and boosts her P.ATK and P.Critical Damage by 11298 and 25% respectively.
 

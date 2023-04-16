@@ -11,6 +11,8 @@ Maho does 4 attacks that each deal 54192 magical damage to random enemies.
 
 **Skill 1: Maho Maho Summer Friends**
 no UE: Maho boosts her M.ATK by 4099 and recovers her TP by 360.【Post-S.Lv260】M.ATK buff increased (4035 → 4099), TP Recovery capped at 360.
+
+**Skill 1+: Maho Maho Summer Friends+**
 w/ UE: Maho boosts her M.ATK by 16204, recovers her TP by 540 and boosts her TP Fill Rate by 15.
 【Post-S.Lv260】M.ATK buff increased (16140 → 16204), TP Recovery capped at 540.
 

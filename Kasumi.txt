@@ -11,6 +11,8 @@ Kasumi deploys a Field around the 3rd nearest enemy that lowers the M.DEF and TP
 
 **Skill 1: Root of Bind**
 no UE: Kasumi deals 6834 magical damage to all enemies in an area in front of her and afflicts a Bind debuff on them.
+
+**Skill 1+: Root of Bind+**
 w/ UE: Kasumi deals 18935 magical damage to all enemies in an area in front of her and afflicts a Bind debuff on them. The Bind duration increases with the number of enemies in the area.
 
 **Skill 2: Mislead Bullet**

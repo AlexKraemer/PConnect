@@ -11,6 +11,8 @@ Chika summons 3 Sylphs in front of her.
 
 **Skill 1: Ascension Waltz**
 no UE: Chika boosts the P.ATK of the ally with the highest P.ATK by 5320.
+
+**Skill 1+: Ascension Waltz+**
 w/ UE: Chika boosts the P.ATK and P.Critical of the ally with the highest P.ATK by 5320 and 100 respectively. The higher Chika's M.ATK is, the higher the P.ATK boost.
 
 **Skill 2: Guardian Melody**

@@ -12,6 +12,7 @@ Rin deals 61521 physical damage to all enemies and lowers their M.ATK by 5380.
 **Skill 1: Kyoufu no Dekadonguri**
 no UE: Rin deals 73825 physical damage to the enemy with the highest M.ATK. If the target is an enemy that does magical attacks, the damage increases to 110737 and Rin also lowers the target's M.ATK by 5380.
 
+
 **Skill 2: Guutara ni Naru Noroi**
 Rin lowers the TP of the enemy with the highest M.ATK by 150, lowers the target's M.ATK by 6725 and afflicts the target with a Stun debuff.
 

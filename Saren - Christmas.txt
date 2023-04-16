@@ -12,6 +12,8 @@ Saren does 3 hits that each deal 50019 physical damage to a random enemy in fron
 
 **Skill 1: Amazing Gift**
 no UE: Saren boosts the P.ATK, M.ATK, P.DEF and M.DEF of all allies in an area around her by 4304, 4304, 162 and 162 respectively.
+
+**Skill 1+: Amazing Gift+**
 w/ UE: Saren boosts the P.ATK, M.ATK, P.DEF, M.DEF, P.Critical and M.Critical of all allies in an area around her by 6456, 6456, 162, 162, 100 and 100 respectively.
 
 **Skill 2: Luminous Bullet**

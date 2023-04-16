@@ -11,6 +11,8 @@ Akari deals 160708 magical damage to the nearest enemy.
 
 **Skill 1: Angel Charge**
 no UE: Akari boosts her M.ATK, M.Critical and M.Critical Damage by 19950, 400 and 24% respectively for a short period of time.
+
+**Skill 1+: Angel Charge+**
 w/ UE: Akari boosts her M.ATK, M.Critical and M.Critical Damage by 27970, 600 and 24% respectively for a short period of time, and recovers her TP by 360.
 【Post-S.Lv260】M.ATK buff increased (27930 → 27970), TP Recovery capped at 360.
 

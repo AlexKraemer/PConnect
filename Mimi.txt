@@ -14,6 +14,8 @@ Mimi deals 87307 damage to all enemies in an area in front of her, and further d
 
 **Skill 1: Pyon Pyon Attack**
 no UE: Mimi deals 47769 physical damage to the nearest enemy.
+
+**Skill 1+: Pyon Pyon Attack+**
 w/ UE: Mimi deals 65568 physical damage to all enemies in an area in front of her.
 
 **Skill 2: Usagi-san Yell**

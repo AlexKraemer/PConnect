@@ -11,6 +11,8 @@ Rei deals 20229 physical damage to all enemies and afflicts them with a Stun deb
 
 **Skill 1: Nadare Gaeshi**
 no UE: Rei taunts all enemies. If Rei gets attacked during the stance after taunting, she deals 5532 physical damage to all enemies in an area in front of her and lowers their P.DEF by 43.
+
+**Skill 1+: Nadare Gaeshi+**
 w/ UE: Rei taunts all enemies and boosts her M.DEF by 532. If Rei gets attacked during the stance after taunting, she deals 20314 physical damage to all enemies in an area in front of her, lowers their P.DEF by 64 and afflicts them with a Stun debuff.
 
 **Skill 2: Hakugin Fuyujitaku**

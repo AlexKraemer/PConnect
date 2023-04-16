@@ -11,6 +11,8 @@ Maho boosts the P.ATK of all allies that do physical attacks by 3632 and her own
 
 **Skill 1: Maho Maho Flower Circle**
 no UE: Maho boosts the P.ATK of the ally with the highest P.ATK by 4035. The higher Maho's M.ATK is, the higher the buff's potency.
+
+**Skill 1+: Maho Maho Flower Circle+**
 w/ UE: Maho boosts the P.ATK and TP Fill Rate of the ally with the highest P.ATK by 6053 and 5 respectively. The higher Maho's M.ATK is, the higher the P.ATK buff's potency.
 
 **Skill 2: Maho Maho Happiness Takt**

@@ -11,6 +11,8 @@ Matsuri leaps to the 3rd nearest enemy and deals 51092 physical damage to all en
 
 **Skill 1: Tiger Shock**
 no UE: Matsuri deals 5754 physical damage to all enemies in an area around her and afflicts them with a Stun debuff.
+
+**Skill 1+: Tiger Shock+**
 w/ UE: Matsuri deals 10594 physical damage to all enemies in an area around her and afflicts them with a Stun debuff. She also boosts her P.DEF and M.DEF by 603.
 
 **Skill 2: Tiger Spin**

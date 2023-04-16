@@ -12,6 +12,8 @@ Aoi deals 78048 physical damage to the nearest enemy, afflicts the target with a
 **Skill 1: Spike Circle**
 no UE: "Aoi deploys a Field around the nearest enemy that deals 3265 physical damage per second.
 If the target was afflicted with Poison or Toxic, the Field's damage inceases to 16326 physical damage per second.
+
+**Skill 1+: Spike Circle+**
 w/ UE: Aoi deploys a Field that deals 3396 physical damage per second and a Field that lowers P.DEF by 120 around the nearest enemy.
 If the target was afflicted with Poison or Toxic, the Field's damage increases to 27600 physical damage per second.
 

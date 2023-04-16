@@ -12,6 +12,8 @@ Rino deals 36523 physical damage to the nearest enemy. The Skill's damage goes u
 **Skill 1: Wonder Illusion**
 no UE: Rino deals 37912 physical damage to the nearest enemy, boosts her P.Critical by 40 and recovers her TP by 270.
 【Post-S.Lv260】Damage increased (26161 → 37912), TP Recovery capped at 270.
+
+**Skill 1+: Wonder Illusion+**
 w/ UE: Rino deals 39303 physical damage to the nearest enemy, boosts her P.Critical by 40 and recovers her TP by 270. This Skill's potency goes up according to the number of allies.
 【Post-S.Lv260】Damage increased (27088 → 39303), TP Recovery capped at 270.
 

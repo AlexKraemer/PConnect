@@ -13,6 +13,7 @@ The potency of the M.ATK buff goes up according to her remaining HP (up to 2 tim
 **Skill 1: Marine Confidence**
 no UE: Yui boosts the M.ATK, M.Critical and M.Critical Damage of all allies that do magical attacks by 1064, 30 and 1% respectively.
 
+
 **Skill 2: Vital Wave**
 Yui recovers the TP of all allies that do magical attacks by 100 and heals herself for 7068 HP.
 

@@ -14,6 +14,8 @@ Kyouka deals 313936 magical damage to the nearest enemy. This Skill deals 4 time
 
 **Skill 1: Ice Lance**
 no UE: Kyouka deals 52827 magical damage to the nearest enemy.
+
+**Skill 1+: Ice Lance+**
 w/ UE: Kyouka deals 79633 magical damage to the nearest enemy. This Skill does 4 times damage instead of 2 times when it procs Critical.
 
 **Skill 2: Magic Boost**

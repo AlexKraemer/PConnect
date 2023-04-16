@@ -11,6 +11,8 @@ Hiyori deals 147776 physical damage to the nearest enemy, and lowers the target'
 
 **Skill 1: Nikukyuu Charge**
 no UE: Hiyori boosts her P.ATK by 2394 and the P.ATK of all allies that do physical attacks by 1596.
+
+**Skill 1+: Nikukyuu Charge+**
 w/ UE: Hiyori boosts her P.ATK by 2394 and the P.ATK and P.Critical of all allies that do physical attacks by 6384 and 60 respectively.
 
 **Skill 2: Good Luck Punch**

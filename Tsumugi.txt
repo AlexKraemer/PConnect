@@ -11,6 +11,8 @@ Tsumugi deals 36521 physical damage to all enemies in an area in front of her, a
 
 **Skill 1: Capture String**
 no UE: Tsumugi deals 30434 physical damage to the 2nd nearest enemy and pulls the target slightly closer.
+
+**Skill 1+: Capture String+**
 w/ UE: Tsumugi deals 31302 physical damage to the 2nd nearest enemy, afflicts the target with a Stun debuff and pulls the target slightly closer. She also boosts her P.ATK and P.DEF by 3192 and 107 respectively.
 
 **Skill 2: Spiral Yarn**

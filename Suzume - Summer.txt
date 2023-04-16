@@ -11,6 +11,8 @@ Suzume boosts the P.DEF and M.DEF of all allies by 122 and applies a Regen that 
 
 **Skill 1: Petit Golem Summon**
 no UE: Suzume summons a Petit Golem in front of her that attacks the nearest enemy.
+
+**Skill 1+: Petit Golem Summon+**
 w/ UE: Suzume summons a Petit Golem in front of her that attacks the nearest enemy, and deploys a Field around the frontmost ally that boosts the P.DEF and M.DEF of all allies within it by 364.
 
 **Skill 2: Soda Yell**

@@ -14,6 +14,8 @@ Rima deals 45320 physical damage to all enemies in an area in front of her, slig
 
 **Skill 1: Mofumofu Assault**
 no UE: After a short delay after the start of the battle, Rima rushes into the nearest enemy, deals 28594 physical damage to the target and boosts her P.DEF by 216
+
+**Skill 1+: Mofumofu Assault+**
 w/ UE: After a short delay after the start of the battle, Rima rushes into the nearest enemy, deals 29173 physical damage to the target and boosts her P.DEF by 269.
 She also deploys Barriers that negate up to 9684 physical damage on all allies.
 

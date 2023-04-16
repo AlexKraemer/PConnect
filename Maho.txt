@@ -14,6 +14,8 @@ Maho boosts the M.ATK and P.DEF of all allies by 6053 and 243 respectively, reco
 
 **Skill 1: Maho Maho Heal**
 no UE: Maho heals the ally with the lowest HP for 23698 HP.
+
+**Skill 1+: Maho Maho Heal+**
 w/ UE: Maho heals the ally with the lowest HP for 29032 HP, boosts the target's P.DEF by 269 and applies a Regen that heals for 1917 HP per second on the target.
 
 **Skill 2: Maho Maho Darkness**

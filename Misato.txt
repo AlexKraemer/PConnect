@@ -14,6 +14,8 @@ Misato heals all allies for 10439 HP, boosts their M.DEF, M.ATK, M.Critical and 
 
 **Skill 1: Divine Force**
 no UE: Misato boosts the M.ATK of all allies in an area around her by 1463.
+
+**Skill 1+: Divine Force+**
 w/ UE: Misato boosts the M.ATK and M.Critical of all allies in an area around her by 4788 and 40 respectively.
 
 **Skill 2: Affection Cure**

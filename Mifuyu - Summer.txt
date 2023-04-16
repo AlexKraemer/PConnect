@@ -11,6 +11,8 @@ Mifuyu deals 120749 physical damage to the nearest enemy and boosts the P.ATK of
 
 **Skill 1: Hydro Sting**
 no UE: Mifuyu deals 40249 physical damage to the nearest enemy and deals a further 9062 physical damage to all enemies in an area around the target.
+
+**Skill 1+: Hydro Sting+**
 w/ UE: Mifuyu deals 41751 physical damage to the nearest enemy and deals a further 72997 physical damage to all enemies in an area around the target.
 
 **Skill 2: Hunting Mode**

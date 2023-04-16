@@ -14,6 +14,8 @@ Kokkoro heals herself for 30958 HP, heals all allies for 12899 HP and boosts the
 
 **Skill 1: Tri-Slash**
 no UE: Kokkoro deals 33872 physical damage to the nearest enemy.
+
+**Skill 1+: Tri-Slash+**
 w/ UE: Kokkoro deals 35028 physical damage to the nearest enemy, and boosts her P.ATK by 2926 and TP Fill Rate by 15.
 
 **Skill 2: Speed Up**

@@ -12,6 +12,7 @@ Kyouka does 3 attacks that each deal 39565 magical damage to a random enemy. Thi
 **Skill 1: Aqua Crest**
 no UE: Kyouka does 2 attacks that each deal 26376 magical damage and lower M.DEF by 107 to a random enemy. This Skill's damage goes up according to the number of Butterfly Seals on the targets.
 
+
 **Skill 2: Aqua Wing**
 Kyouka does 3 attacks that each deal 13188 magical damage to a random enemy. This Skill's damage goes up according to the number of Butterfly Seals on the targets.
 

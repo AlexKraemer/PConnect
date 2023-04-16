@@ -12,6 +12,8 @@ Saren boosts all allies' P.ATK and M.ATK by 2825 and Action Speed by a large amo
 **Skill 1: Splash Twirling**
 no UE: Saren recovers the TP of all allies by 500.
 【Post-S.Lv260】Additional P.ATK and M.ATK buffs (+32) to all allies, TP Recovery capped at 500.
+
+**Skill 1+: Splash Twirling+**
 w/ UE: Saren recovers the TP of all allies by 551 and boosts their P.ATK and M.ATK by 4874.
 【Post-S.Lv260】P.ATK and M.ATK buffs increased (4842 → 4874), TP Recovery capped at 551.
 

@@ -15,6 +15,8 @@ deals a further 71404 physical damage to all enemies in an area around the targe
 
 **Skill 1: Milk Tank Attack**
 no UE: Mahiru deals 22078 physical damage to the nearest enemy and pushes the target away by a small distance.
+
+**Skill 1+: Milk Tank Attack+**
 w/ UE: Mahiru deals 53630 physical damage to the nearest enemy, afflicts the target with a Confusion debuff and pushes the target away by a large distance.
 
 **Skill 2: Fork Slash**

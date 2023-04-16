@@ -11,6 +11,8 @@ Kyaru deals 159043 magical damage to the nearest enemy and boosts her M.ATK by 2
 
 **Skill 1: Shadow Bullet**
 no UE: Kyaru deals 53014 magical damage to the nearest enemy.
+
+**Skill 1+: Shadow Bullet+**
 w/ UE: Kyaru deals 72027 magical damage to all enemies in an area around the nearest enemy.
 
 **Skill 2: Wishing Field**
