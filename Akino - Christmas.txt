@@ -9,7 +9,6 @@ Overall: D
 **Union Burst: Noble Illumination**
 Akino deals 83050 physical damage to the nearest enemy. This Skill's damage increases with the number of 'Seiya no Kirameki'.
 
-
 **Skill 1: Holy Prize**
 no UE: Akino gains 1 Seiya no Kirameki whenever she receives a status up buff. Seiya no Kirameki stacks up to 25 times.
 Akino also boosts her P.ATK, P.Critical and TP Fill Rate by 6456, 100 and 10 respectively.
@@ -17,12 +16,9 @@ w/ UE: Akino gains 1 Seiya no Kirameki whenever she receives a status up buff. S
 Akino also boosts her P.ATK, P.Critical and TP Fill Rate by 7263, 150 and 15 respectively.
 She also boosts the P.ATK and P.Critical of all allies by 4842 and 100 respectively.
 
-
 **Skill 2: Brilliant Slash**
 Akino deals 27683 physical damage to the nearest enemy. This Skill's damage increases with the number of 'Seiya no Kirameki'.
 
-
 **EX Skill: Saint Oblige**
 Akino's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

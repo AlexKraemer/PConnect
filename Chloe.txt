@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Yonaka no Yoake**
 Chloe deals 158733 physical damage to the nearest enemy.
 
-
 **Skill 1: Shikon no Tasogare**
 no UE: Chloe puts all enemies in a state where they gain 1 Cowering debuff whenever she lands an attack on them. Cowering stacks up to 66 times. She also boosts her P.ATK by 4035.
 w/ UE: Chloe puts all enemies in a state where they gain 1 Cowering debuff whenever she lands an attack on them. Cowering stacks up to 99 times. She also boosts her P.ATK by 8070.
 
-
 **Skill 2: Hakugin no Tsukikage**
 Chloe deals 45893 physical damage to the nearest enemy and lowers the target's P.DEF by 49. The damage and P.DEF potency increases with the number of Cowering stacks on the target.
 
-
 **EX Skill: Fukeyuku Yoru**
 Chloe's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

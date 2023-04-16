@@ -9,22 +9,17 @@ Overall: S
 **Union Burst: Phantom Terror**
 Shinobu deals 50449 physical damage to all enemies in an area in front of her and lowers their P.DEF by 114.
 
-
 **Union Burst (6★): Phantom Inferno**
 Shinobu deals 141101 physical damage to all enemies in an area in front of her, lower their P.DEF and Action Speed by 213 and 35% respectively and afflict them with a Panic debuff. She also unleashes Spiritual Powers.
 Dokuro-Oyaji's status go up when summoned while Spiritual Powers is active.
-
 
 **Skill 1: Phantom Call**
 no UE: Shinobu summons a skull in front of her that attacks the nearest enemy.
 w/ UE: Shinobu summons a skull in front of her that attacks the nearest enemy, and also boosts the P.ATK and P.Critical of allies in an area around her by 3192 and 50 respectively.
 
-
 **Skill 2: Weak Wraith**
 Shinobu lowers the P.DEF of all enemies by 40.
 
-
 **EX Skill: Yoiyami no Chinkonka**
 Shinobu's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

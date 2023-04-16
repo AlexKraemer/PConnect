@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Halloween Terror**
 Shinobu deals 134018 physical damage to the enemy with the lowest remaining HP percentage, and deals an additional 26836 physical damage to all enemies if the initial hit manages to defeat an enemy.
 
-
 **Skill 1: Wraith Weapon**
 no UE: Shinobu boosts her P.ATK by 5380.
 w/ UE: Shinobu boosts her P.ATK and P.Critical by 13450 and 150 respectively.
 
-
 **Skill 2: Hollow Scythe**
 Shinobu deals 40205 physical damage to all enemies in an area around her.
 
-
 **EX Skill: Meikai no Yasouka**
 Shinobu's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

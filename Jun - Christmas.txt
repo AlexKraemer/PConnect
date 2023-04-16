@@ -9,16 +9,12 @@ Overall: S
 **Union Burst: Sword of Noel**
 Jun deals 72120 physical damage to the nearest enemy and lowers the target's P.DEF by 269. She also heals herself for 23878 HP.
 
-
 **Skill 1: Saint Enhance**
 no UE: Jun boosts the P.ATK and P.Critical of all allies in an area in front of the rearmost ally by 5380 and 50 respectively and recovers their TP by 80.
-
 
 **Skill 2: Blessing Horn**
 Jun deals 24040 physical damage to the nearest enemy and deploys a Barrier that absorbs up to 19368 physical and magical damage on herself. She also boosts the P.Critical Damage of all allies in an area in front of the rearmost ally by 8%.
 
-
 **EX Skill: Saint Justice**
 Jun's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

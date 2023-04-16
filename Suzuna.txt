@@ -9,22 +9,17 @@ Overall: B
 **Union Burst: Heartbreak**
 Suzuna deals 133225 physical damage to the nearest enemy. This Skill is always a Critical hit.
 
-
 **Union Burst (6★): Haute Couture Heart**
 Suzuna boosts her P.Critical Damage by 25%. She also deals 363533 physical damage to the nearest enemy. The first hit of this Skill is always a Critical hit.
-
 
 **Skill 1: Okopun Dart**
 no UE: Suzuna deals 30480 physical damage to the nearest enemy. This Skill is always a Critical hit.
 w/ UE: Suzuna does 3 hits that deal 31759, 22249 and 22249 physical damage respectively to the nearest enemy, and this Skill does 3 times damage instead of 2 times when it procs Critical hits.
 The first hit of this Skill is always a Critical hit.
 
-
 **Skill 2: Charisma Aura?**
 Suzuna boosts her P.ATK by 4035.
 
-
 **EX Skill: Monikawa Feeling**
 Suzuna's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

@@ -11,24 +11,18 @@ Muimi unleashes "Proof of Bond" and fights together with Octo. While fighting to
 While ""Proof of Bond"" is unleashed, Muimi boosts her P.Critical Damage by 7% and Action Speed by a large amount (+80%). This Skill's effect stacks with other Action Speed modifiers.
 Muimi also deals 261078 physical damage to the nearest enemy.
 
-
 **Skill 1: Tenrou Gekkuusen**
 no UE: Muimi deals 87026 physical damage to the nearest enemy and lowers the target's P.DEF by 108.
-
 
 **Skill 2: Tenrou Gouhajin**
 Muimi boosts her P.ATK and P.Critical by 6725 and 100 respectively and deals 87026 physical damage to the nearest enemy.
 
-
 **EX Skill: Future's Force**
 Muimi's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 
 **SP 1: Tenrou Gekkuusen**
 Muimi deals 87026 physical damage to the nearest enemy and lowers the target's P.DEF by 216. She also deals a further 174052 physical damage to the target.
 
-
 **SP 2: Tenrou Gouhajin**
 Muimi boosts her P.ATK and P.Critical by 13450 and 200 respectively and deals 87026 physical damage to the nearest enemy. She also deals a further 174052 physical damage to the target.
-
 

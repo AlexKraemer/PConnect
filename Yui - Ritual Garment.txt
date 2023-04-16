@@ -9,18 +9,14 @@ Overall: B
 **Union Burst: Spirit Precious**
 Yui heals the party for 9015 HP and boosts their P.ATK by 2926. She also applies a Regen to the frontmost ally that heals for 6436 HP per second.
 
-
 **Skill 1: Spiritual Brave**
 no UE: Yui boosts the P.ATK and P.Critical of all allies in an area around the ally with the highest P.ATK by 4788 and 50 respectively.
 w/ UE: Yui boosts the P.ATK, P.Critical and TP Fill Rate of all allies in an area around the ally with the highest P.ATK by 7182, 100 and 5 respectively.
-
 
 **Skill 2: Gift Spirit**
 Yui recovers the TP of all allies in an area around the ally with the highest P.ATK by 154.
 【Post-S.Lv260】Additional P.ATK buff (+30) to targets, TP Recovery capped at 154.
 
-
 **EX Skill: Spirit Grace**
 Yui's M.DEF goes up by 532 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

@@ -10,17 +10,13 @@ Overall: C
 Saren does 3 hits that each deal 50019 physical damage to a random enemy in front of her, boosts the party's P.ATK and M.ATK by 2421 and applies to herself 3 Shield of Light (up to 5).
 1 Shield of Light gets destroyed in place of Saren taking damage and deals 10087 physical damage to the attacking enemy.
 
-
 **Skill 1: Amazing Gift**
 no UE: Saren boosts the P.ATK, M.ATK, P.DEF and M.DEF of all allies in an area around her by 4304, 4304, 162 and 162 respectively.
 w/ UE: Saren boosts the P.ATK, M.ATK, P.DEF, M.DEF, P.Critical and M.Critical of all allies in an area around her by 6456, 6456, 162, 162, 100 and 100 respectively.
 
-
 **Skill 2: Luminous Bullet**
 Saren does 3 hits that each deal 12504 physical damage to a random enemy in front of her. She also heals the the ally with the lowest HP for 15597 HP.
 
-
 **EX Skill: Silent Blaze**
 Saren's P.DEF goes up by 538 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

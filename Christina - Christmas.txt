@@ -10,20 +10,16 @@ Overall: E
 If Christina has no coin, she deals 167728 damage to the nearest enemy, boosts her P.ATK by 9684 and obtains a coin.
 If Christina has a coin, she uses up the coin to deal 335457 damage to the nearest enemy that never misses.
 
-
 **Skill 1: Enhance Present**
 no UE: If Christina has no coin, she boosts the P.ATK of all allies that do physical attacks by 5380.
 If Christina has a coin, she boosts the P.ATK of all allies that do physical attacks by 2690 and her P.ATK by 9415.
 w/ UE: If Christina has no coin, she boosts the P.ATK of all allies that do physical attacks by 6456.
 If Christina has a coin, she boosts the P.ATK of all allies that do physical attacks by 2690 and boosts her P.ATK and P.Critical Damage by 11298 and 25% respectively.
 
-
 **Skill 2: Destruction**
 If Christina has no coin, she deals 62898 damage to the nearest enemy.
 If Christina has a coin, she deals 55909 damage to the nearest enemy and boosts the party's TP Fill Rate by 10.
 
-
 **EX Skill: Burn Script**
 Christina's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

@@ -9,22 +9,17 @@ Overall: SS
 **Union Burst: Yuuki wo dashite totsugeki desu~!**
 Ayumi deals 22256 physical damage to all enemies in an area in front of her and afflicts them with Darkness and Confusion debuffs.
 
-
 **Union Burst (6★): Hawawawa, taihen desu~!?**
 Ayumi deals 85670 physical damage to all enemies in an area in front of her, afflicts them with Darkness and Confusion debuffs and lowers their TP Fill Rate by 50.
 The damage dealt increases every time this Skill is used (up to 3 times).
-
 
 **Skill 1: T-tsuki sashimasu!**
 no UE: Ayumi deals 15106 physical damage to all enemies in an area around her and lowers their P.ATK by 1076.
 w/ UE: Ayumi deals 25421 physical damage to all enemies in an area around her and lowers their P.ATK by 1722.
 
-
 **Skill 2: Me wo tojite ikeru kana...?**
 Ayumi deals 8392 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff.
 
-
 **EX Skill: Wakidasu Yuuki**
 Ayumi's P.DEF goes up by 538 (gains an additional +30 P.DEF at ★5) at the start of the battle.
-
 

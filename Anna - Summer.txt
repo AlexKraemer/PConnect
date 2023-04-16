@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Summer Dragonics Breaker**
 Anna deals 196920 magical damage to the nearest enemy. If there is only 1 remaining target, Anna boosts her M.ATK by 6053.
 
-
 **Skill 1: Rasetsu Nehan: Kaigokusen**
 no UE: Anna deals 34413 magical damage to the nearest enemy and lowers the target's M.DEF by 216.
 w/ UE: Anna deals 114360 magical damage to the nearest enemy and lowers the target's M.DEF by 431.
 
-
 **Skill 2: Kakyoku: Suimeiki**
 Anna lowers the M.ATK of all allies except herself by 90% of their base M.ATK but boosts her M.ATK and M.Critical by 32280 and 100 respectively.
 
-
 **EX Skill: Kaikyoku: Meibaku Rensa**
 Anna's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 

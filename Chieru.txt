@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Cheru Cheru?Genocide**
 Chieru deals 120148 physical damage to the nearest enemy and boosts her P.ATK and P.Critical by 5380 and 120 respectively.
 
-
 **Skill 1: Cheru We?Dance?**
 no UE: Chieru boosts her P.ATK and P.Critical by 7532 and 80 respectively and Action Speed by a large amount (100%), and gains 1 Cheru whenever she deals critical damage to an enemy. Cheru stacks up to 30 times.
 w/ UE: Chieru boosts her P.ATK and P.Critical by 11298 and 150 respectively and Action Speed by a extra large amount (125%), and gains 1 Cheru whenever she deals critical damage to an enemy. Cheru starts at 30 stacks. Cheru stacks up to 77 times.
 
-
 **Skill 2: Cast?A?Cheru~n**
 Chieru deals 26699 physical damage to the nearest enemy, lowers the target's P.ATK by 3228 and boosts her P.ATK and P.Critical by 1614 and 35 respectively. The P.ATK and P.Critical buffs increase according to the number of Cheru stacks Chieru has.
 
-
 **EX Skill: Sekai de Ichiban?Cherun na Ko**
 Chieru's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

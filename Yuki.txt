@@ -9,18 +9,14 @@ Overall: SS
 **Union Burst: Boku no bi ni hirefusu ga ii!**
 Yuki deals 11553 magical damage to all enemies, and lowers their P.DEF by 93.
 
-
 **Skill 1: Boku no me ga kuramu hodo no utsukushisa?**
 no UE: Yuki deals 4035 magical damage to the 2nd nearest enemy and afflicts the target with a Darkness debuff.
 w/ UE: Yuki deals 35773 magical damage to the 2nd nearest enemy and afflicts the target with Darkness and Charm debuffs.
-
 
 **Skill 2: Kawaii boku ga ouensuru yo?**
 Yuki recovers the TP of the ally with the most TP by 725.
 【Post-S.Lv260】Additional P.ATK buff (+64) to target, TP Recovery capped at 725.
 
-
 **EX Skill: Kawaii boku ga ganbaru yo**
 Yuki's M.ATK goes up by 4035 (gains an additional +30 P.DEF at ★5) at the start of the battle.
-
 

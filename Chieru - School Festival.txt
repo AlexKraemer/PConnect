@@ -9,18 +9,14 @@ Overall: D
 **Union Burst: Cheru Cheru?Carnival**
 When Chieru has 40 Cheru stacks, she boosts the P.ATK of all allies by 8608 and her TP Fill Rate and P.Critical damage by 10 and 10% respectively. She also deals 83014 physical damage to the nearest enemy.
 
-
 **Skill 1: Cherurun?Rush Hour**
 no UE: Chieru deals 34589 physical damage to the nearest enemy. This Skill's damage increases according to the number of Cheru stacks.
 w/ UE: Chieru deals 50287 physical damage to the nearest enemy. This Skill's damage increases according to the number of Cheru stacks.
 When Chieru has 40 Cheru stacks, she boosts the P.ATK and P.Critical of all allies by 8608 and 200 respectively.
 
-
 **Skill 2: Cheru Fest?a la Mode**
 Whenever Cheru lands a hit on the enemy, she gains one Cheru (up to 40 stacks). She also boosts her P.ATK by 5380 and Action Speed by a large amount (75%).
 
-
 **EX Skill: 24-jikan?Cherun na Ko**
 Chieru's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

@@ -9,16 +9,12 @@ Overall: A
 **Union Burst: Usagi-san Summer Impact**
 Mimi boosts her P.ATK by 10108 and deals 26345 physical damage to all enemies. She also deals 111968 physical damage to all Multitarget enemies and lower their P.DEF by 227.
 
-
 **Skill 1: Pyon Pyon Summer**
 no UE: Mimi deals 42811 physical damage to the nearest enemy and recovers her TP by 180. If the nearest enemy is a Multitarget enemy, Mimi deals 42811 physical damage to all of its targets.
-
 
 **Skill 2: Usagi-san Summer Attack**
 Mimi deals 32267 physical damage to all enemies in an area around the nearest enemy and lowers their P.DEF by 173. If the nearest enemy is a Multitarget enemy, Mimi boosts her P.ATK and P.Critical by 3990 and 50 respectively.
 
-
 **EX Skill: Natsu no Umi mo Usagi-san Power**
 Mimi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

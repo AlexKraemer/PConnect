@@ -9,17 +9,13 @@ Overall: D
 **Union Burst: Saihyouken: Sekka**
 Rei deals 20229 physical damage to all enemies and afflicts them with a Stun debuff.
 
-
 **Skill 1: Nadare Gaeshi**
 no UE: Rei taunts all enemies. If Rei gets attacked during the stance after taunting, she deals 5532 physical damage to all enemies in an area in front of her and lowers their P.DEF by 43.
 w/ UE: Rei taunts all enemies and boosts her M.DEF by 532. If Rei gets attacked during the stance after taunting, she deals 20314 physical damage to all enemies in an area in front of her, lowers their P.DEF by 64 and afflicts them with a Stun debuff.
 
-
 **Skill 2: Hakugin Fuyujitaku**
 Rei deploys Barriers that negate up to 2660 magical damage on all allies in an area around her, and boosts her M.DEF by 266.
 
-
 **EX Skill: Hyouheki no Kamae**
 Rei's M.DEF goes up by 532 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

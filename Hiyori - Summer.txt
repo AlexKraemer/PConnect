@@ -9,16 +9,12 @@ Overall: C
 **Union Burst: Hiyori Cheer Sunshine**
 Hiyori boosts the P.ATK, P.Critical and P.Critical Damage of all allies in an area around her by 1330, 20 and 3% respectively. The potencies of the P.ATK and P.Critical buffs increase according to the number of allies within the AoE.
 
-
 **Skill 1: Nikukyuu Splash**
 no UE: Hiyori boosts the P.ATK of all allies in an area around her by 665 and their Action Speed by a large amount (50%). The potency of the P.ATK buff increases according to the number of allies within the AoE.
-
 
 **Skill 2: Heartly High V**
 Hiyori heals all allies in an area around her for 2995 HP and applies a Regen buff that heals for 1331 HP per second to them.
 
-
 **EX Skill: Midsummer Yell**
 Hiyori's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

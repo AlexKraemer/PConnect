@@ -9,17 +9,13 @@ Overall: B
 **Union Burst: New Year Burst**
 Kyaru deals 159043 magical damage to the nearest enemy and boosts her M.ATK by 2660. The M.ATK boost goes up in potency according to the damage dealt by this Skill.
 
-
 **Skill 1: Shadow Bullet**
 no UE: Kyaru deals 53014 magical damage to the nearest enemy.
 w/ UE: Kyaru deals 72027 magical damage to all enemies in an area around the nearest enemy.
 
-
 **Skill 2: Wishing Field**
 Kyaru boosts the M.ATK of all allies by 1596 and deploys a Barrier that negates up to 798 physical damage on all allies. The higher Kyaru's M.ATK is, the stronger the Barrier.
 
-
 **EX Skill: Desire Veil**
 Kyaru's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 

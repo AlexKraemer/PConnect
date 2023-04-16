@@ -9,21 +9,16 @@ Overall: S
 **Union Burst: Ocean Heal**
 Kokkoro heals the ally with the lowest HP for 57528 HP.
 
-
 **Union Burst (6★): Ocean Sanctuary**
 Kokkoro heals the ally with the lowest HP for 74060 HP. She also heals all allies for 11362 HP and boosts their P.ATK, TP Fill Rate and P.Critical Damage by 6384, 10 and 20% respectively. She also lowers the P.DEF of all enemies by 107.
-
 
 **Skill 1: Nereid Spear**
 no UE: Kokkoro deals 17932 physical damage to the nearest enemy and lowers the target's P.DEF by 160.
 w/ UE: Kokkoro deals 18417 physical damage to the nearest enemy and lowers the target's P.DEF by 266.
 
-
 **Skill 2: Naval Support**
 Kokkoro boosts the P.ATK of all allies by 1596.
 
-
 **EX Skill: Natsu no Tenkei**
 Kokkoro's M.DEF goes up by 532 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

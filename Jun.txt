@@ -9,21 +9,16 @@ Overall: A
 **Union Burst: Inferno Shield**
 Jun deploys a Barrier that absorbs up to 14795 physical and magical damage on herself.
 
-
 **Union Burst (6★): Inferno Rampart**
 Jun deploys a Barrier that absorbs up to 19368 physical and magical damage on herself and deploys a Field that boosts the P.ATK of all allies in an area around her by 8070 and boosts the Action Speed of all allies in an area around her by a Large amount (55%).
-
 
 **Skill 1: Brave Recovery**
 no UE: Jun heals the ally in an area around her with the lowest HP for 17844 HP.
 w/ UE: Jun heals the ally in an area around her with the lowest HP for 18806 HP and boosts the target's P.ATK by 2959 and Action Speed by a small amount (20%).
 
-
 **Skill 2: Armour Break**
 Jun deals 11648 physical damage and lowers the target's P.DEF by 162.
 
-
 **EX Skill: Justice Barrier**
 Jun's M.DEF goes up by 538 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Tsui no Tachi: Seiran Wakatsu Shiraito**
 Ruka deals 84838 physical damage to all enemies in an area in front of her. After Ruka uses this Skill for the first time in a battle, she boosts her P.ATK by 3363 for every 15 times she deals damage.
 
-
 **Skill 1: Hajimari no Tachi: Ake no Minazuki**
 no UE: Ruka deals 37773 physical damage to all enemies in an area in front of her and boosts her P.ATK by 4035.
 w/ UE: Ruka deals 41113 physical damage to all enemies in an area in front of her and boosts her P.ATK by 6187.
 
-
 **Skill 2: Tsugu no Tachi: Kunpuu Soyogu**
 Ruka deals 42419 physical damage to all enemies in an area in front of her.
 
-
 **EX Skill: Wakanatsu no Kotowari**
 Ruka's P.ATK goes up by 538 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

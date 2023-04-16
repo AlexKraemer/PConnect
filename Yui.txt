@@ -9,21 +9,16 @@ Overall: E
 **Union Burst: Heal All**
 Yui heals all allies for 9778 HP.
 
-
 **Union Burst (6★): Flowering Heal**
 Yui heals all allies for 15736 HP, boosts their P.DEF by 320 and Action Speed by a large amount (100%) and deploys on them a Barrier that negates up to 11970 physical damage.
-
 
 **Skill 1: Flower Shot**
 no UE: Yui deals 25809 magical damage to the nearest enemy.
 w/ UE: Yui deals 35476 magical damage to the nearest enemy and lowers the target's P.ATK by 1995.
 
-
 **Skill 2: Floral Shield**
 Yui boosts the P.DEF of all allies by 63.
 
-
 **EX Skill: Flower Aura**
 Yui's M.ATK goes up by 3990 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

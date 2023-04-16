@@ -9,18 +9,14 @@ Overall: C
 **Union Burst: Sylphid Carol**
 Chika summons 3 Sylphs in front of her.
 
-
 **Skill 1: Ascension Waltz**
 no UE: Chika boosts the P.ATK of the ally with the highest P.ATK by 5320.
 w/ UE: Chika boosts the P.ATK and P.Critical of the ally with the highest P.ATK by 5320 and 100 respectively. The higher Chika's M.ATK is, the higher the P.ATK boost.
-
 
 **Skill 2: Guardian Melody**
 Chika boosts P.DEF of all allies in an area around her by 241 and recovers their TP by 108.
 【Post-S.Lv260】P.DEF buff increased (240 → 241), TP Recovery capped at 108.
 
-
 **EX Skill: Gifted Anthem**
 Chika's M.ATK goes up by 3990 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

@@ -9,18 +9,14 @@ Overall: E
 **Union Burst: Sparkle Magic**
 Mio deals 129601 magical damage to the nearest enemy and boosts her M.ATK by 5380.
 
-
 **Skill 1: Triple Star**
 no UE: Mio deals 17623 | 22601 | 27579 magical damage to up to the 3 nearest enemies. This damage increases the further the enemy is.
 w/ UE: Mio deals 39133 | 46951 | 57375 magical damage to up to the 3 nearest enemies, recovers her TP by 128 and boosts her M.ATK by 2690. This damage increases the further the enemy is.
 【Post-S.Lv260】Damaged increased (27551 | 35369 | 45793 → 39133 | 46951 | 57375), TP Recovery capped at 128.
 
-
 **Skill 2: Susume?Fight Yell**
 Mio heals all allies in an area around the ally with the lowest HP for 7586 HP.
 
-
 **EX Skill: Tensei no Miryoku**
 Mio's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 

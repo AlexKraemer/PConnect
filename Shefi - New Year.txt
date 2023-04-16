@@ -9,18 +9,14 @@ Overall: A
 **Union Burst: Freudenich Tanz**
 Shefi deals 81225 physical damage to all enemies in an area in front of her. Ice Dragon Fang also manifests until she runs out of TP.
 
-
 **Skill 1: Harukutsu**
 no UE: Shefi boosts the P.ATK and TP Fill Rate of all allies in an area around her by 1995 and 5 respectively. This Skill's potency increases when Ice Dragon Fang is on the field.
 w/ UE: Shefi boosts the P.ATK and TP Fill Rate of all allies in an area around her by 3192 and 10 respectively. She also deploys a Field around her that heals all allies within it for 1033 HP per second.
 This Skill's potency increases when Ice Dragon Fang is on the field.
 
-
 **Skill 2: Hyousen**
 Shefi deals 47381 physical damage to all enemies in an area of her and lowers their P.DEF by 133. She deals additional physical damage to all enemies when Ice Dragon Fang is on the field.
 
-
 **EX Skill: Sparkle Jump**
 Shefi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

@@ -9,21 +9,16 @@ Overall: C
 **Union Burst: Shooting?Star**
 Hatsune deals 25018 magical damage to all enemies and deals a further 16878 magical damage to all enemies that do physical attacks.
 
-
 **Union Burst (6★): Shooting?Meteor**
 Hatsune deals 85170 magical damage to all enemies that do physical attacks, lowers their M.DEF by 144 and applies to them a Stun debuff. She then deals a further 30330 magical damage to all enemies.
-
 
 **Skill 1: Psycho?Blast**
 no UE: Hatsune deals 50009 magical damage to the enemy with the highest P.ATK.
 w/ UE: Hatsune deals 58417 magical damage to the enemy with the highest P.ATK and lowers the target's M.DEF by 54.
 
-
 **Skill 2: Star?Light**
 Hatsune deals 25004 magical damage to the enemy with the highest P.ATK and afflicts the target with a Stun debuff.
 
-
 **EX Skill: Happiness?Energy**
 Hatsune's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 

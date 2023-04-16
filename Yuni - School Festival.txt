@@ -10,25 +10,20 @@ Overall:
 Yuni boosts the P.ATK and M.ATK of all allies except herself by 3228 and places Shinsoku-kun in "Learning Time" mode for a certain period of time.
 While in ""Learning Time"", Yuni further boosts the P.Critical Damage and M.Critical Damage of all allies except herself by 12%.
 
-
 **Skill 1: Mahou Rikigakuteki Kaiseki Enshuu**
 no UE: Yuni lowers the P.DEF and M.DEF of all enemies in an area in front of her by 81.
 While in ""Learning Time"", Yuni further afflicts them with a debuff that increases the damage they take when receiving Critical attacks by 8%.
 w/ UE: Yuni lowers the P.DEF and M.DEF of all enemies in an area in front of her by 81 and lowers the P.DEF and M.DEF of the nearest enemy by 54.
 While in ""Learning Time"", Yuni further afflicts them with a debuff that increases the damage they take when receiving Critical attacks by 8%.
 
-
 **Skill 2: Keijijougakuteki Kakuchou Riron**
 Yuni boosts the Action Speed and TP Fill Rate of all allies except herself by a large amount (50%) and 5 respectively.
 While in ""Learning Time"", Yuni further recovers the TP of all allies except herself by 44.
 【Post-S.Lv260】Additional P.ATK and M.ATK buffs (+32) to targets, TP Recovery capped at 44.
 
-
 **EX Skill: Seiiki no Manabi**
 Yuni's Max HP goes up by 20175 (gains an additional +1200 Max HP at ★5) at the start of the battle.
 
-
 **SP 1: Kinki no Danshou**
 Yuni boosts the P.ATK and M.ATK of all allies except herself by 22%.
-
 

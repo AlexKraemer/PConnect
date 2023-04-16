@@ -9,7 +9,6 @@ Overall: D
 **Union Burst: Sweet Sanctuary**
 Shizuru deploys a Field around herself that boosts the P.ATK, P.Critical and TP Fill Rate of all allies within it by 3192, 100 and 5 respectively.
 
-
 **Skill 1: Cureness Sign**
 no UE: Shizuru heals the ally in an area around her with the lowest HP for 14080 HP and recovers the target's TP by 144.
 【While Field is being deployed】Heals and recovers all allies' HP and TP.
@@ -18,13 +17,10 @@ w/ UE: Shizuru heals the ally in an area around her with the lowest HP for 17482
 【While Field is being deployed】 Heals and recovers all allies' HP and TP, and boosts their P.ATK by 3990.
 【Post-S.Lv260】Heal increased (13832 → 17482), TP Recovery capped at 180.
 
-
 **Skill 2: Segment Heart Shot**
 Shizuru deals 21206 physical damage to the nearest enemy and lowers the target's P.DEF by 40.
 【While Field is being deployed】Damage and debuff increases to 42412 and 67 respectively.
 
-
 **EX Skill: Onee-chan Pure Heart**
 Shizuru's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

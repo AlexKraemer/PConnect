@@ -9,17 +9,13 @@ Overall: C
 **Union Burst: Koukotsu zecchou no mai~!**
 Kuuka heals herself for 41941 HP and boosts the P.DEF and M.DEF of allies in an area centred around her by 404.
 
-
 **Skill 1: Minna takaburimasu yo~!**
 no UE: Kuuka boosts the M.ATK of all allies by 1614.
 w/ UE: Kuuka boosts the M.ATK and M.Critical of all allies by 4304 and 75 respectively, and boosts the Action Speed of all allies by a medium amount (25%).
 
-
 **Skill 2: Ayashii momoiro toiki desu~!**
 Kuuka deals 16362 magical damage to the nearest enemy and lowers the target's M.DEF by 162.
 
-
 **EX Skill: Kenran Trip Zone**
 Kuuka's M.DEF goes up by 538 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

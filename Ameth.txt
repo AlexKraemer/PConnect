@@ -9,20 +9,15 @@ Overall: SSS
 **Union Burst: Fiore Felicità**
 Ameth boosts the P.DEF and M.DEF of all allies by 323, applies a Regen buff that heals for 1932 HP per second to them and deploys Barriers that negate up to 12105 physical and magical damage on them.
 
-
 **Skill 1: Luce Curativa**
 no UE: Ameth heals the ally with the lowest HP for 20127 HP and applies to the target a Physical Damage Cut buff (15%) and a Magical Damage Cut buff (15%).
-
 
 **Skill 2: Torre Splendente**
 Ameth boosts the P.ATK and M.ATK of all allies with a Barrier by 13988 and recovers their TP by 200. The higher Ameth's M.ATK is, the higher the P.ATK and M.ATK buffs are (up to 5 times the base amount).
 
-
 **EX Skill: Rifare Piuma**
 Ameth's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
 
-
 **SP 1: Scudetto**
 Ameth boosts the P.DEF and M.DEF of all allies by 15% of their base P.DEF and M.DEF stats.
-
 

@@ -9,17 +9,13 @@ Overall: D
 **Union Burst: Carmina Summer Dome**
 Tsumugi deals 90979 physical damage to the nearest enemy and lowers the target's Action Speed by a large amount (50%).
 
-
 **Skill 1: Splash String**
 no UE: Tsumugi deals 26184 physical damage to the nearest enemy and afflicts the target with a Bind debuff.
 w/ UE: Tsumugi deals 54345 physical damage to the enemy with the highest P.ATK or M.ATK (whichever is higher), afflicts the target with a Bind debuff and lowers the target's TP by 150.
 
-
 **Skill 2: Summer Bind Action**
 Tsumugi deals 8728 physical damage to the enemy with the highest P.ATK or M.ATK (whichever is higher) and afflicts the target with a Bind debuff, and pulls the target to right before herself.
 
-
 **EX Skill: Tailor Imagination**
 Tsumugi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

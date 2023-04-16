@@ -9,24 +9,18 @@ Overall: B
 **Union Burst: Eternal Friendship**
 Vampy deals 137038 magical damage to the nearest enemy, boosts her M.ATK by 8070 and fights together with Beth until she runs out of TP.
 
-
 **Skill 1: Blood Drain**
 no UE: Vampy deals 68519 magical damage to the nearest enemy, lowers the target's TP by 75 and recovers her TP by 75.
-
 
 **Skill 2: Crimson Gift**
 Vampy boosts the M.ATK of all allies by 5111.
 
-
 **EX Skill: Oshioki shichau yo!**
 Vampy's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 
 **SP 1: Scarlet Link**
 Vampy deals 92500 magical damage to the nearest enemy and lowers the target's M.DEF by 323.
 
-
 **SP 2: Little Breath**
 Vampy deals 109630 magical damage to the nearest enemy and boosts her M.ATK by 8070.
-
 

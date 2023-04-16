@@ -9,18 +9,14 @@ Overall: D
 **Union Burst: Ride on Christmas**
 Nozomi boosts the P.DEF of all allies by 67. The amount boosted increases according to the number of allies positioned behind her.
 
-
 **Skill 1: Christmas Yell**
 no UE: Nozomi deploys Barriers that negate up to 2660 physical damage on all allies.
 w/ UE: Nozomi heals herself for 1916 HP. She then deploys Barriers that negate up to 5320 physical damage on all allies, boost their P.DEF by 40, and applies to them a Regen that heals for 383 HP per second.
 The amount of HP she heals herself for, the P.DEF boosted and the amount of HP healed per second by the Regen increases according to the number of allies positioned behind her.
 
-
 **Skill 2: Frost Slash**
 Nozomi deals 25396 physical damage to the nearest enemy and afflicts the target with a Frozen debuff.
 
-
 **EX Skill: Illuminate Smile**
 Nozomi's P.DEF goes up by 532 (gains an additional +30 P.DEF at ★5) at the start of the battle.
-
 

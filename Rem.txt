@@ -9,17 +9,13 @@ Overall: C
 **Union Burst: Al Huma**
 Rem deals 128205 physical damage to all incapacitated enemies in an area in front of her, and deals 71225 physical damage to all enemies that are not incapacitated in an area.
 
-
 **Skill 1: El Huma**
 no UE: Rem deals 42735 physical damage to the nearest enemy and afflicts the target with a Freeze debuff.
 w/ UE: Rem deals 57743 physical damage to all enemies in an area around the nearest enemy and afflicts them with a Freeze debuff.
 
-
 **Skill 2: Aqua Healing**
 Rem heals the ally with the lowest HP for 34267 HP.
 
-
 **EX Skill: Onigakattemasu!**
 Rem's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

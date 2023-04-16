@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Halloween Broom Dance**
 Kyouka lowers the nearest enemy's M.DEF by 213 and boosts the M.ATK of all allies by 5320.
 
-
 **Skill 1: Magical Trick**
 no UE: Kyouka boosts the M.ATK of the ally with the highest M.ATK by 3990. The higher Kyouka's M.ATK is, the higher this boost gets.
 w/ UE: Kyouka boosts the M.ATK of the ally with the highest M.ATK by 5985. The higher Kyouka's M.ATK is, the higher this boost gets.
 
-
 **Skill 2: Magical Treat**
 Kyouka boosts the M.ATK of all allies by 1330.
 
-
 **EX Skill: Halloween Brave**
 Kyouka's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 

@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Fatality Bind**
 Tsumugi deals 36521 physical damage to all enemies in an area in front of her, afflicts them with a Bind debuff, pulls the furthest enemy among them slightly closer and pushes the nearest enemy slightly away.
 
-
 **Skill 1: Capture String**
 no UE: Tsumugi deals 30434 physical damage to the 2nd nearest enemy and pulls the target slightly closer.
 w/ UE: Tsumugi deals 31302 physical damage to the 2nd nearest enemy, afflicts the target with a Stun debuff and pulls the target slightly closer. She also boosts her P.ATK and P.DEF by 3192 and 107 respectively.
 
-
 **Skill 2: Spiral Yarn**
 Tsumugi deals 4565 physical damage to all enemies in an area in front of her and lower their Movement Speed and Action Speed slightly (10%).
 
-
 **EX Skill: Tailor Guts**
 Tsumugi's P.DEF goes up by 532 (gains an additional +30 P.DEF at ★5) at the start of the battle.
-
 

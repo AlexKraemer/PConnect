@@ -9,18 +9,14 @@ Overall: A
 **Union Burst: Neko Neko Taiyaki Rush**
 Tamaki deals 129441 physical damage to the nearest enemy and boosts her P.ATK by 12105.
 
-
 **Skill 1: Fish Edge**
 no UE: Tamaki deals 61314 physical damage to the nearest enemy.
 w/ UE: Tamaki deals 127312 physical damage to the nearest enemy and boosts the P.ATK of all allies by 8608. She also boosts her TP Fill Rate by 10 and recovers her TP by 225.
-
 
 **Skill 2: Neko no Omotenashi**
 Tamaki recovers the TP of all allies by 128 and boosts their P.ATK by 2669.
 【Post-S.Lv260】P.ATK buff increased (2637 → 2669), TP Recovery capped at 128.
 
-
 **EX Skill: Cat Showtime**
 Tamaki's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Puukichi Santa Storm**
 Ayane deals 255212 physical damage to the nearest enemy, but uses up 56844 HP.
 
-
 **Skill 1: Puukichi Yell**
 no UE: Ayane boosts her P.ATK by 5918.
 w/ UE: Ayane boosts her P.ATK by 11298 and Action Speed by a large amount (75%).
 
-
 **Skill 2: Puukichi Rush**
 Ayane deals 34808 physical damage to the nearest enemy and pushes the target away by a small distance.
 
-
 **EX Skill: Holy Night Slugger**
 Ayane's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

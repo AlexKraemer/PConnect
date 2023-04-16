@@ -9,16 +9,12 @@ Overall: B
 **Union Burst: Brave Tiger Special**
 Matsuri deals 185926 physical damage to the nearest enemy, deals 17296 physical damage to the target (the lower Matsuri's HP is, the higher the damage), boosts the P.ATK of all allies by 7532 and afflicts herself with a Stun debuff.
 
-
 **Skill 1: Justice Shield**
 no UE: Matsuri deals 37185 physical damage to the nearest enemy and lowers the target's P.DEF by 189. The lower Matsuri's HP is, the higher the damage.
-
 
 **Skill 2: Tiger Spirit**
 Matsuri boosts her P.ATK and P.DEF by 8070 and 162 respectively, and deploys a Barrier that negates up to 24210 physical and magical damage on herself. The lower Matsuri's HP is, the higher the amount of damage the Barrier can negate.
 
-
 **EX Skill: Brave Power MAX!**
 Matsuri's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

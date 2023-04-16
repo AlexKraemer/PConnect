@@ -9,33 +9,25 @@ Overall: SS
 **Union Burst: Object Creation**
 Labyrista boosts her P.ATK and P.Critical by 15960 and 200 respectively. She unleashes her authority of the Seven Crowns and boosts the P.Critical damage of all allies by 5%.
 
-
 **Skill 1: Optimise**
 no UE: Labyrista boosts the P.ATK and P.Critical of all allies by 2660 and 50 respectively.
 w/ UE: Labyrista boosts the P.ATK and P.Critical of all allies by 5320 and 75 respectively. She also recovers her TP by 200.
 
-
 **Skill 2: Build**
 Labyrista deals 48700 physical damage to the nearest enemy and lowers the target's P.DEF by 107.
-
 
 **EX Skill: Queen's Domain**
 Labyrista's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
 
-
 **Object Creation 1: Acceleration**
 Labyrista boosts the P.ATK and P.Critical of all allies by 5320 and 75 respectively and the Action Speed of all allies by a large amount (50%).
-
 
 **Object Creation 1+: Acceleration+**
 Labyrista boosts the P.ATK and P.Critical of all allies by 10640 and 100 respectively and the Action Speed of all allies by a large amount (+100%).
 
-
 **Object Creation 2: Export**
 Labyrista deals 97401 physical damage to the nearest enemy and lowers the target's P.DEF by 160.
 
-
 **Object Creation 3: Initialise**
 Labyrista deals 146102 physical damage to all enemies and dispels Object Creation. She lowers her TP by 1000.
-
 

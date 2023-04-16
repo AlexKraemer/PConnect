@@ -9,21 +9,16 @@ Overall: S
 **Union Burst: Live on Stage**
 Nozomi boosts the P.ATK of all allies by 1197, boosts her P.DEF and M.DEF by 479 and Taunts all enemies.
 
-
 **Union Burst (6★): Live on Special Stage**
 Nozomi boosts the P.ATK of all allies by 3325, deploys a Barrier that negates up to 7182 physical/magical damage on them and boosts her P.DEF and M.DEF by 559. She then Taunts and Stuns all enemies.
-
 
 **Skill 1: Clair Slash**
 no UE: Nozomi deals 5548 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff.
 w/ UE: Nozomi deals 12447 physical damage to all enemies in an area in front of her, afflicts them with a Stun debuff and lowers their P.ATK by 399.
 
-
 **Skill 2: Idol Yell**
 Nozomi heals all allies in an area around her for 11250 HP.
 
-
 **EX Skill: Luminous Smile**
 Nozomi's P.DEF goes up by 532 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

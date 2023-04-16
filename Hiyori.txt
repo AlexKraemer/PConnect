@@ -9,21 +9,16 @@ Overall: B
 **Union Burst: Hiyori Rush**
 Hiyori deals 74971 physical damage to the nearest enemy, deals a further 33737 physical damage to all enemies in a small area around her.
 
-
 **Union Burst (6★): Hiyori Burning Rush**
 Hiyori deals 183048 physical damage to the nearest enemy, deals a further 137286 physical damage to all enemies in an area around her.
-
 
 **Skill 1: Cat Strike**
 no UE: Hiyori deals 49980 physical damage to the nearest enemy.
 w/ UE: Hiyori deals 52155 physical damage to the nearest enemy, deals a further 23469 physical damage to all enemies in a small area around her.
 
-
 **Skill 2: Cat Combination**
 Hiyori deals 18875 physical damage to the nearest enemy and boosts her P.ATK by 2926.
 
-
 **EX Skill: Nikukyuu Power!**
 Hiyori's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

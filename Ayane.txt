@@ -9,22 +9,17 @@ Overall: E
 **Union Burst: Puukichi Full Swing**
 Ayane deals 115144 physical damage to the nearest enemy, pushes the target away by a large distance and afflicts the target with a Stun debuff.
 
-
 **Union Burst (6★): Puukichi Cyclone Arch**
 Ayane deals 176032 physical damage to all enemies in an area in front of her, pushes them away by a large distance and afflicts them with a Stun debuff.
-
 
 **Skill 1: Puukichi Break**
 no UE: Ayane deals 25587 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff.
 w/ UE: Ayane deals 39249 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff.
 She also deals 26704 physical damage to the nearest enemy and lowers the target's Action Speed by a medium amount (20%).
 
-
 **Skill 2: Puukichi Hurricane**
 Ayane deals 17285 physical damage to all enemies in an area around her and lowers their P.DEF by 54.
 
-
 **EX Skill: Pretty Slugger**
 Ayane's P.ATK goes up by 4035 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

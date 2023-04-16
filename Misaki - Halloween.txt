@@ -9,18 +9,14 @@ Overall: E
 **Union Burst: Pumpkin Death Party**
 Misaki deals 21719 magical damage to all enemies, afflicts them with a Bind debuff, a Curse debuff that deals 941 damage per second, and lowers their M.DEF by 122.
 
-
 **Skill 1: Lady Magic**
 no UE: Misaki deals 21750 magical damage to the nearest enemy and afflicts the target with a Charm debuff.
 w/ UE: Misaki deals 54772 magical damage to the nearest enemy, lowers the target's TP by 310 and afflicts the target with a Charm debuff.
 【Post-S.Lv260】Damage increased (44893 → 54772), TP Disruption capped at 310.
 
-
 **Skill 2: Halloween Boost**
 Misaki boosts the M.ATK of all allies in an area centred around her by 2959.
 
-
 **EX Skill: Halloween Lady**
 Misaki's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 

@@ -9,22 +9,17 @@ Overall: S
 **Union Burst: Kowagari Bell Swing**
 Kurumi deals 50778 physical damage to the nearest enemy and afflicts the target with a Stun debuff for a long duration.
 
-
 **Union Burst (6★): Debut Star Action**
 Kurumi deals 69550 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff for a long duration.
 She also greatly boosts the party's P.DEF and M.DEF by 296 and applies a Regen to all allies in an area around her that heals for 1074 HP per second.
-
 
 **Skill 1: Bravely Bell**
 no UE: Kurumi boosts the P.DEF and M.DEF of all allies by 101.
 w/ UE: Kurumi boosts the P.DEF and M.DEF of all allies by 202 and recovers their TP by 50.
 
-
 **Skill 2: Bell Vibrato**
 Kurumi deals 16926 physical damage to the nearest enemy and afflicts the target with a Stun debuff.
 
-
 **EX Skill: Brilliant Act**
 Kurumi's Max HP goes up by 20175 (gains an additional +1200 HP and +30 M.DEF at ★5) at the start of the battle.
-
 

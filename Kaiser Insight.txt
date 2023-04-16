@@ -9,20 +9,15 @@ Overall: B
 **Union Burst: Hadou Tensei: Metsukou**
 Kaiser Insight removes Barriers and Status UP effects from all enemies and deals 80580 physical damage to them.
 
-
 **Skill 1: Amenomurakumo no Tsurugi: Gishou**
 no UE: Kaiser Insight deals 49588 physical damage to all enemies in front of her and lower their TP by 100. She also recovers her TP by 100.
-
 
 **Skill 2: Yasakani no Magatama: Gensou**
 Kaiser Insight afflicts all enemies in front of her with a debuff that increases the physical and magical damage they take by 12%, lowers their P.DEF and M.DEF by 135 and afflicts them with a debuff that lowers their physical and magical Critical Damage by 15%.
 
-
 **EX Skill: Yata no Kagami: Kousai**
 Kaiser Insight's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
 
-
 **SP 1: Amenomurakumo no Tsurugi: Kusanagi**
 Kaiser Insight does a normal attack to all enemies in an area in front of her.
-
 

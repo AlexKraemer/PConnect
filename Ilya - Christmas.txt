@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Vermillion Noel**
 Ilya deals 162571 magical damage to the nearest enemy and boosts her M.ATK by 3990. The lower Ilya's HP is, the higher the damage.
 
-
 **Skill 1: Bat Carnival**
 no UE: Ilya deals 54190 magical damage to the nearest enemy. The lower Ilya's HP is, the higher the damage.
 w/ UE: Ilya boosts her M.ATK by 1064 and deals 69916 magical damage to the nearest enemy. The lower Ilya's HP is, the higher the M.ATK boost and damage.
 
-
 **Skill 2: Bloody Song**
 Ilya deals 33869 magical damage to all enemies in an area in front of her and boosts her M.ATK by 3990, but uses up 20% of her remaining HP. The lower Ilya's HP is, the higher the damage.
 
-
 **EX Skill: Seiya no Meiyaku**
 Ilya's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 

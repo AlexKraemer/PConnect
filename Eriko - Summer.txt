@@ -9,18 +9,14 @@ Overall: E
 **Union Burst: Deadly Summer Sunset**
 Eriko deals 170344 physical damage to the nearest enemy and boosts her P.Critical by 150. The duration of the P.Critical buff increases according to the amount of damage this Skill does.
 
-
 **Skill 1: Midsummer Blast**
 no UE: Eriko deals 44360 physical damage to the nearest enemy and lowers the target's P.DEF by 162.
 w/ UE: Eriko deals 91906 physical damage to the nearest enemy, lowers the target's P.DEF by 216 and boosts her P.ATK by 5380.
-
 
 **Skill 2: Alchemic Summer**
 Eriko lowers the P.DEF of the nearest enemy by 232 and recovers her TP by 144.
 【Post-S.Lv260】P.DEF debuff increased (229 → 232), TP Recovery capped at 144.
 
-
 **EX Skill: Neverending Summer**
 Eriko's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

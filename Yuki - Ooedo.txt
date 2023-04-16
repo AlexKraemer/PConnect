@@ -9,18 +9,14 @@ Overall: B
 **Union Burst: Kawaii boku wo kinkyuu touyo da yo?**
 Yuki boosts the M.ATK of all allies by 4304 and Action Speed of all allies by a large amount (60%). He also lowers the M.DEF of all enemies by 108.
 
-
 **Skill 1: Tenshi na boku ga iyashichau?**
 no UE: Yuki heals all allies in an area around the ally with the lowest HP for 9691 HP.
 w/ UE: Yuki boosts the M.ATK of all allies in an area around the ally with the lowest HP by 4035 and heals them for 10114 HP.
-
 
 **Skill 2: Boku no utsukushisa ga shohousen sa?**
 Yuki recovers the TP of the ally with the lowest TP by 360. He also boosts the M.ATK of all allies in an area around the target by 2066.
 【Post-S.Lv260】M.ATK buff increased (2018 → 2066), TP Recovery capped at 360.
 
-
 **EX Skill: Tenshi na boku ga ganbaru yo?**
 Yuki's M.DEF goes up by 538 (gains an additional +30 M.DEF at ★5) at the start of the battle.
-
 

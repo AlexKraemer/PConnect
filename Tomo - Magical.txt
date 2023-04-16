@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Shiny Aqua Stream**
 Tomo deals 235263 magical damage to the nearest enemy based on both her P.ATK and M.ATK combined.
 
-
 **Skill 1: Shiny Blade**
 no UE: Tomo deals 76114 magical damage to the nearest enemy based on both her P.ATK and M.ATK combined.
 w/ UE: Tomo boosts her P.ATK and M.Critical by 5380 and 600 respectively for a short period and deals 142438 magical damage to the nearest enemy based on both her P.ATK and M.ATK combined.
 
-
 **Skill 2: Shiny Aqua**
 Tomo boosts her P.ATK and M.Critical by 4842 and 150 respectively and boosts her Action Speed by a large amount (50%)
 
-
 **EX Skill: Shiny Attitude**
 Tomo's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

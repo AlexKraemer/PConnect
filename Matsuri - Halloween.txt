@@ -9,19 +9,15 @@ Overall: E
 **Union Burst: Halloween Tiger Hero**
 Matsuri deals 123435 physical damage to the nearest enemy and boosts her Action Speed by a large amount (50%). This Skill's damage and Action Speed buff goes up whenever she uses her UB (caps out at 4 times).
 
-
 **Skill 1: Hollow Tiger Claw**
 no UE: Matsuri deals 41145 physical damage to the nearest enemy. This Skill's damage goes up whenever she uses UB (caps out at 4 times).
 w/ UE: Matsuri deals 84206 physical damage to the nearest enemy and boosts her P.ATK by 2152. She also recovers her TP by 180.
 This Skill's damage and P.ATK buff potency goes up whenever she uses UB (caps out at 4 times).
 【Post-S.Lv260】Damage increased (71293 → 84206), TP Recovery capped at 180.
 
-
 **Skill 2: Nightmare Tiger**
 Matsuri deals 85382 physical damage to the nearest enemy, but uses up 20% of her remaining HP.
 
-
 **EX Skill: Trick or Justice**
 Matsuri's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
-
 

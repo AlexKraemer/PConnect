@@ -10,7 +10,6 @@ Overall: SS
 Neneka boosts the M.ATK and M.Critical of all allies that do magical attacks by 2825 and 30 respectively. The higher Neneka's M.ATK is, the higher the amount boosted.
 She also boosts their M.Critical Damage and TP Fill Rate by 10% and 5 respectively.
 
-
 **Skill 1: Flower Blessing**
 no UE: Neneka boosts the M.ATK and M.Critical of the ally with the highest M.ATK by 5444 and 100 respectively.
 She also boosts the target's M.Critical Damage by 5% and recovers the target's TP by 174.
@@ -20,12 +19,9 @@ The potencies of the M.ATK and M.Critical buffs increase up to 4 times and the p
 She also recovers the target's TP by 174.
 【Post-S.Lv260】M.ATK buff increased (5380 → 5444), TP Recovery capped at 174.
 
-
 **Skill 2: Sunrise Heal**
 Neneka heals the ally with the lowest HP for 9035 HP and boosts the target's M.ATK by 4842.
 
-
 **EX Skill: Brand New Illusion**
 Neneka's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 

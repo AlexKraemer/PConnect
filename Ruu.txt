@@ -9,17 +9,13 @@ Overall: E
 **Union Burst: Omeme-chan Attack!**
 Ruu deals 14957 | 18644 | 22332 | 26019 | 29706 | 33394 magical damage to all enemies in an area around the nearest enemy. The damage increases with the number of Omeme-chan on the field.
 
-
 **Skill 1: Omeme-chan deban desu~!**
 no UE: Ruu summons 1 Omeme-chan. Whenever Ruu takes damage, 1 Omeme-chan runs away, but the attacking enemy takes 8070 damage.
 w/ UE: Ruu summons 2 Omeme-chan and boosts her M.ATK by 2690. Whenever Ruu takes damage, 1 Omeme-chan runs away, but the attacking enemy takes 8070 damage.
 
-
 **Skill 2: Beginner's Luck**
 Ruu deals 67912 magical damage to the nearest enemy.
 
-
 **EX Skill: Never Give Up**
 Ruu's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
-
 
