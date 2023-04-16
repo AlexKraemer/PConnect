@@ -1,0 +1,29 @@
+**Luna (3★)**
+Details:
+Arena: ATK - B, DEF - C
+CB: ST - B, Multi - B
+Quest: B
+Overall: C
+
+
+**Union Burst: Phantom Howl**
+Luna deals 33963 magical damage to the nearest enemy. If there are Otomodachi available, Luna uses up to 5 Otomodachi to increase the damage dealt.
+
+
+**Skill 1: Soul Conversion**
+no UE: Luna deals 30601 magical damage to the ally with the highest remaining HP and recovers the target's TP by 800. Luna gains 1 Otomodachi.
+【Post-S.Lv260】Additional M.ATK buff (+64) to target, TP Recovery capped at 800.
+w/ UE: Luna deals 31689 magical damage to the ally with the highest remaining HP, recovers the target's TP by 800 and boosts the target's M.ATK and M.Critical by 2082 and 100 respectively.
+Luna also recovers her TP by 128. Luna gains 1 Otomodachi.
+【Post-S.Lv260】M.ATK buff increased (2018 → 2082), TP Recovery to target capped at 800, TP Recovery to self capped at 128.
+
+
+**Skill 2: Kienu Enkon**
+Luna deals 54341 magical damage to the nearest enemy. If there are 2 or more Otomodachi available, Luna uses 2 Otomodachi to increase the damage dealt to 108683.
+
+
+**EX Skill: Otomodachi ni natte kureru?**
+Luna's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+Hidden effect: Luna gains 1 Otomodachi stack every time she deals damage.
+
+

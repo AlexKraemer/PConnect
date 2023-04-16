@@ -1,0 +1,26 @@
+**Akari - Angel (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - D, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Heavenly Kiss**
+Akari deals 160708 magical damage to the nearest enemy.
+
+
+**Skill 1: Angel Charge**
+no UE: Akari boosts her M.ATK, M.Critical and M.Critical Damage by 19950, 400 and 24% respectively for a short period of time.
+w/ UE: Akari boosts her M.ATK, M.Critical and M.Critical Damage by 27970, 600 and 24% respectively for a short period of time, and recovers her TP by 360.
+【Post-S.Lv260】M.ATK buff increased (27930 → 27970), TP Recovery capped at 360.
+
+
+**Skill 2: Angel Shoot**
+Akari deals 40177 magical damage to the nearest enemy. This Skill does 3 times damage instead of 2 times when it procs Critical hits.
+
+
+**EX Skill: Ama Ama Angel Heart**
+Akari's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

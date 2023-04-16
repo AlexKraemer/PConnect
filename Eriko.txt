@@ -1,0 +1,30 @@
+**Eriko (2★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - A, Multi - N/A
+Quest: A
+Overall: A
+
+
+**Union Burst: Deadly Punish**
+Eriko deals 162102 physical damage to the nearest enemy, and boosts her P.ATK by 6053 if she defeats an enemy with this Skill.
+
+
+**Union Burst (6★): Deadly Execution**
+Eriko does 2 hits that each deal 258357 physical damage to the nearest enemy, afflicts the target with a debuff that increases damage taken from Critical attacks by 6% and boosts her P.ATK by 6053.
+If this Skill fails to defeat the target, she boosts her P.Critical Damage by 40%.
+
+
+**Skill 1: Obsession**
+no UE: Eriko boosts her P.ATK by 2018.
+w/ UE: Eriko boosts her P.ATK by 5380, and boosts her P.ATK and P.Critical by 24210 and 400 respectively for a short period.
+
+
+**Skill 2: Poison Blow**
+Eriko deals 42958 physical damage to the nearest damage and afflicts the target with a Poison debuff that deals 538 damage per second.
+
+
+**EX Skill: Kyouai no Chikara**
+Eriko's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

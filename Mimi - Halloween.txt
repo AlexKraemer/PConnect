@@ -1,0 +1,25 @@
+**Mimi - Halloween (3★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - N/A, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Guruguru Usagi-san Stomp**
+Mimi deals 111666 physical damage to all enemies in an area in front of her.
+
+
+**Skill 1: Guruguru Attack**
+no UE: Mimi deals 75331 physical damage to all enemies in an area in front of her.
+w/ UE: Mimi deals 95610 physical damage to all enemies in an area in front of her.
+
+
+**Skill 2: Guruguru Usagi-san Yell**
+Mimi boosts the P.ATK of all allies by 5852, but lowers their P.DEF and M.DEF by 10% of their base P.DEF and M.DEF.
+
+
+**EX Skill: Guruguru Usagi-san Power**
+Mimi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

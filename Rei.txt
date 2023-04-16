@@ -1,0 +1,29 @@
+**Rei (1★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - C, Multi - N/A
+Quest: C
+Overall: D
+
+
+**Union Burst: Slash Storm**
+Rei deals 152169 physical damage to the nearest enemy.
+
+
+**Union Burst (6★): Slash Tempest**
+Rei deals 371260 physical damage to the nearest enemy and clads herself in Blades of Wind. While Blades of Wind is active, all Skills are twice as potent.
+
+
+**Skill 1: Wind Thrust**
+no UE: Rei deals 50723 physical damage to the nearest enemy.
+w/ UE: Rei deals 52920 physical damage to the nearest enemy and lowers the target's P.DEF by 160.
+
+
+**Skill 2: Counter Slash**
+Rei deals 50723 physical damage to the nearest enemy. The damage dealt increases accordingly to the amount of damage Rei took during the stance prior to this attack.
+
+
+**EX Skill: Rapid Fencer**
+Rei's P.ATK goes up by 3990 (gains an additional +1125 HP at ★5) at the start of the battle.
+
+

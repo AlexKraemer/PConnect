@@ -1,0 +1,25 @@
+**Inori (3★)**
+Details:
+Arena: ATK - S, DEF - SS+
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: S
+
+
+**Union Burst: Dragon's Roar**
+Inori deals 59103 physical damage to all enemies in an area in front of her, afflicts them with a Burn debuff that deals 1614 damage per second and Pushes them away by a large distance.
+
+
+**Skill 1: Dragonic Pikohan**
+no UE: Inori deals 8865 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff.
+w/ UE: Inori deals 36575 physical damage to all enemies in an area in front of her, afflicts them with a Stun debuff and Pushes them away by a small distance.
+
+
+**Skill 2: Dragon Fire**
+Inori deals 33097 physical damage to all enemies in an area in front of her.
+
+
+**EX Skill: Yatteyaru desu yo**
+Inori's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

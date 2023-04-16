@@ -1,0 +1,28 @@
+**Aoi - Transfer Student (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - C, Multi - C
+Quest: C
+Overall: C
+
+
+**Union Burst: Venom Blast**
+Aoi deals 78048 physical damage to the nearest enemy, afflicts the target with a Poison debuff that does 1596 damage per second and lowers the target's P.DEF by 266.
+
+
+**Skill 1: Spike Circle**
+no UE: "Aoi deploys a Field around the nearest enemy that deals 3265 physical damage per second.
+If the target was afflicted with Poison or Toxic, the Field's damage inceases to 16326 physical damage per second.
+w/ UE: Aoi deploys a Field that deals 3396 physical damage per second and a Field that lowers P.DEF by 120 around the nearest enemy.
+If the target was afflicted with Poison or Toxic, the Field's damage increases to 27600 physical damage per second.
+
+
+**Skill 2: Acid Vine**
+Aoi lowers the nearest enemy's P.DEF by 187.
+If the target was afflicted with Poison or Toxic, Aoi deals a further 52032 physical damage.
+
+
+**EX Skill: Bocchi no Kyouji**
+Aoi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

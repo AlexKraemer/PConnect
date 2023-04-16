@@ -1,0 +1,25 @@
+**Mahiru - Christmas (1★)**
+Details:
+Arena: ATK - A, DEF - B
+CB: ST - B, Multi - B
+Quest: B
+Overall: B
+
+
+**Union Burst: Elizabeth Dream Land**
+Mahiru boosts the P.DEF of all allies by 243 and deploys a Barrier that negates up to 16140 physical damage on them.
+
+
+**Skill 1: Saint Harvest**
+no UE: Mahiru heals the ally with the lowest HP for 33856 HP and boosts the target's P.DEF by 296.
+w/ UE: Mahiru heals the ally with the lowest HP for 34896 HP and boosts the target's P.DEF by 296. She also boosts the P.ATK of all allies by 8070, heals them for 7382 HP and recovers their TP by 100.
+
+
+**Skill 2: Wild Wheel**
+Mahiru deals 46935 physical damage to all enemies in an area around the nearest enemy, lowers their Action Speed by a large amount (40%) and pushes them away by a large distance. The larger the number of targets, the shorter the distance pushed.
+
+
+**EX Skill: Christmas Farming**
+Mahiru's P.DEF goes up by 538 (gains an additional +30 P.DEF at ★5) at the start of the battle
+
+

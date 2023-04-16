@@ -1,0 +1,27 @@
+**Saren - Summer (3★)**
+Details:
+Arena: ATK - SS+, DEF - SS+
+CB: ST - A, Multi - A
+Quest: SS
+Overall: SS
+
+
+**Union Burst: Summer Bright Force**
+Saren boosts all allies' P.ATK and M.ATK by 2825 and Action Speed by a large amount (50%).
+
+
+**Skill 1: Splash Twirling**
+no UE: Saren recovers the TP of all allies by 500.
+【Post-S.Lv260】Additional P.ATK and M.ATK buffs (+32) to all allies, TP Recovery capped at 500.
+w/ UE: Saren recovers the TP of all allies by 551 and boosts their P.ATK and M.ATK by 4874.
+【Post-S.Lv260】P.ATK and M.ATK buffs increased (4842 → 4874), TP Recovery capped at 551.
+
+
+**Skill 2: Bright Yell**
+Saren boosts all allies' P.ATK and M.ATK by 673 and P.Critical and M.Critical by 20.
+
+
+**EX Skill: Noble Vacation**
+Saren's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

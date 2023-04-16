@@ -1,0 +1,30 @@
+**Mifuyu (2★)**
+Details:
+Arena: ATK - B, DEF - S
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: B
+
+
+**Union Burst: Splash Dive**
+Mifuyu deals 103438 physical damage to the nearest enemy and afflicts the target with a Stun debuff.
+
+
+**Union Burst (6★): Vortex Stream**
+Mifuyu deals 278654 physical damage to the nearest enemy and afflicts the target with a Stun debuff.
+If the target was already afflicted with an immobilising debuff when UB was used, Mifuyu deals a further 139327 physical damage to all enemies and afflicts them with a Stun debuff.
+
+
+**Skill 1: First Aid**
+no UE: Mifuyu heals herself for 25187 HP.
+w/ UE: Mifuyu heals herself for 31525 HP, boosts her P.DEF and M.DEF by 323 and deploys a Field around her that heals all allies within it for 1785 HP per second.
+
+
+**Skill 2: Hydro Slash**
+Mifuyu deals 20687 physical damage to the nearest enemy and afflicts the target with a Stun debuff.
+
+
+**EX Skill: Mercenary Pride**
+Mifuyu's P.ATK goes up by 4035 (gains an additional +30 P.DEF at ★5) at the start of the battle.
+
+

@@ -1,0 +1,30 @@
+**Christina (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - SS, Multi - B
+Quest: SS
+Overall: SS
+
+
+**Union Burst: Number's Avalon**
+Christina deals 125415 physical damage to the nearest enemy and evades all physical attacks for a certain amount of time. This Skill never misses and will always proc Critical.
+
+
+**Union Burst (6★): Ultima's Avalon**
+Christina does 2 attacks that each deals 137828 physical damage (50 P.DEF Ignore) to the nearest enemy, lowers the target's P.DEF by 54, and evades all physical attacks for a certain amount of time. This Skill never misses and will always proc Critical.
+
+
+**Skill 1: Overlay**
+no UE: Christina boosts her P.ATK and TP Fill Rate by 4035 and 15 respectively.
+w/ UE: Christina boosts her P.ATK and TP Fill Rate by 9748 and 30 respectively, recovers her TP by 540 and boosts her P.Critical Damage by 10%.
+【Post-S.Lv260】P.ATK buff increased (9684 → 9748), TP Recovery capped at 540.
+
+
+**Skill 2: Injection**
+Christina deals 41805 physical damage to the nearest enemy and lowers the target's P.DEF by 162.
+
+
+**EX Skill: Ignite Exe**
+Christina's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

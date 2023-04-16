@@ -1,0 +1,25 @@
+**Ruka (3★)**
+Details:
+Arena: ATK - C, DEF - C
+CB: ST - B, Multi - C
+Quest: C
+Overall: B
+
+
+**Union Burst: Zero no Tachi: Suigetsu Kyouka**
+Ruka deals 47996 physical damage to the nearest enemy and lowers the target's P.DEF by 323.
+
+
+**Skill 1: Ichi no Tachi: Shizuku Nagi**
+no UE: Ruka Taunts all enemies. If she gets hit during the movement after Taunting, Ruka deals 23983 physical damage to all enemies in an area in front of her and pushes them away by a small distance.
+w/ UE: Ruka Taunts all enemies. If she gets hit during the movement after Taunting, Ruka deals 42510 physical damage to all enemies in an area in front of her, lowers their P.DEF by 65 and pushes them away by a small distance.
+
+
+**Skill 2: Kaidai Musou no Kata**
+Ruka heals herself for 14653 HP and boosts her P.DEF by 216.
+
+
+**EX Skill: Meikyou Shisui no Kyouchi**
+Ruka's M.DEF goes up by 538 (gains an additional +30 M.DEF at ★5) at the start of the battle.
+
+

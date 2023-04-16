@@ -1,0 +1,26 @@
+**Miyako - Halloween (1★)**
+Details:
+Arena: ATK - D, DEF - C
+CB: ST - N, Multi - N
+Quest: D
+Overall: E
+
+
+**Union Burst: Trick or Treat nano**
+Miyako deals 123822 physical damage to the furthest enemy and afflicts the target with a Curse debuff that does 1614 damage per second.
+
+
+**Skill 1: Ookami onna nano**
+no UE: Miyako lowers the furthest enemy's TP by 528 and applies a Stun debuff on the target.【Post-S.Lv260】Additional P.ATK and M.ATK debuffs (32) to target, TP Disruption capped at 528.
+w/ UE: Miyako lowers the furthest enemy's TP by 528 and applies Stun and Panic debuffs on the target.
+【Post-S.Lv260】Additional P.ATK and M.ATK debuffs (32) to target, TP Disruption capped at 528.
+
+
+**Skill 2: Obake-go-round nano**
+Miyako lowers the furthest enemy's P.ATK and M.ATK by 1614.
+
+
+**EX Skill: Gaogao~nano~**
+Miyako's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

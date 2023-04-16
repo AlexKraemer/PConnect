@@ -1,0 +1,29 @@
+**Kuuka (2★)**
+Details:
+Arena: ATK - D, DEF - C
+CB: ST - N/A, Multi - N/A
+Quest: A
+Overall: D
+
+
+**Union Burst: Ecstacy Trip**
+Kuuka deploys a Barrier that absorbs up to 9415 magical damage on herself, and heals herself for 19217 HP.
+
+
+**Union Burst (6★): Ecstacy Trance**
+Kuuka deploys a Barrier that absorbs up to 12105 magical damage on herself and heals herself for 21935 HP. She also applies to herself a Magical Damage Cut buff (25%).
+
+
+**Skill 1: Nerau nara Kuuka wo!**
+no UE: Kuuka Taunts all enemies and boosts her P.DEF by 323.
+w/ UE: Kuuka Taunts all enemies and boosts her P.DEF by 404. She also heals herself for 13075 HP.
+
+
+**Skill 2: Hageshii no kangei desuu!**
+Kuuka boosts her M.DEF by 431.
+
+
+**EX Skill: Mousou Protection**
+Kuuka's M.DEF goes up by 538 (gains an additional +30 M.DEF at ★5) at the start of the battle.
+
+

@@ -1,0 +1,26 @@
+**Io - Noir (3★)**
+Details:
+Arena: ATK - A, DEF - A
+CB: ST - N, Multi - N
+Quest: B
+Overall: A
+
+
+**Union Burst: Magical Love Guidance**
+Io deals 43357 magical damage to all enemies in an area in front of her and heals all allies for 5532 HP. The amount of HP healed increases with the damage dealt by this Skill.
+
+
+**Skill 1: Romantic Heart**
+no UE: Io deals 21678 magical damage to the enemy with the highest M.ATK and afflicts the target with a Charm debuff.
+w/ UE: Io deals 67707 magical damage to the enemy with the highest M.ATK, afflicts the target with a Charm debuff and lowers the target's TP by 150.
+
+
+**Skill 2: Magic Love Beam**
+Io lowers the TP of the enemy with the highest M.ATK by 288 and recovers the TP of the ally with the highest M.ATK by 288.
+【Post-S.Lv260】Additional M.ATK buff (+64) to targeted ally, TP Disruption and Recovery capped at 288.
+
+
+**EX Skill: Secret Et Cetera Love**
+Io's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

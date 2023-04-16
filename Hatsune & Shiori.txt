@@ -1,0 +1,26 @@
+**Hatsune & Shiori (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - N/A, Multi - B
+Quest: C
+Overall: D
+
+
+**Union Burst: My Dear Star**
+Hatsune & Shiori boost their P.ATK by 6053 and deal 81548 physical damage to all enemies in front of them.
+
+
+**Skill 1: Starlight Shoot**
+no UE: Hatsune & Shiori deal 42827 physical damage to all enemies in front of them and recover their own TP by 310.
+The amount of damage dealt and amount of TP recovered increases according to the number of enemies hit.
+【Post-S.Lv260】Damage increased (30580 → 42827), TP Recovery capped at 310.
+
+
+**Skill 2: Sisters' Link**
+Hatsune & Shiori boost the P.ATK, P.Critical and P.Critical Damage of all allies in an area around them by 807, 10 and 1% respectively. Each buff goes up to 4 times according to Hatsune & Shiori's P.ATK.
+
+
+**EX Skill: Zenkai?Kizuna Power**
+Hatsune & Shiori's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

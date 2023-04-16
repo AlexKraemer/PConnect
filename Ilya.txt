@@ -1,0 +1,30 @@
+**Ilya (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - N/A, Multi - A
+Quest: C
+Overall: C
+
+
+**Union Burst: Vermillion Bite**
+Ilya deals 73126 magical damage to all enemies in an area around the nearest enemy and heals herself for 21909 HP.
+
+
+**Union Burst (6★): Vermillion Empress**
+Ilya deals 152830 magical damage to all enemies in an area around the nearest enemy, heals herself for 36090 HP and lowers Critical damage that she takes by 50%. She also gains 1 Twilight Blessing.
+Damage of Skills used while she has Twilight Blessing goes up according to the number of Twilight Blessings on her. Twilight Blessing stacks up to 4 times.
+
+
+**Skill 1: Bleeding Blast**
+no UE: Ilya boosts her M.ATK by 2926 and deals 54168 magical damage to the nearest enemy, but uses up 30530 HP.
+w/ UE: Ilya boosts her M.ATK by 3458 and deals 70022 magical damage to the nearest enemy, but uses up 31686 HP.
+
+
+**Skill 2: Bloody Spear**
+Ilya deals 40626 magical damage to all enemies in an area in front of her, but uses up 30530 HP.
+
+
+**EX Skill: Chi no Keiyaku**
+Ilya's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

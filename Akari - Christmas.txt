@@ -1,0 +1,24 @@
+**Akari - Christmas (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - C, Multi - C
+Quest: C
+Overall: D
+
+
+**Union Burst: Special Sweet Gift**
+Akari deals 200886 magical damage to the nearest enemy and boosts the M.ATK of all allies by 4256. The potency of the M.ATK buff goes up according to Akari's M.ATK (up to 5 times the base amount).
+
+
+**Skill 1: Gingerbread Friends**
+no UE: Akari deals 100443 magical damage to the nearest enemy and boosts the M.ATK of all allies by 2128. The potency of the M.ATK buff goes up according to Akari's M.ATK (up to 5 times the base amount).
+
+
+**Skill 2: Angel Ornament**
+Akari boosts the M.ATK and M.Critical of all allies by 7980 and 200 respectively and boosts her TP Fill Rate by 15.
+
+
+**EX Skill: Angel's Wing**
+Akari's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

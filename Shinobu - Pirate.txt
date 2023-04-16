@@ -1,0 +1,30 @@
+**Shinobu - Pirate (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - B, Multi - B
+Quest: B
+Overall: B
+
+
+**Union Burst: Soul Liberation**
+Shinobu deals 85110 physical damage to the nearest enemy and lowers the target's P.DEF by 269.
+If the target was afflicted with Ghost Anchor Seal, the damage dealt increases according to the number of Ghost Anchor Seals (up to 8) and 8 Ghost Anchor Seals are used up.
+
+
+**Skill 1: Soul Bind**
+no UE: Shinobu deals 56740 physical damage to the nearest enemy and lowers the target's P.DEF by 162. She also afflicts the target with 2 stacks of Ghost Anchor Seals.
+
+
+**Skill 2: Void Slash**
+Shinobu deals 56740 physical damage to the nearest enemy, boosts her P.ATK by 2421 and recovers her TP by 75.
+If the target was afflicted with Ghost Anchor Seal, the potency of the P.ATK buff and the amount of TP recovered increase according to the number of Ghost Anchor Seals (up to 3) and 3 Ghost Anchor Seals are used up.
+
+
+**EX Skill: Kaisei no Sayouta**
+Shinobu's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+
+**SP 1: Astral Seal**
+Shinobu puts all enemies in a state where they get afflicted with 1 Ghost Anchor Seal whenever her attacks hit them. Ghost Anchor Seals stack up to 15 times.
+
+

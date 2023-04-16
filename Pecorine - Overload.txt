@@ -1,0 +1,33 @@
+**Pecorine - Overload (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - A, Multi - B
+Quest: N/A
+Overall: B
+
+
+**Union Burst: Overload Strike**
+Pecorine deals 153524 physical damage to the nearest enemy.
+If the target's remaining HP was at 50% and above, Pecorine boosts TP Fill Rate of all allies by 5.
+If the target's remaining HP was under 50%, the damage dealt increases (additional hit deals 82667 damage).
+
+
+**Skill 1: Limiter Overwrite**
+no UE: Pecorine applies a Regen buff that heals for 3782 HP per second to herself.
+If the enemy with the highest remaining HP has 50% and above remaining HP, Pecorine boosts the P.ATK and P.Critical of all allies by 4788 and 50 respectively.
+If the target's remaining HP was under 50%, Pecorine boosts the P.ATK of all allies by 12768.
+w/ UE: Pecorine applies a Regen buff that heals for 3782 HP per second to herself and recovers her TP by 100.
+If the enemy with the highest remaining HP has 50% and above remaining HP, Pecorine boosts the P.ATK and P.Critical of all allies by 6916 and 70 respectively.
+If the target's remaining HP was under 50%, Pecorine boosts the P.ATK of all allies by 12768.
+
+
+**Skill 2: Enormous Cleave**
+Pecorine deals 39857 physical damage to the nearest enemy and lowers the target's P.DEF by 107.
+If the target's remaining HP was 50% and above, Pecorine boosts her P.ATK by 7980.
+If the target's remaining HP was under 50%, Pecorine recovers her TP by 350.
+
+
+**EX Skill: Invisible Energy**
+Pecorine's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

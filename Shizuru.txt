@@ -1,0 +1,29 @@
+**Shizuru (3★)**
+Details:
+Arena: ATK - C, DEF - C
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: C
+
+
+**Union Burst: Sacred Punish**
+Shizuru deals 71067 physical damage to the nearest enemy and deploys a Barrier that absorbs up to 2660 physical damage on herself.
+
+
+**Union Burst (6★): Sacred Beyond**
+Shizuru deals 172555 physical damage to the nearest enemy. She then boosts the P.DEF of all allies in an area around her by 532, deploys a Barrier on them that absorbs up to 3990 physical damage and applies to them a Regen that heals for 3628 per second.
+
+
+**Skill 1: Saint Heal**
+no UE: Shizuru heals the ally with the lowest HP for 18411 HP.
+w/ UE: Shizuru heals the ally with the lowest HP for 19336 HP and boosts the target's P.DEF by 213.
+
+
+**Skill 2: Protection**
+Shizuru deploys Barriers that negate up to 1596 physical damage on all allies in an area around her.
+
+
+**EX Skill: Onee-chan Power**
+Shizuru's P.DEF goes up by 532 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

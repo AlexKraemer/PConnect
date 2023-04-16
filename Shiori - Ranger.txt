@@ -1,0 +1,24 @@
+**Shiori - Ranger (3★)**
+Details:
+Arena: ATK - C, DEF - B
+CB: ST - C, Multi - C
+Quest: SS
+Overall: C
+
+
+**Union Burst: Arrow and Claw**
+Shiori deals 201153 physical damage to the nearest enemy and lowers the target's P.DEF by 243.
+
+
+**Skill 1: Ranger Arrow**
+no UE: Shiori deals 100576 physical damage to the nearest enemy and lowers the target's P.DEF by 135. She also recovers her TP by 150.
+
+
+**Skill 2: Forest Blessing**
+Shiori boosts her P.ATK and P.Critical Damage by 7263 and 8% respectively and recovers her TP by 150.
+
+
+**EX Skill: Combination Hunt**
+Shiori's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

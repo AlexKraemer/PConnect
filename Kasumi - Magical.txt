@@ -1,0 +1,49 @@
+**Kasumi - Magical (3★)**
+Details:
+Arena: ATK - A, DEF - S
+CB: ST - N, Multi - N
+Quest: N/A
+Overall: A
+
+
+**Union Burst: Mystic Prism**
+Kasumi deals 35395 magical damage to all enemies and lowers their TP by 180.
+【Post-S.Lv260】Damage increased (26701 → 35395), TP Disruption capped at 180.
+
+
+**Union Burst: Summer Detective**
+Kasumi deals 114485 magical damage to the enemy with the highest P.ATK or M.ATK (whichever is higher) and lowers the target's M.DEF by 243. She also lowers the target's P.Critical and M.Critical by 225.
+
+
+**Skill 1: Aqua Capture**
+no UE: Kasumi lowers the M.DEF of the enemy with the highest P.ATK or M.ATK (whichever is higher) by 189 and also afflicts them with a debuff that increases the damage they take when receiving Critical attacks by 12%.
+
+
+**Skill 1: Magical Halation**
+no UE: Kasumi lowers the TP of the enemy with the highest TP by 540. This does not include enemies that already have full TP gauges.
+【Post-S.Lv260】Additional P.ATK and M.ATK debuffs (-32) to target for a short duration, TP Disruption capped at 540.
+w/ UE: Kasumi lowers the TP of the enemy with the highest TP by 558. She also lowers the P.ATK, M.ATK, P.Critical and M.Critical of the target by 5412, 5412, 150 and 150 respectively for a short duration.
+This does not include enemies that already have full TP gauges.
+【Post-S.Lv260】P.ATK and M.ATK debuffs increased (5380 → 5412), TP Recovery capped at 558.
+
+
+w/ UE: Kasumi lowers the M.DEF of the enemy with the highest P.ATK or M.ATK (whichever is higher) by 350 and afflicts them with a debuff that increases the damage they take when receiving Critical attacks by 16%.
+Kasumi also deals 32846 magical damage to the target. This Skill always procs Critical hits.
+
+
+**Skill 2: Shore Intelligence**
+Kasumi boosts the M.ATK and M.Critical of all allies other than herself by 3228 and 100 respectively. The amount of M.ATK boosted goes up according to Kasumi's M.ATK.
+
+
+**Skill 2: Misty Wrapping**
+Kasumi deals 6783 magical damage to all enemies in an area around the furthest enemy and afflicts them with a Bind debuff.
+
+
+**EX Skill: Magical Detective**
+Kasumi's P.DEF goes up by 538 (gains an additional +30 P.DEF at ★5) at the start of the battle.
+
+
+**EX Skill: Mystic Summer**
+Kasumi's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

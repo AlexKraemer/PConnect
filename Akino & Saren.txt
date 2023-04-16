@@ -1,0 +1,24 @@
+**Akino & Saren (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - S, Multi - S
+Quest: S
+Overall: A
+
+
+**Union Burst: Noble Blaze**
+Akino & Saren deal 138144 physical damage to the nearest enemy. The higher their remaining HP, the higher the damage. They also deploy a Physical Damage Field around the target that deals 10046 physical damage per second to all enemies within it.
+
+
+**Skill 1: Fire Enhancement**
+no UE: Akino & Saren boost the P.ATK, P.Critical and P.Critical Damage of all allies by 6456, 30 and 10% respectively.
+
+
+**Skill 2: Glitter Force**
+Akino & Saren deploy a Field around themselves that heals and recovers the HP and TP of all allies by 1169 and 10 per second respectively. They also recover their own TP by 280.
+
+
+**EX Skill: Noble Glitter**
+Akino & Saren's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

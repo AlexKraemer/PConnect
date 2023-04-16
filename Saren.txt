@@ -1,0 +1,30 @@
+**Saren (3★)**
+Details:
+Arena: ATK - C, DEF - C
+CB: ST - C, Multi - C
+Quest: C
+Overall: C
+
+
+**Union Burst: Sword of Sonic**
+Saren deals 42498 physical damage to all enemies in an area in front of her. The lower Saren's HP is, the higher the damage..
+
+
+**Union Burst (6★): End of Phoenix**
+Saren deals 86941 physical damage to all enemies in an area in front of her and boosts the P.ATK and M.ATK of all allies by 4708. The lower Saren's HP is, the higher the damage and buff amounts.
+
+
+**Skill 1: Fire Slash**
+no UE: Saren deals 21249 physical damage to all enemies in an area in front of her.
+w/ UE: Saren deals 28129 physical damage to all enemies in an area in front of her. The lower Saren's HP is, the higher the damage.
+
+
+**Skill 2: Elegance Yell**
+Saren recovers the TP of the nearest ally by 725.
+【Post-S.Lv260】Additonal P.ATK and M.ATK buffs (+64) to target, TP Recovery capped at 725.
+
+
+**EX Skill: Noble Elegant Soul**
+Saren's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

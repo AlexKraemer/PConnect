@@ -1,0 +1,28 @@
+**Pecorine - New Year (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - C, Multi - N/A
+Quest: C
+Overall: D
+
+
+**Union Burst: New Year Strike**
+Pecorine deals 37366 physical damage to the nearest enemy. This damage increases to 74732 if she had 80% and above remaining HP. The higher her remaining HP, the higher the damage.
+If she had 90% and above remaining HP, she also boosts her P.ATK by 11172.
+
+
+**Skill 1: Daifuku Time**
+no UE: Pecorine boosts her P.ATK by 2394. If she had 80% and above remaining HP, she further boosts the P.ATK of all allies by 1330. The higher her remaining HP, the higher the potency of the buffs get.
+w/ UE: Pecorine boosts her P.ATK by 2434. If she had 80% and above remaining HP, she further boosts the P.ATK of all allies by 1330. The higher her remaining HP, the higher the potency of the buffs get.
+If she had 90% and above remaining HP, she further recovers her TP by 270.
+【Post-S.Lv260】P.ATK buff to self increased (2394 → 2434), TP Recovery capped at 270.
+
+
+**Skill 2: Rising Sun**
+Pecorine deals 29893 physical damage to the nearest enemy. If she had 80% and above remaining HP, she lowers the target's P.DEF by 120. The higher her remaining HP, the higher the damage.
+
+
+**EX Skill: Shinshun Bishoku Power**
+Pecorine's Max HP goes up by 19950 (gains an additional +1200 Max HP at ★5) at the start of the battle.
+
+

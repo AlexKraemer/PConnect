@@ -1,0 +1,50 @@
+**Rima - Cinderella (1★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - B, Multi - B
+Quest: C
+Overall: C
+
+
+**Union Burst: Metamorph Princess**
+Rima transforms herself into a human form and boosts her P.ATK by 8070.
+
+
+**Skill 1: Mofumofu Smash**
+no UE: Rima deals 122679 physical damage to the nearest enemy.
+w/ UE: Rima deals 318011 physical damage to the nearest enemy.
+
+
+**Skill 2: Mofumofu Tackle**
+Rima deals 46229 physical damage to the nearest enemy and recovers her TP by 270.
+【Post-S.Lv260】Damage increased (33943 → 46229), TP Recovery capped at 270.
+
+
+**EX Skill: Yume he no Kaidan**
+Rima's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle
+
+
+**Hidden Skill: Metamorphose**
+Rima uses Union Burst "Metamorph Princess" regardless of TP gauge.
+
+
+**M.P. Skill 1: Beauty and Beast
+**
+Rima boosts her P.ATK by 2706 and recovers her TP by 270.
+【Post-S.Lv260】P.ATK buff increased (2690 → 2706), TP Recovery capped at 270.
+
+
+**M.P. Skill 1+: Beauty and Beast+
+**
+Rima boosts her P.ATK by 7279 and recovers her TP by 450. She also boosts the P.ATK of all allies by 2421.
+【Post-S.Lv260】P.ATK buff to self increased (7263 → 7279), TP Recovery capped at 450.
+
+
+**M.P. Skill 2: Dance with Me**
+Rima boosts the party's P.ATK by 5111. The higher Rima's P.ATK is, the higher this boost gets.
+
+
+**M.P. Union Burst: Beyond the Dream**
+Rima deals 327144 physical damage to the nearest enemy.
+
+

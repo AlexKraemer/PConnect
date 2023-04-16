@@ -1,0 +1,29 @@
+**Mitsuki (2★)**
+Details:
+Arena: ATK - SS, DEF - A
+CB: ST - N/A, Multi - N/A
+Quest: B
+Overall: S
+
+
+**Union Burst: Bloody Rose**
+Mitsuki deals 50257 physical damage to all enemies in an area in front of her. Mitsuki heals herself according to the number of enemies defeated with this Skill.
+
+
+**Union Burst (6★): Brutal Rose**
+Mitsuki lowers the P.DEF of all enemies in front of her by 269 and deals 120107 physical damage to them. Mitsuki heals herself according to the number of enemies defeated with this Skill.
+
+
+**Skill 1: Curse Bloom**
+no UE: Mitsuki afflicts all enemies in an area in front of her with a Curse debuff that deals 645 damage per second.
+w/ UE: Mitsuki afflicts all enemies in an area in front of her with a Curse debuff that deals 968 damage per second, and lowers their Action Speed by a small amount (5%).
+
+
+**Skill 2: Rose Field**
+Mitsuki deploys a Field a certain range in front from her, that lowers P.DEF by 322.
+
+
+**EX Skill: One-eyed Devil**
+Mitsuki's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

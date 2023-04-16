@@ -1,0 +1,31 @@
+**Ruka - New Year (1★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - D, Multi - N/A
+Quest: D
+Overall: E
+
+
+**Union Burst: Yuki no Tachi: Toutei Sasameyuki**
+Ruka boosts her P.ATK and P.Critical by 8070 and 100 respectively and deals 84238 physical damage to the nearest enemy. The damage of this Skill increases according to the number of Sword Seals.
+
+
+**Skill 1: Tsuki no Tachi: Kangetsu**
+no UE: Ruka gains 1 Sword Seal whenever her attack hits an enemy. Sword Seal goes up to 35 stacks.
+Ruka deals 56159 physical damage to the nearest enemy.
+If Ruka uses this Skill when she has max Sword Seal stacks, she uses up all stacks and deal 224636 physical damage to the nearest enemy and boosts her P.ATK by 8608.
+After the battle starts, the first usage of this Skill gives Ruka 10 Sword Seals and boosts her P.ATK by 8608.
+w/ UE: Ruka gains 1 Sword Seal whenever her attack hits an enemy. Sword Seal goes up to 35 stacks.
+Ruka deals 109036 physical damage to the nearest enemy.
+If Ruka uses this Skill when she has max Sword Seal stacks, she uses up all stacks and deal 363455 physical damage to the nearest enemy and boosts her P.ATK by 16140.
+After the battle starts, the first usage of this Skill gives Ruka 10 Sword Seals and boosts her P.ATK by 16140.
+
+
+**Skill 2: Hana no Tachi: Touzanka**
+Ruka deals 42119 physical damage to the nearest enemy and boosts her P.ATK by 4842. This Skill's damage goes up according to the number of Sword Seals.
+
+
+**EX Skill: Gokugetsu no Itari**
+Ruka's P.ATK goes up by 538 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

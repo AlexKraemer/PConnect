@@ -1,0 +1,26 @@
+**Kurumi - Christmas (1★)**
+Details:
+Arena: ATK - D, DEF - C
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: E
+
+
+**Union Burst: Winter Call Bell**
+Kurumi boosts the M.DEF of all allies by 186 and deploys a Barrier that absorbs up to 4035 magical damage on herself.
+
+
+**Skill 1: Bell Cheering**
+no UE: Kurumi rings her bell and boosts the P.DEF of allies in an area around her by 606, lasting until she gets hit or a certain amount of time passes.
+w/ UE: Kurumi rings her bell and boosts the P.DEF of allies in an area around her by 607, lasting until she gets hit 5 times or a certain amount of time passes. She also boosts the P.DEF of all allies by 243 and her TP by 108.
+【Post-S.Lv260】Channelling P.DEF buff increased (606 → 607), TP Recovery capped at 108.
+
+
+**Skill 2: Healing Bell**
+Kurumi deploys a Field around her that heals all allies within it for 928 HP per second.
+
+
+**EX Skill: Saint Étoile**
+Kurumi's M.DEF goes up by 538 (gains an additional +30 M.DEF at ★5) at the start of the battle.
+
+

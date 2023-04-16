@@ -1,0 +1,24 @@
+**Christina - Wild (3★)**
+Details:
+Arena: ATK - S, DEF - S
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: A
+
+
+**Union Burst: Brutus Avalon**
+Christina deals 123824 physical damage to all enemies in an area around the nearest enemy. This attack never misses and the first hit will always proc Critical.
+
+
+**Skill 1: Rapid Rabbit**
+no UE: Christina deals 58653 physical damage to the nearest enemy and Pushes the target away by a large distance. She also deals 71688 physical damage to all enemies in an area around herself. This attack will always proc Critical.
+
+
+**Skill 2: Elevation**
+Christina dodges all physical attacks for a duration. She also boosts her P.ATK by 8070.
+
+
+**EX Skill: Greedy Chaos**
+Christina's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

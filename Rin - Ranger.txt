@@ -1,0 +1,25 @@
+**Rin - Ranger (3★)**
+Details:
+Arena: ATK - B, DEF - A
+CB: ST - B, Multi - B
+Quest: N/A
+Overall: B
+
+
+**Union Burst: Nut Execution**
+Rin deals 46652 physical damage to enemies in an area in front of her and lowers their P.DEF by 135.
+
+
+**Skill 1: Nut Breaker**
+no UE: Rin deals 55901 physical damage to enemies in an area in front of her and lowers their P.DEF by 243 but lowers her Action Speed massively (67%).
+w/ UE: Rin deals 128758 physical damage to enemies in an area in front of her and lowers their P.DEF by 323 but lowers her Action Speed massively (67%)
+
+
+**Skill 2: Nut Slash**
+Rin deals 18633 physical damage to enemies in an area in front of her and lowers their P.DEF by 41.
+
+
+**EX Skill: Nut Buildup**
+Rin's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

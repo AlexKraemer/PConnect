@@ -1,0 +1,25 @@
+**Mifuyu - Summer (1★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - N/A, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Leviathan Lance**
+Mifuyu deals 120749 physical damage to the nearest enemy and boosts the P.ATK of all allies by 1857.
+
+
+**Skill 1: Hydro Sting**
+no UE: Mifuyu deals 40249 physical damage to the nearest enemy and deals a further 9062 physical damage to all enemies in an area around the target.
+w/ UE: Mifuyu deals 41751 physical damage to the nearest enemy and deals a further 72997 physical damage to all enemies in an area around the target.
+
+
+**Skill 2: Hunting Mode**
+Mifuyu boosts her P.ATK and P.Critical by 4035 and 100 respectively.
+
+
+**EX Skill: Summer Mercenary**
+Mifuyu's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

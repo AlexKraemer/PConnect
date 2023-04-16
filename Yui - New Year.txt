@@ -1,0 +1,25 @@
+**Yui - New Year (3★)**
+Details:
+Arena: ATK - S, DEF - A
+CB: ST - N/A, Multi - S
+Quest: S
+Overall: S
+
+
+**Union Burst: Sunrise Protection**
+Yui deploys Barriers that negate up to 11970 physical and magical damage and applies a Regen that heals for 3068 HP per second on all allies, but lowers her M.ATK by 90% of her base M.ATK.
+
+
+**Skill 1: Weakness Petal**
+no UE: Yui lowers the 2nd nearest enemy's P.ATK and M.ATK by 1463.
+w/ UE: Yui lowers the 2nd nearest enemy's P.ATK and M.ATK by 1463, M.DEF by 213 and TP Fill Rate by 30.
+
+
+**Skill 2: Blooming Cheers**
+Yui boosts the M.ATK of all allies that do magic attacks by 2926.
+
+
+**EX Skill: Brightness New Year**
+Yui's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

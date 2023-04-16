@@ -1,0 +1,25 @@
+**Hiyori - Princess (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - SS, Multi - N/A
+Quest: S
+Overall: S
+
+
+**Union Burst: Hiyori Blazing Impact**
+Hiyori deals 172310 physical damage to the nearest enemy and lowers the target's P.DEF by 54. The potency of the P.DEF debuff goes up by up to 6 times according to the damage dealt by this Skill.
+
+
+**Skill 1: Twinkle Brave**
+no UE: Hiyori boosts her P.ATK, P.Critical and P.Critical Damage by 3325, 25 and 5% respectively.
+w/ UE: Hiyori boosts her P.ATK, P.Critical and P.Critical Damage by 4788, 40 and 10% respectively and recovers her TP by 100.
+
+
+**Skill 2: Burning Sunrise**
+Hiyori boosts her P.ATK by 2128 and deals 62031 physical damage to the nearest enemy.
+
+
+**EX Skill: Burning Soul**
+Hiyori's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

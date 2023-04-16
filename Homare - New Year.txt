@@ -1,0 +1,24 @@
+**Homare - New Year (3★)**
+Details:
+Arena: ATK - A, DEF - SS
+CB: ST - N/A, Multi - SS
+Quest: SS
+Overall: S
+
+
+**Union Burst: Dragon's Tear**
+Homare deals 52872 magical damage to all enemies and lowers their M.DEF by 54. The damage dealt and M.DEF debuff's potency increase according to the number of enemies.
+
+
+**Skill 1: Sticky Bite**
+no UE: Homare boosts her M.ATK, M.Critical and M.Critical Damage by 10760, 200 and 10% respectively and recovers her TP by 225.
+
+
+**Skill 2: Cruel Bloom**
+Homare deals 57023 magical damage to all enemies and lowers their M.DEF by 189.
+
+
+**EX Skill: Sunrise Focus**
+Homare's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

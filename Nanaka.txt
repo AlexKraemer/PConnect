@@ -1,0 +1,29 @@
+**Nanaka (2★)**
+Details:
+Arena: ATK - S, DEF - D
+CB: ST - D, Multi - D
+Quest: D
+Overall: D
+
+
+**Union Burst: Nanaka8Blast**
+Nanaka deals 175857 magical damage to the enemy with the highest remaining HP.
+
+
+**Union Burst (6★): Nanaka8Glitter**
+Nanaka deals 428170 magical damage to the enemy with the highest remaining HP and lowers the target's M.DEF by 135.
+
+
+**Skill 1: Stardust Magic**
+no UE: Nanaka lowers the M.DEF of all enemies in an area around the nearest enemy by 130.
+w/ UE: Nanaka lowers the M.DEF of all enemies in an area around the nearest enemy by 216.
+
+
+**Skill 2: Energy Impact**
+Nanaka deals 51013 magical damage to the enemy with the highest remaining HP and afflicts the target with a Stun debuff.
+
+
+**EX Skill: Awakening Mode**
+Nanaka's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

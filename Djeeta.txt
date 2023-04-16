@@ -1,0 +1,40 @@
+**Djeeta (3★)**
+Details:
+Arena: ATK - B, DEF - B
+CB: ST - SS, Multi - SS
+Quest: SS
+Overall: S
+
+
+**Union Burst: Tempest Blade**
+Djeeta deals 166365 physical damage to the nearest enemy.
+
+
+**Union Burst (6★): Seiga Itten**
+Djeeta deals 313533 physical damage to the nearest enemy and boosts her P.ATK by 10760.
+
+
+**Skill 1: Wide Blade**
+no UE: Djeeta deals 55455 physical damage to the nearest enemy.
+w/ UE: Djeeta deals 80882 physical damage to the nearest enemy. She also recovers her TP by 200, and the TP of all allies other than herself by 100.
+
+
+**Skill 2: Weapon Burst**
+Djeeta recovers her TP by 540.
+【Post-S.Lv260】Additional P.ATK buff (+64) to self, TP Recovery capped at 540.
+
+
+**EX Skill: Tatsumaki no Koujin**
+Djeeta's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+
+**6★ Skill 1: Aurea**
+Djeeta deals 200661 physical damage to the nearest enemy. She also recovers her TP by 200, and the TP of all allies other than herself by 100.
+
+
+**6★ Skill 2: Triple Attack
+**
+Djeeta deals 140790 physical damage to the nearest enemy and recovers her TP by 570.
+【Post-S.Lv260】Damage increased (125413 → 140790), TP Recovery capped at 570.
+
+

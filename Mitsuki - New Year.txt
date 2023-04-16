@@ -1,0 +1,26 @@
+**Mitsuki - New Year (1★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - B, Multi - B
+Quest: B
+Overall: B
+
+
+**Union Burst: Fuuun Hatsuharu no Uzu**
+Mitsuki deals 151807 physical damage to the nearest enemy and afflicts the target with a debuff that increases the damage taken from Critical attacks by 6%.
+If the target was afflicted with Haziness, Mitsuki boosts her P.ATK and P.Critical by 4842 and 75 respectively.
+
+
+**Skill 1: Meppuu Kokuinzome**
+no UE: Mitsuki deals 60090 physical damage to the nearest enemy and afflicts the target with Daze and a debuff that increases the damage taken from Critical attacks by 6%.
+
+
+**Skill 2: Moushun no Arakyuuji**
+Mitsuki deals 47439 physical damage to the nearest enemy and lowers the target's P.DEF by 135.
+If the target was afflicted with Haziness, the damage increases to 94879 and the P.DEF debuff increases to 189.
+
+
+**EX Skill: Shinshun Araryouji**
+Mitsuki's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

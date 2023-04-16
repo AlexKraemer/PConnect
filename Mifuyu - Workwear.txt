@@ -1,0 +1,25 @@
+**Mifuyu - Workwear (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - C, Multi - C
+Quest: C
+Overall: D
+
+
+**Union Burst: Integral Spanner**
+Mifuyu deals 144242 physical damage to the nearest enemy and boosts her P.Critical by 125.
+
+
+**Skill 1: Heavy Tool**
+no UE: Mifuyu deals 54090 physical damage to the nearest enemy.
+w/ UE: Mifuyu deals 110802 physical damage to the nearest enemy, boosts her P.ATK by 6994 and recovers her TP by 350.
+
+
+**Skill 2: Modification**
+Mifuyu boosts her P.ATK by 4842 and P.DEF and M.DEF by 135.
+
+
+**EX Skill: Chousoku Line Work**
+Mifuyu's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

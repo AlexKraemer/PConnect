@@ -1,0 +1,25 @@
+**Makoto (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - D, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Wolfen Bite**
+Makoto deals 125883 physical damage to the nearest enemy and lowers the target's P.DEF by 243.
+
+
+**Skill 1: Hard Slash**
+no UE: Makoto deals 55948 physical damage to the nearest enemy.
+w/ UE: Makoto deals 72825 physical damage to the nearest enemy and boosts her P.ATK by 2018.
+
+
+**Skill 2: Brave Howling**
+Makoto lowers the nearest enemy's P.DEF by 216.
+
+
+**EX Skill: Rouga no Mougeki**
+Makoto's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

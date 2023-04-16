@@ -1,0 +1,27 @@
+**Rino - Wonder (3★)**
+Details:
+Arena: ATK - ?, DEF - ?
+CB: ST - D, Multi - N/A
+Quest: D
+Overall: E
+
+
+**Union Burst: Fantasic Unison**
+Rino deals 36523 physical damage to the nearest enemy. The Skill's damage goes up according to the number of allies. This Skill does 3 times damage instead of 2 times when proccing a Critical hit.
+
+
+**Skill 1: Wonder Illusion**
+no UE: Rino deals 37912 physical damage to the nearest enemy, boosts her P.Critical by 40 and recovers her TP by 270.
+【Post-S.Lv260】Damage increased (26161 → 37912), TP Recovery capped at 270.
+w/ UE: Rino deals 39303 physical damage to the nearest enemy, boosts her P.Critical by 40 and recovers her TP by 270. This Skill's potency goes up according to the number of allies.
+【Post-S.Lv260】Damage increased (27088 → 39303), TP Recovery capped at 270.
+
+
+**Skill 2: Wonder Arrow**
+Rino deals 39242 physical damage to the nearest enemy. This Skill lowers the target's P.DEF by 187 when proccing a Critical hit.
+
+
+**EX Skill: Heartful Friends**
+Rino's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

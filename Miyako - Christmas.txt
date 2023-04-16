@@ -1,0 +1,28 @@
+**Miyako - Christmas (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - A, Multi - A
+Quest: B
+Overall: A
+
+
+**Union Burst: Miyako tokusei pudding nano**
+Miyako deals 129634 physical damage to the nearest enemy and lowers the target's P.DEF by 135. 
+【When Field is active】The damage dealt increases to 259268.
+
+
+**Skill 1: Yukidaruma ni shite yaru no**
+no UE: Miyako deals 29167 physical damage to the nearest enemy and boosts her P.ATK by 5380.
+【When Field is active】The damage dealt increases to 58335 and Miyako boosts the P.ATK of all allies around her by 5380.
+w/ UE: Miyako deals 60677 physical damage to the nearest enemy, boosts her P.ATK by 5380 and recovers the TP of all allies around herself by 80.
+【When Field is active】The damage dealt increases to 121354 and Miyako boosts the P.ATK of all allies around her by 5380 and recovers their TP by 80.
+
+
+**Skill 2: Hitokuchi dake nano**
+Miyako deploys a Field around her that boosts P.ATK and P.Critical by 5649 and 150 respectively. She also boosts the P.Critical Damage of all allies around her by 8% and boosts her TP Fill Rate by 30.
+
+
+**EX Skill: Present shite yaru no~**
+Miyako's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

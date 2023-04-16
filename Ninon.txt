@@ -1,0 +1,31 @@
+**Ninon (3★)**
+Details:
+Arena: ATK - C, DEF - C
+CB: ST - N/A, Multi - N/A
+Quest: C
+Overall: D
+
+
+**Union Burst: Ninpou: Shakunetsu Jigoku**
+Ninon deals 49169 physical damage to all enemies in an area in front of her.
+
+
+**Union Burst (6★): Ninpou: Rekka no Guren Senpuu**
+Ninon deals 147159 physical damage to all enemies in an area in front of her, boosts her P.ATK by 6456 and recovers her TP by 100. 
+The potency of the P.ATK buff and the amount of TP recovered goes up according to the number of enemies Ninon defeats with this Skill.
+
+
+**Skill 1: Senpuugeki**
+no UE: Ninon deals 24584 physical damage to all enemies in an area in front of her, and recovers her TP by 150 if she managed to defeat an enemy with this Skill.
+The amount of TP recovered increases with the number of enemies defeated.
+w/ UE: Ninon deals 42622 physical damage to all enemies in an area in front of her, and recovers her TP by 1000 if she managed to defeat an enemy with this Skill.
+
+
+**Skill 2: Kaensen**
+Ninon deals 40974 physical damage to the nearest enemy and pushes the target away by a small distance.
+
+
+**EX Skill: Honnouji Boost**
+Ninon's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

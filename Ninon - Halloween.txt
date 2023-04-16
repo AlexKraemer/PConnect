@@ -1,0 +1,25 @@
+**Ninon - Halloween (1★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - C, Multi - N/A
+Quest: C
+Overall: E
+
+
+**Union Burst: Ayakashi Ninpou: Hyakki Uchouten no Utage**
+Ninon boosts the P.ATK and P.Critical of all allies that do physical attacks by 7263 and 100 respectively.
+
+
+**Skill 1: Ayakashi Ninpou: Maboroshi Kagee no Jutsu**
+no UE: Ninon boosts the P.ATK of all allies that do physical attacks by 4035 and the Action Speed of all allies that do physical attacks by a large amount (55%).
+w/ UE: Ninon boosts the P.ATK of all allies that do physical attacks by 6053, the Action Speed of all allies by large amount (55%) and P.Critical of all allies by 50.
+
+
+**Skill 2: Ayakashi Ninpou: Kabocha Totsugeki no Jutsu**
+Ninon boosts the P.ATK of all allies that do physical attacks by 2421 and deals 27051 physical damage to all enemies in an area in front of her.
+
+
+**EX Skill: Ayakashi Ninpou: Yumegokochi Kabocha Ondo**
+Ninon's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

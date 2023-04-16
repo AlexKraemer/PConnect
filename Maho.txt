@@ -1,0 +1,29 @@
+**Maho (3★)**
+Details:
+Arena: ATK - C, DEF - B
+CB: ST - A, Multi - A
+Quest: SS
+Overall: A
+
+
+**Union Burst: Märchen Garden**
+Maho boosts the M.ATK and P.DEF of all allies by 929 and 122 respectively and recovers their TP by 50.
+
+
+**Union Burst (6★): Märchen Kingdom**
+Maho boosts the M.ATK and P.DEF of all allies by 6053 and 243 respectively, recovers their TP by 120 and applies to them a TP Regen that recovers TP by 10 per second.
+
+
+**Skill 1: Maho Maho Heal**
+no UE: Maho heals the ally with the lowest HP for 23698 HP.
+w/ UE: Maho heals the ally with the lowest HP for 29032 HP, boosts the target's P.DEF by 269 and applies a Regen that heals for 1917 HP per second on the target.
+
+
+**Skill 2: Maho Maho Darkness**
+Maho afflicts the 2nd nearest enemy with a Darkness debuff.
+
+
+**EX Skill: Märchen Charge**
+Maho's P.DEF goes up by 538 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

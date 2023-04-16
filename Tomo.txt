@@ -1,0 +1,30 @@
+**Tomo (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - B, Multi - B
+Quest: C
+Overall: C
+
+
+**Union Burst: Mikuma-ryuu Ougi: Ashura**
+Tomo deals 79158 physical damage to the nearest enemy and boosts her P.ATK by 17216 and Action Speed by a Medium amount (25%).
+
+
+**Union Burst (6★): Mikuma-ryuu Ougi: Reppuu Jinkou**
+Tomo deals 190464 physical damage to the 2 nearest enemies, boosts the P.ATK of all allies in an area around herself by 17216 and the Action Speed of all allies in an area around herself by a Large amount (60%).
+
+
+**Skill 1: Mikuma-ryuu Kenjutsu: Jinpuu**
+no UE: Tomo deals 27966 physical damage to all enemies in an area in front of her.
+w/ UE: Tomo deals 36775 | 41644 | 46513 | 51383 | 56252 physical damage to all enemies in an area in front of her. The damage goes up according to the number of enemies in the area in front of her.
+
+
+**Skill 2: Mikuma-ryuu Kenjutsu: Tsubame Gaeshi**
+Tomo deals 54587 physical damage to the nearest enemy and recovers her TP by 216.
+【Post-S.Lv260】Damage increased (41949 → 54587), TP Recovery capped at 216.
+
+
+**EX Skill: Kimyaku Koou: Hadou no Kata**
+Tomo's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

@@ -1,0 +1,25 @@
+**Nozomi - Liberator (3★)**
+Details:
+Arena: ATK - S, DEF - SS
+CB: ST - SS, Multi - SS
+Quest: SS
+Overall: SS
+
+
+**Union Burst: Hope on Stage**
+Nozomi deals 97338 physical damage to the nearest enemy and lowers the target's P.DEF by 107. She also boosts the P.ATK of all allies that do physical attacks by 5852.
+
+
+**Skill 1: Grow Elation**
+no UE: Nozomi boosts the P.ATK, P.Critical and P.Critical Damage of all allies that do physical attacks by 5054, 125 and 10% respectively.
+
+
+**Skill 2: Yell for Future**
+Nozomi boosts the P.ATK of all allies that do physical attacks by 4522 and recovers their TP by 65.
+After the start of the battle, the first usage of this Skill increases the TP Recovery to 520 and lowers all enemies' P.DEF by 80.
+
+
+**EX Skill: Hopeful Smile**
+Nozomi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

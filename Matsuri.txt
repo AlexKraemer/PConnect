@@ -1,0 +1,25 @@
+**Matsuri (2★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: E
+
+
+**Union Burst: Tiger Hero Bomber**
+Matsuri leaps to the 3rd nearest enemy and deals 51092 physical damage to all enemies in an area around the target.
+
+
+**Skill 1: Tiger Shock**
+no UE: Matsuri deals 5754 physical damage to all enemies in an area around her and afflicts them with a Stun debuff.
+w/ UE: Matsuri deals 10594 physical damage to all enemies in an area around her and afflicts them with a Stun debuff. She also boosts her P.DEF and M.DEF by 603.
+
+
+**Skill 2: Tiger Spin**
+Matsuri deals 17030 physical damage to all enemies in an area around her.
+
+
+**EX Skill: Hero no Kokoroe**
+Matsuri's P.ATK goes up by 4035 (gains an additional +30 P.DEF at ★5) at the start of the battle.
+
+

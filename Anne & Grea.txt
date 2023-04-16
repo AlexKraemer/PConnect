@@ -1,0 +1,25 @@
+**Anne & Grea (3★)**
+Details:
+Arena: ATK - D, DEF - N/A
+CB: ST - SS, Multi - S
+Quest: SS
+Overall: S
+
+
+**Union Burst: Radiant Inferno**
+Anne & Grea do 2 attacks that each deal 95853 magical damage to the nearest enemy. This Skill's damage goes up according to the number of Friendship Magic Seals. They also boost the M.ATK of all allies in an area around themselves by 5380.
+
+
+**Skill 1: Friends Linkage**
+no UE: Anne & Grea do 2 attacks that each deal 10270 magical damage to the nearest enemy. This Skill's damage goes up according to the number of Friendship Magic Seals.
+
+
+**Skill 2: Friends Lead**
+Anne & Grea gain 1 Friendship Magic Seal whenever they receive a Status UP effect. Friendship Magic Seal stacks up to 40 times.
+They also boost their M.ATK, M.Critical and TP Fill Rate by 13450, 200 and 15 respectively.
+
+
+**EX Skill: Manaria Heart**
+Anne & Grea's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

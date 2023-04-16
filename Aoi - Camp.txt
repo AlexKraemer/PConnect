@@ -1,0 +1,24 @@
+**Aoi - Camp (1★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - N/A, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Camping Blast**
+Aoi deals 52482 physical damage to all enemies, and further deals 78723 physical damage to all enemies in an area in front of her.
+
+
+**Skill 1: Bush Shot**
+no UE: Aoi deals 23325 physical damage to all enemies, and further deals 46651 physical damage to all enemies in an area in front of her.
+
+
+**Skill 2: Precious Coffee**
+Aoi deploys a Barrier that negates up to 23940 physical and magical damage on herself and boosts her TP Fill Rate by 20.
+
+
+**EX Skill: Bocchi Camper no Ryuugi**
+Aoi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

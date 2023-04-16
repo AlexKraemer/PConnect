@@ -1,0 +1,29 @@
+**Misogi (1★)**
+Details:
+Arena: ATK - C, DEF - C
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: E
+
+
+**Union Burst: Trick Bomber**
+Misogi deals 42548 physical damage to all enemies in an area around the 2nd nearest enemy.
+
+
+**Union Burst (6★): Trick Heart**
+Misogi deals 68875 damage to all enemies and lowers their P.ATK and P.Critical by 7980 and 433 respectively. She also lowers their damage when doing physical critical attacks by 25%.
+
+
+**Skill 1: Ink Shooter**
+no UE: Misogi deals 15877 physical damage to the 2nd nearest enemy and afflicts the target with a Darkness debuff.
+w/ UE: Misogi deals 43534 physical damage to the 2nd nearest enemy and afflicts the target with a Darkness debuff. She also lowers the P.ATK of all enemies in an area by 1330.
+
+
+**Skill 2: Water Balloon**
+Misogi deals 20992 physical damage to the enemy with the highest P.ATK, lowers the target's P.ATK by 998 and boosts her P.ATK by 1463.
+
+
+**EX Skill: Trap Expert**
+Misogi's P.DEF goes up by 532 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

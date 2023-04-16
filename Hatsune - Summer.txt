@@ -1,0 +1,27 @@
+**Hatsune - Summer (3★)**
+Details:
+Arena: ATK - S, DEF - SS+
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: S
+
+
+**Union Burst: Summer Cheering?Star**
+Hatsune deals 107110 magical damage to all enemies but puts herself to Sleep. The Sleep debuff applied by this sleep can only be dispelled when Hatsune gets hit by an attack.
+
+
+**Skill 1: Pom-pom Yell?Shoot**
+no UE: Hatsune deals 36473 magical damage to all enemies and recovers her TP by 310. The amount of TP recovered increases according to the number of enemies hit.
+【Post-S.Lv260】Damage increased (25202 → 36473), TP Recovery capped at 310.
+w/ UE: Hatsune deals 51110 magical damage to all enemies and recovers her TP by 310. The amount of damage dealt and TP recovered increases according to the number of enemies hit.
+【Post-S.Lv260】Damage increased (39330 → 51110), TP Recovery capped at 310.
+
+
+**Skill 2: Cheerful?Happiness**
+Hatsune boosts the M.ATK and M.Critical of all characters in an area around her by 2394 and 50 respectively.
+
+
+**EX Skill: Happy?Cheer Voice**
+Hatsune's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

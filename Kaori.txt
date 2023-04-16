@@ -1,0 +1,29 @@
+**Kaori (2★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - A, Multi - N/A
+Quest: A
+Overall: B
+
+
+**Union Burst: Ryuukyuuken Knuckle Arrow**
+Kaori deals 167205 physical damage to the nearest enemy.
+
+
+**Union Burst (6★): Shin Ryuukyuuken Knuckle Dash**
+Kaori boosts her P.ATK by 4035 and deals 606492 physical damage to the nearest enemy.
+
+
+**Skill 1: Seichuusen Tsuki**
+no UE: Kaori deals 55735 physical damage to the nearest enemy.
+w/ UE: Kaori deals 83581 physical damage to the nearest enemy.
+
+
+**Skill 2: Seishin Touitsu**
+After Kaori uses this Skill, with every attack she does to an enemy, Kaori's damage against that enemy increases by 2690. This effect stacks up to 5 times.
+
+
+**EX Skill: Ryukyuuken-shiki Renkijutsu**
+Kaori's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

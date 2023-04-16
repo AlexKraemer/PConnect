@@ -1,0 +1,25 @@
+**Io - Summer (1★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - N/A, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Typhoon Love Dream**
+Io deals 26427 magical damage to all enemies and heals all allies for 11280 HP.
+
+
+**Skill 1: Love Steal**
+no UE: Io deals 15040 magical damage to all enemies in an area in front of her and heals the ally with the lowest HP for 10312 | 14179 | 18045 | 21912 | 25779 HP. The amount healed goes up with the number of enemies hit.
+w/ UE: Io deals 25865 magical damage to all enemies in an area in front of her and heals the ally with the lowest HP for 11941 | 16016 | 20091 | 24165 | 28240 HP. The amount healed goes up with the number of enemies hit.
+
+
+**Skill 2: Love Splash**
+Io deals 8943 magical damage to all enemies in an area in front of her and lowers their M.DEF by 101.
+
+
+**EX Skill: Love Summer Teaching**
+Io's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

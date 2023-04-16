@@ -1,0 +1,25 @@
+**Grea (3★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - N/A, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Madness Cleave**
+Grea deals 88252 magical damage to all enemies in an area in front of her.
+
+
+**Skill 1: Drag-Inferno**
+no UE: Grea dashes towards the nearest enemy in an invincible state and deals 55352 magical damage to the target.
+w/ UE: Grea dashes to the nearest enemy in an invincible state, deals 75391 magical damage to the the target and deals 68013 magical damage to enemies around the target.
+
+
+**Skill 2: Drag-Agni**
+Grea deploys a Field around the enemy with the highest P.ATK that deals 5222 magical damage per second.
+
+
+**EX Skill: Drag-Heart**
+Grea's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

@@ -1,0 +1,25 @@
+**Misogi - Halloween (1★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - N/A, Multi - N/A
+Quest: N
+Overall: E
+
+
+**Union Burst: Trick or Trick!**
+Misogi sets up bombs on all enemies in front of her, which blow up after 5 seconds. Each bomb deals 33618 physical damage to all enemies after blowing up.
+
+
+**Skill 1: Painting Kick**
+no UE: Misogi deals 40501 physical damage to all enemies in an area around the nearest enemy.
+w/ UE: Misogi deals 41368 physical damage to all enemies in an area around the nearest enemy and lowers their P.ATK by 1463. This Skill does 3 times damage instead of 2 times when doing Critical hits.
+
+
+**Skill 2: Bikkuri Pumpkin**
+Misogi deals 40501 physical damage to all enemies in an area around the 3rd nearest enemy.
+
+
+**EX Skill: Trick Expert**
+Misogi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

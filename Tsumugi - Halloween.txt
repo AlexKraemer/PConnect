@@ -1,0 +1,25 @@
+**Tsumugi - Halloween (3★)**
+Details:
+Arena: ATK - C, DEF - C
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: D
+
+
+**Union Burst: String Carnival**
+Tsumugi deals 52733 physical damage to the enemy with the highest P.ATK and lowers the target's P.ATK by 14364 and Action Speed by a large amount (80%).
+
+
+**Skill 1: Tailored Halloween**
+no UE: Tsumugi deploys a Barrier on her that negates up to 19950 physical damage, and boosts her P.DEF by 333.
+w/ UE: Tsumugi deploys a Barrier on her that negates up to 23940 physical damage, boosts her P.DEF by 399 and applies to herself a Regen buff that heals for 2763 HP per second.
+
+
+**Skill 2: Fear Attention**
+Tsumugi taunts all enemies and heals herself for 17536 HP. She also afflicts the enemy with the highest P.ATK with Panic.
+
+
+**EX Skill: Terror Decoration**
+Tsumugi's P.DEF goes up by 532 (gains an additional +30 P.DEF at ★5) at the start of the battle.
+
+

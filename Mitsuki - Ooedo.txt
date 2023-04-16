@@ -1,0 +1,26 @@
+**Mitsuki - Ooedo (3★)**
+Details:
+Arena: ATK - SS+, DEF - SS
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: S
+
+
+**Union Burst: Rose Destruction**
+Mitsuki deals 69145 physical damage to all enemies in an area in front of her and afflicts them with a Curse debuff that deals 968 damage per second.
+If enemies within the area of effect have already been afflicted with Curse, Mitsuki further afflicts them with a Hex debuff that increases by 30% every second from its base 2582 damage per second.
+
+
+**Skill 1: Rose Carte**
+no UE: Mitsuki deals 36877 physical damage to the enemy with the lowest HP percentage, lowers the target's P.DEF and M.DEF by 162 and afflicts the target with a Bind debuff.
+w/ UE: Mitsuki deals 76878 physical damage to the enemy with the lowest HP percentage, lowers the target's P.DEF and M.DEF by 216, P.ATK and M.ATK by 2152 and afflicts the target with a Bind debuff.
+
+
+**Skill 2: Apoptosis Enhancer**
+Mitsuki afflicts all enemies in an area in front of her with a Curse debuff that deals 968 damage per second and lowers their P.DEF and M.DEF by 108.
+
+
+**EX Skill: Black Medical Care**
+Mitsuki's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

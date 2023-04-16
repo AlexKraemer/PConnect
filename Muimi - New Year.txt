@@ -1,0 +1,25 @@
+**Muimi - New Year (1★)**
+Details:
+Arena: ATK - A, DEF - SS
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: S
+
+
+**Union Burst: Shinshun Kenkon Tenseiken**
+Muimi deals 82016 physical damage to all enemies in an area in front of her.
+
+
+**Skill 1: Dokee!**
+no UE: After a short delay after the start of the battle, Muimi dashes into the frontmost enemy, deals 57667 physical damage to the target, lowers the target's P.DEF by 162 and pushes it by a small distance.
+w/ UE: After a short delay after the start of the battle, Muimi dashes into the frontmost enemy, deals 65839 physical damage to the target, lowers the target's P.DEF by 216 and pushes it by a small distance. Muimi also becomes invincible for a short period.
+
+
+**Skill 2: Moratta zo!**
+Muimi deals 25630 physical damage to all enemies in an area in front of her and boosts her P.ATK by 2018.
+
+
+**EX Skill: New Year Tension**
+Muimi's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

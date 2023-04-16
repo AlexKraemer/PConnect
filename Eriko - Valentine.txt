@@ -1,0 +1,25 @@
+**Eriko - Valentine (1★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - D, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Love Punishment**
+Eriko deals 148922 physical damage to the nearest enemy. The lower Eriko's HP is, the higher the damage.
+
+
+**Skill 1: Heavy Mixing**
+no UE: Eriko deals 49551 physical damage to the nearest enemy. The lower Eriko's HP is, the higher the damage.
+w/ UE: Eriko deals 76764 physical damage to the nearest enemy. The lower Eriko's HP is, the higher the damage. This Skill does 4 times damage instead of 2 times when it procs Critical.
+
+
+**Skill 2: Sweet Sacrifice**
+Eriko uses up 47902 HP and boosts her P.ATK by 4035. The lower Eriko's HP is, the higher the effects.
+
+
+**EX Skill: Deep Spirit**
+Eriko's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

@@ -1,0 +1,24 @@
+**Nea (3★)**
+Details:
+Arena: ATK - B, DEF - C
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: C
+
+
+**Union Burst: Slimy Stream**
+Nea deals 87745 physical damage to all enemies, gains invincibility for a short period and Taunts all enemies.
+
+
+**Skill 1: Come Come Slime**
+no UE: Nea deals 43872 physical damage to the enemy with the highest TP and lowers the target's TP by 200. This does not include enemies that already have full TP gauges.
+
+
+**Skill 2: Jam Jam Slime**
+Nea lowers the P.ATK, P.Critical and TP Fill Rate of all enemies by 5380, 60 and 30 respectively.
+
+
+**EX Skill: Yellow Gel**
+Nea's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

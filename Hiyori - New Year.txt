@@ -1,0 +1,25 @@
+**Hiyori - New Year (3★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - D, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Hiyori Happy Stamp**
+Hiyori deals 147776 physical damage to the nearest enemy, and lowers the target's P.DEF and TP Fill Rate by 54 and 20 respectively.
+
+
+**Skill 1: Nikukyuu Charge**
+no UE: Hiyori boosts her P.ATK by 2394 and the P.ATK of all allies that do physical attacks by 1596.
+w/ UE: Hiyori boosts her P.ATK by 2394 and the P.ATK and P.Critical of all allies that do physical attacks by 6384 and 60 respectively.
+
+
+**Skill 2: Good Luck Punch**
+Hiyori deals 54027 physical damage to the nearest enemy.
+
+
+**EX Skill: Happy Strength**
+Hiyori's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

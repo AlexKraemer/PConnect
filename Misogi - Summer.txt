@@ -1,0 +1,24 @@
+**Misogi - Summer (1★)**
+Details:
+Arena: ATK - SS+, DEF - SS+
+CB: ST - N/A, Multi - N/A
+Quest: N/A
+Overall: S
+
+
+**Union Burst: Bikkuri Firework**
+Misogi deals 62947 physical damage to all enemies in an area around the furthest enemy and pulls them to right before her.
+
+
+**Skill 1: Summer Splash Bomb**
+no UE: Misogi deals 31473 physical damage to all enemies in an area in front of her and lowers their TP by 150.
+
+
+**Skill 2: Tropical Sunshine**
+Misogi deals 31473 physical damage to the nearest enemy and afflicts the target with a Stun debuff. She also lowers the target's P.DEF by 107.
+
+
+**EX Skill: Summer Trick**
+Misogi's P.ATK goes up by 3990 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

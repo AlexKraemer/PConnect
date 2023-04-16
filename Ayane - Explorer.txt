@@ -1,0 +1,24 @@
+**Ayane - Explorer (3★)**
+Details:
+Arena: ATK - N/A, DEF - N/A
+CB: ST - N/A, Multi - S
+Quest: B
+Overall: A
+
+
+**Union Burst: Puukichi Adventure**
+Ayane deals 135230 physical damage to all enemies in an area in front of her and boosts the P.ATK of all allies in an area around her by 8608.
+
+
+**Skill 1: Puukichi Chopping**
+no UE: Ayane deals 101422 physical damage to all enemies in an area in front of her.
+
+
+**Skill 2: Puukichi Embrace**
+Ayane boosts the P.ATK and P.Critical of all allies in an area around her by 4304 and 80 respectively.
+
+
+**EX Skill: Braveful Journey**
+Ayane's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+

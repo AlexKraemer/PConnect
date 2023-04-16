@@ -1,0 +1,27 @@
+**Yui - Princess (3★)**
+Details:
+Arena: ATK - C, DEF - C
+CB: ST - C, Multi - C
+Quest: B
+Overall: D
+
+
+**Union Burst: Divine Rain**
+Yui deals 80798 magical damage to all enemies.
+
+
+**Skill 1: Twinkle Boost**
+no UE: Yui recovers her TP by 450, boosts her M.ATK, M.Critical and M.Critical Damage by 2138, 25 and 5% respectively.
+【Post-S.Lv260】M.ATK buff increased (2128 → 2138), TP Recovery capped at 450.
+w/ UE: Yui recovers her TP by 540, boosts her M.ATK, M.Critical and M.Critical Damage by 2138, 25 and 5% respectively. The potencies of the M.ATK and M.Critical Damage buffs go up every time Yui uses this Skill (up to 5 times).
+【Post-S.Lv260】M.ATK buff increased (2128 → 2138), TP Recovery capped at 540.
+
+
+**Skill 2: Radiant Shot**
+Yui deals 40399 magical damage to all enemies in an area around the 2nd nearest enemy and boosts the M.ATK of all allies that do magical attacks by 665.
+
+
+**EX Skill: Dearest Memory**
+Yui's M.ATK goes up by 3990 (gains an additional +225 M.ATK at ★5) at the start of the battle.
+
+

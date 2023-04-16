@@ -1,0 +1,25 @@
+**Shiori - Magical (1★)**
+Details:
+Arena: ATK - D, DEF - D
+CB: ST - D, Multi - D
+Quest: D
+Overall: E
+
+
+**Union Burst: Purely Shower**
+Shiori boosts the P.ATK of all allies by 8070.
+
+
+**Skill 1: Purely Aiming**
+no UE: Shiori boosts the P.ATK and P.Critical of allies in an area around her by 2690 and 60 respectively.
+w/ UE: Shiori boosts the P.ATK and P.Critical of all allies in an area around her by 4035 and 75 respectively, and also boosts their P.Critical Damage by 10%.
+
+
+**Skill 2: Purely Snipe**
+Shiori boosts the P.ATK of allies in an area around her by 4035 and deals 200763 physical damage to the nearest enemy.
+
+
+**EX Skill: Purely Brave**
+Shiori's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.
+
+
