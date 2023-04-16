@@ -12,7 +12,6 @@ Ram deals 35952 magical damage to all enemies and afflicts them with a Bind debu
 **Skill 1: Fura**
 no UE: Ram deals 80790 magical damage to the nearest enemy and pushes the target away by a large distance if the target was incapacitated,
 and deals 40395 magical damage and pushes the target away by a small distance if the target was not incapacitated.
-
 **Skill 1+: Fura+**
 w/ UE: Ram deals 165199 magical damage to the nearest enemy and pushes the target away by a large distance if the target was incapacitated,
 and deals 82599 magical damage and pushes the target away by a small distance if the target was not incapacitated.

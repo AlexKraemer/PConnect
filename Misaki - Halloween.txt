@@ -11,7 +11,6 @@ Misaki deals 21719 magical damage to all enemies, afflicts them with a Bind debu
 
 **Skill 1: Lady Magic**
 no UE: Misaki deals 21750 magical damage to the nearest enemy and afflicts the target with a Charm debuff.
-
 **Skill 1+: Lady Magic+**
 w/ UE: Misaki deals 54772 magical damage to the nearest enemy, lowers the target's TP by 310 and afflicts the target with a Charm debuff.
 【Post-S.Lv260】Damage increased (44893 → 54772), TP Disruption capped at 310.

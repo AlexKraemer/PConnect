@@ -11,7 +11,6 @@ Kaya deals 137652 physical damage to the nearest enemy. This Skill does 336820 p
 
 **Skill 1: Dragonic Smash**
 no UE: Kaya deals 62481 physical damage to the nearest enemy.
-
 **Skill 1+: Dragonic Smash+**
 w/ UE: Kaya deals 64979 physical damage to the nearest enemy. This Skill does 218841 physical damage instead, lowers the target's P.DEF by 162 and boosts Kaya's P.ATK by 19368 when used for the first time in a battle.
 

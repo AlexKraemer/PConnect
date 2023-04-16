@@ -8,7 +8,6 @@ Overall: C
 
 **Union Burst: Destroy Eye**
 Misaki deals 36166 magical damage to all enemies.
-
 **Union Burst (6★): Venus Doom Eye**
 Misaki deals 43660 magical damage to all enemies and afflicts them with a Hex debuff that deals 1614 damage per second.
 Enemies already afflicted with Hex are afflicted with a Curse debuff that deals 2152 damage per second instead.
@@ -17,7 +16,6 @@ The damage over time from Hex increases by 30% of its base damage every second.
 
 **Skill 1: Dark Photon**
 no UE: Misaki deals 27089 magical damage to the nearest enemy and lowers the target's Action Speed by a small amount (20%).
-
 **Skill 1+: Dark Photon+**
 w/ UE: Misaki deals 56959 magical damage to all enemies in an area around the nearest enemy and lowers the target's Action Speed by a large amount (35%).
 

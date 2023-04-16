@@ -11,7 +11,6 @@ Ayumi boosts the Action Speed and P.DEF of all allies by a large amount (100%) a
 
 **Skill 1: Clock Down**
 no UE: Ayumi lowers the Action Speed of all enemies by a small amount (10%) and lowers their P.ATK and Accuracy by 2018 and 32 respectively.
-
 **Skill 1+: Clock Down+**
 w/ UE: Ayumi lowers the Action Speed of all enemies by a large amount (40%) and lowers their P.ATK, Accuracy and P.Critical by 5380, 42 and 125 respectively.
 

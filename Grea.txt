@@ -11,7 +11,6 @@ Grea deals 88252 magical damage to all enemies in an area in front of her.
 
 **Skill 1: Drag-Inferno**
 no UE: Grea dashes towards the nearest enemy in an invincible state and deals 55352 magical damage to the target.
-
 **Skill 1+: Drag-Inferno+**
 w/ UE: Grea dashes to the nearest enemy in an invincible state, deals 75391 magical damage to the the target and deals 68013 magical damage to enemies around the target.
 

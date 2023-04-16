@@ -12,7 +12,6 @@ Nanaka deals 83376 magical damage to all enemies in an area around the enemy wit
 **Skill 1: Jack-o'-Circle**
 no UE: Nanaka deploys a Magic Damage Field that deals 27218 magical damage per second around the enemy with the highest remaining HP.
 
-
 **Skill 2: Nanaka-chan Trick**
 Nanaka lowers the Heal Boost and M.DEF of all enemies in an area around the enemy with the highest remaining HP by 80% and 162 respectively.
 

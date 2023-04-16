@@ -11,7 +11,6 @@ Ruka deals 84838 physical damage to all enemies in an area in front of her. Afte
 
 **Skill 1: Hajimari no Tachi: Ake no Minazuki**
 no UE: Ruka deals 37773 physical damage to all enemies in an area in front of her and boosts her P.ATK by 4035.
-
 **Skill 1+: Hajimari no Tachi: Ake no Minazuki+**
 w/ UE: Ruka deals 41113 physical damage to all enemies in an area in front of her and boosts her P.ATK by 6187.
 

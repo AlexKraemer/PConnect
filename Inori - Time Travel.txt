@@ -11,7 +11,6 @@ Inori boosts the party's P.ATK by 6456 but lowers the P.DEF and M.DEF of all all
 
 **Skill 1: Dragonic Shot**
 no UE: Inori deals 32899 physical damage to the nearest enemy and lowers the target's P.DEF by 148.
-
 **Skill 1+: Dragonic Shot+**
 w/ UE: Inori deals 33954 physical damage to the nearest enemy and lowers the target's P.DEF by 296. The higher Inori's remaining HP is, the higher the damage. She also boosts the P.ATK of all allies by 4708.
 

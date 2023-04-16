@@ -8,13 +8,11 @@ Overall: S
 
 **Union Burst: Shiden Issen**
 Monica deals 39219 physical damage to all enemies in an area in front of her.
-
 **Union Burst (6★): Senpuu Raisen Gekisazan**
 Monica deals 79194 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff. She also boosts all allies' P.ATK and M.ATK by 3228 and Action Speed by a large amount (100%).
 
 **Skill 1: Flügel Yell**
 no UE: Monica boosts all allies' P.ATK and M.ATK by 404 and Action Speed by a small amount (50%).
-
 **Skill 1+: Flügel Yell+**
 w/ UE: Monica boosts all allies' P.ATK and M.ATK by 3228 and Action Speed by a large amount (100%).
 

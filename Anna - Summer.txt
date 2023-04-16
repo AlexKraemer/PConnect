@@ -11,7 +11,6 @@ Anna deals 196920 magical damage to the nearest enemy. If there is only 1 remain
 
 **Skill 1: Rasetsu Nehan: Kaigokusen**
 no UE: Anna deals 34413 magical damage to the nearest enemy and lowers the target's M.DEF by 216.
-
 **Skill 1+: Rasetsu Nehan: Kaigokusen+**
 w/ UE: Anna deals 114360 magical damage to the nearest enemy and lowers the target's M.DEF by 431.
 

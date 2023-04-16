@@ -8,14 +8,12 @@ Overall: B
 
 **Union Burst: Splash Dive**
 Mifuyu deals 103438 physical damage to the nearest enemy and afflicts the target with a Stun debuff.
-
 **Union Burst (6★): Vortex Stream**
 Mifuyu deals 278654 physical damage to the nearest enemy and afflicts the target with a Stun debuff.
 If the target was already afflicted with an immobilising debuff when UB was used, Mifuyu deals a further 139327 physical damage to all enemies and afflicts them with a Stun debuff.
 
 **Skill 1: First Aid**
 no UE: Mifuyu heals herself for 25187 HP.
-
 **Skill 1+: First Aid+**
 w/ UE: Mifuyu heals herself for 31525 HP, boosts her P.DEF and M.DEF by 323 and deploys a Field around her that heals all allies within it for 1785 HP per second.
 

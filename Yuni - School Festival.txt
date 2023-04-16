@@ -13,7 +13,6 @@ While in ""Learning Time"", Yuni further boosts the P.Critical Damage and M.Crit
 **Skill 1: Mahou Rikigakuteki Kaiseki Enshuu**
 no UE: Yuni lowers the P.DEF and M.DEF of all enemies in an area in front of her by 81.
 While in ""Learning Time"", Yuni further afflicts them with a debuff that increases the damage they take when receiving Critical attacks by 8%.
-
 **Skill 1+: Mahou Rikigakuteki Kaiseki Enshuu+**
 w/ UE: Yuni lowers the P.DEF and M.DEF of all enemies in an area in front of her by 81 and lowers the P.DEF and M.DEF of the nearest enemy by 54.
 While in ""Learning Time"", Yuni further afflicts them with a debuff that increases the damage they take when receiving Critical attacks by 8%.

@@ -12,7 +12,6 @@ Misogi & Mimi & Kyouka deal 167901 physical damage to the nearest enemy and if t
 **Skill 1: Tri Adventure**
 no UE: Misogi & Mimi & Kyouka deal 55967 physical damage to the nearest enemy and if the target's M.DEF is lower than P.DEF, deal 27983 physical damage that is treated as magical damage.
 
-
 **Skill 2: Lyrical Dancing**
 Misogi & Mimi & Kyouka boost their P.ATK and P.Critical by 2959 and 60 respectively, and lower the nearest enemy's P.DEF by 162. They also recover their TP by 50.
 

@@ -15,7 +15,6 @@ When used in PSI★Charge state, Misora lowers the M.DEF of the nearest enemy by
 no UE: Misora deals 33552 | 36907 | 43618 magical damage to up to the 3 nearest enemies. This Skill's damage increases the further the enemy is.
 When used in PSI★Charge state, Misora lowers the M.DEF of the nearest enemy by 41.
 
-
 **Skill 2: Ei?Ei?Oo!**
 Misora boosts the M.ATK and M.Critical of all allies by 3228 and 80 respectively.
 

@@ -8,13 +8,11 @@ Overall: C
 
 **Union Burst: Final Catastrophe**
 Anna deals 49299 magical damage to all enemies, but her P.DEF and M.DEF get lowered massively afterwards.
-
 **Union Burst (6★): Magna Omnis Catastrophe**
 Anna boosts her M.ATK by 13450 for a short period of time and deals 278801 magical damage to all enemies, but her P.DEF and M.DEF get lowered massively afterwards.
 
 **Skill 1: Code: Null**
 no UE: Anna deals 42427 magical damage to the nearest enemy.
-
 **Skill 1+: Code: Null+**
 w/ UE: Anna deals 56858 magical damage to the nearest enemy and lowers the target's M.DEF by 162.
 

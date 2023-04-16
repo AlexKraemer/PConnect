@@ -12,7 +12,6 @@ Anna deals 72844 magical damage to all enemies in an area in front of her and bo
 **Skill 1: Rasetsu Nehan: Zekkai**
 no UE: Anna deals 33724 magical damage to all enemies in an area in front of her and lowers their M.DEF by 162.
 
-
 **Skill 2: Hakaima Fuuindan: Kashiki**
 Anna deals 40469 magical damage to all enemies in an area in front of her and boosts her TP Fill Rate by 20, but uses up 30% of her remaining HP.
 The higher her M.ATK is, the higher the amount of HP used (up to 60%).

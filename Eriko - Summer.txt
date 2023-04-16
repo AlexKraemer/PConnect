@@ -11,7 +11,6 @@ Eriko deals 170344 physical damage to the nearest enemy and boosts her P.Critica
 
 **Skill 1: Midsummer Blast**
 no UE: Eriko deals 44360 physical damage to the nearest enemy and lowers the target's P.DEF by 162.
-
 **Skill 1+: Midsummer Blast+**
 w/ UE: Eriko deals 91906 physical damage to the nearest enemy, lowers the target's P.DEF by 216 and boosts her P.ATK by 5380.
 

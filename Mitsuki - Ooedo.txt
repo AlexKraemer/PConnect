@@ -12,7 +12,6 @@ If enemies within the area of effect have already been afflicted with Curse, Mit
 
 **Skill 1: Rose Carte**
 no UE: Mitsuki deals 36877 physical damage to the enemy with the lowest HP percentage, lowers the target's P.DEF and M.DEF by 162 and afflicts the target with a Bind debuff.
-
 **Skill 1+: Rose Carte+**
 w/ UE: Mitsuki deals 76878 physical damage to the enemy with the lowest HP percentage, lowers the target's P.DEF and M.DEF by 216, P.ATK and M.ATK by 2152 and afflicts the target with a Bind debuff.
 

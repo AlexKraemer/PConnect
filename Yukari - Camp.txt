@@ -15,7 +15,6 @@ The damage of this Skill when it procs Critical hits and the potency of the buff
 no UE: Yukari deals 26766 physical damage to a random enemy in an area in front of her.
 If she had at least 3 Moment of Bliss stacks, this Skill's damage increases to 53532 and does 3 times damage instead of 2 times when it procs Critical hits, and the damage dealt when it procs Critical hits increases according to the number of Moment of Bliss stacks.
 
-
 **Skill 2: Grill Paradise**
 Yukari applies 1 Moment of Bliss to herself, recovers her TP by 150 and boosts her P.ATK by 3228. Moment of Bliss stacks up to 7 times.
 If Yukari had 2 or less Moment of Bliss stacks, she recovers the TP of the 2 allies with the lowest TP (other than herself) by 150.

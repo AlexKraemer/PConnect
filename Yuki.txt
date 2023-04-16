@@ -11,7 +11,6 @@ Yuki deals 11553 magical damage to all enemies, and lowers their P.DEF by 93.
 
 **Skill 1: Boku no me ga kuramu hodo no utsukushisa?**
 no UE: Yuki deals 4035 magical damage to the 2nd nearest enemy and afflicts the target with a Darkness debuff.
-
 **Skill 1+: Boku no me ga kuramu hodo no utsukushisa?+**
 w/ UE: Yuki deals 35773 magical damage to the 2nd nearest enemy and afflicts the target with Darkness and Charm debuffs.
 

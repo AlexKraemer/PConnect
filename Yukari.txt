@@ -8,13 +8,11 @@ Overall: D
 
 **Union Burst: Seven Veils**
 Yukari deploys Barriers that negate up to 4842 magical damage on all allies.
-
 **Union Burst (6★): Seventh Heaven**
 Yukari deploys Barriers that negate up to 9684 magical damage on all allies, boosts their M.DEF by 323 and heals them for 7001 HP.
 
 **Skill 1: Aquavit**
 no UE: Yukari heals the ally with the lowest HP for 19756 HP.
-
 **Skill 1+: Aquavit+**
 w/ UE: Yukari heals the ally with the lowest HP for 25086 HP, boosts the target's M.DEF by 216 and applies a Regen that heals for 1627 HP per second on the target.
 

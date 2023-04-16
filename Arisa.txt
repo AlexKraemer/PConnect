@@ -8,13 +8,11 @@ Overall: B
 
 **Union Burst: Watashi no ya ga anata wo tsuranuku!**
 Arisa deals 141025 physical damage to the nearest enemy. If this Skill has already been used, its damage increases to 215920 instead.
-
 **Union Burst (6★): Kono ya ni mirai wo nosete!**
 Arisa deals 221876 physical damage to the nearest enemy. This Skill goes up in damage every time she uses it, by up to 4 times (380375 damage from 5th usage onwards).
 
 **Skill 1: Karamitsuku Tsuta**
 no UE: Arisa deals 26990 physical damage to the enemy with the highest M.ATK and lowers the target's Action Speed by a small amount (20%).
-
 **Skill 1+: Karamitsuku Tsuta+**
 w/ UE: Arisa deals 56176 physical damage to the enemy with the highest M.ATK and lowers the target's M.ATK by 1009 and Action Speed by a small amount (20%).
 

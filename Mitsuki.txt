@@ -8,13 +8,11 @@ Overall: S
 
 **Union Burst: Bloody Rose**
 Mitsuki deals 50257 physical damage to all enemies in an area in front of her. Mitsuki heals herself according to the number of enemies defeated with this Skill.
-
 **Union Burst (6★): Brutal Rose**
 Mitsuki lowers the P.DEF of all enemies in front of her by 269 and deals 120107 physical damage to them. Mitsuki heals herself according to the number of enemies defeated with this Skill.
 
 **Skill 1: Curse Bloom**
 no UE: Mitsuki afflicts all enemies in an area in front of her with a Curse debuff that deals 645 damage per second.
-
 **Skill 1+: Curse Bloom+**
 w/ UE: Mitsuki afflicts all enemies in an area in front of her with a Curse debuff that deals 968 damage per second, and lowers their Action Speed by a small amount (5%).
 

@@ -14,7 +14,6 @@ The damage dealt and the P.ATK buff potency go up according to the number of all
 no UE: Tamaki deals 38095 physical damage to all enemies in front of her, recovers the TP of all allies in an area around herself by 75 and recovers her own TP by 100.
 The damage dealt and the TP recovery to herself go up according to the number of allies within the area of effect.
 
-
 **Skill 2: Sweet Service**
 Tamaki moves to a position next to the ally with the highest P.ATK and deploys a Field that boosts the P.ATK of all allies in an area around that ally by 5649 and heals them for 1553 per second.
 

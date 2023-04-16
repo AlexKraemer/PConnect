@@ -12,7 +12,6 @@ Vampy deals 137038 magical damage to the nearest enemy, boosts her M.ATK by 8070
 **Skill 1: Blood Drain**
 no UE: Vampy deals 68519 magical damage to the nearest enemy, lowers the target's TP by 75 and recovers her TP by 75.
 
-
 **Skill 2: Crimson Gift**
 Vampy boosts the M.ATK of all allies by 5111.
 

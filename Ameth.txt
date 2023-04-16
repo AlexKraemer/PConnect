@@ -12,7 +12,6 @@ Ameth boosts the P.DEF and M.DEF of all allies by 323, applies a Regen buff that
 **Skill 1: Luce Curativa**
 no UE: Ameth heals the ally with the lowest HP for 20127 HP and applies to the target a Physical Damage Cut buff (15%) and a Magical Damage Cut buff (15%).
 
-
 **Skill 2: Torre Splendente**
 Ameth boosts the P.ATK and M.ATK of all allies with a Barrier by 13988 and recovers their TP by 200. The higher Ameth's M.ATK is, the higher the P.ATK and M.ATK buffs are (up to 5 times the base amount).
 

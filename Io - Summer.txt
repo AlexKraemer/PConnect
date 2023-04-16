@@ -11,7 +11,6 @@ Io deals 26427 magical damage to all enemies and heals all allies for 11280 HP.
 
 **Skill 1: Love Steal**
 no UE: Io deals 15040 magical damage to all enemies in an area in front of her and heals the ally with the lowest HP for 10312 | 14179 | 18045 | 21912 | 25779 HP. The amount healed goes up with the number of enemies hit.
-
 **Skill 1+: Love Steal+**
 w/ UE: Io deals 25865 magical damage to all enemies in an area in front of her and heals the ally with the lowest HP for 11941 | 16016 | 20091 | 24165 | 28240 HP. The amount healed goes up with the number of enemies hit.
 

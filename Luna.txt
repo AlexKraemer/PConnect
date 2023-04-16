@@ -12,7 +12,6 @@ Luna deals 33963 magical damage to the nearest enemy. If there are Otomodachi av
 **Skill 1: Soul Conversion**
 no UE: Luna deals 30601 magical damage to the ally with the highest remaining HP and recovers the target's TP by 800. Luna gains 1 Otomodachi.
 【Post-S.Lv260】Additional M.ATK buff (+64) to target, TP Recovery capped at 800.
-
 **Skill 1+: Soul Conversion+**
 w/ UE: Luna deals 31689 magical damage to the ally with the highest remaining HP, recovers the target's TP by 800 and boosts the target's M.ATK and M.Critical by 2082 and 100 respectively.
 Luna also recovers her TP by 128. Luna gains 1 Otomodachi.

@@ -12,7 +12,6 @@ Nea deals 87745 physical damage to all enemies, gains invincibility for a short 
 **Skill 1: Come Come Slime**
 no UE: Nea deals 43872 physical damage to the enemy with the highest TP and lowers the target's TP by 200. This does not include enemies that already have full TP gauges.
 
-
 **Skill 2: Jam Jam Slime**
 Nea lowers the P.ATK, P.Critical and TP Fill Rate of all enemies by 5380, 60 and 30 respectively.
 

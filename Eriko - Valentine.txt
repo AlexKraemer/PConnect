@@ -11,7 +11,6 @@ Eriko deals 148922 physical damage to the nearest enemy. The lower Eriko's HP is
 
 **Skill 1: Heavy Mixing**
 no UE: Eriko deals 49551 physical damage to the nearest enemy. The lower Eriko's HP is, the higher the damage.
-
 **Skill 1+: Heavy Mixing+**
 w/ UE: Eriko deals 76764 physical damage to the nearest enemy. The lower Eriko's HP is, the higher the damage. This Skill does 4 times damage instead of 2 times when it procs Critical.
 

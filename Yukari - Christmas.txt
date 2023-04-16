@@ -12,7 +12,6 @@ Yukari boosts the P.ATK of the ally with the highest P.ATK by 18158. The higher 
 **Skill 1: Pale Moon**
 no UE: Yukari lowers the TP and P.DEF of the enemy with the highest M.ATK by 270 and 164 respectively.
 【Post-S.Lv260】P.DEF debuff increased (162 → 164), TP Disruption capped at 270.
-
 **Skill 1+: Pale Moon+**
 w/ UE: Yukari lowers the TP, P.DEF and M.Critical of the enemy with the highest M.ATK by 270, 245 and 450 respectively. She also lowers the target's Action Speed by a large amount (35%).
 【Post-S.Lv260】P.DEF debuff increased (243 → 245), TP Disruption capped at 270.

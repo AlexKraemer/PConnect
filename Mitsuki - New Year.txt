@@ -13,7 +13,6 @@ If the target was afflicted with Haziness, Mitsuki boosts her P.ATK and P.Critic
 **Skill 1: Meppuu Kokuinzome**
 no UE: Mitsuki deals 60090 physical damage to the nearest enemy and afflicts the target with Daze and a debuff that increases the damage taken from Critical attacks by 6%.
 
-
 **Skill 2: Moushun no Arakyuuji**
 Mitsuki deals 47439 physical damage to the nearest enemy and lowers the target's P.DEF by 135.
 If the target was afflicted with Haziness, the damage increases to 94879 and the P.DEF debuff increases to 189.

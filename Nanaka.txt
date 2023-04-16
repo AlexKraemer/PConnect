@@ -8,13 +8,11 @@ Overall: D
 
 **Union Burst: Nanaka8Blast**
 Nanaka deals 175857 magical damage to the enemy with the highest remaining HP.
-
 **Union Burst (6★): Nanaka8Glitter**
 Nanaka deals 428170 magical damage to the enemy with the highest remaining HP and lowers the target's M.DEF by 135.
 
 **Skill 1: Stardust Magic**
 no UE: Nanaka lowers the M.DEF of all enemies in an area around the nearest enemy by 130.
-
 **Skill 1+: Stardust Magic+**
 w/ UE: Nanaka lowers the M.DEF of all enemies in an area around the nearest enemy by 216.
 
