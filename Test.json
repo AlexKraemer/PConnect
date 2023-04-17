@@ -896,7 +896,7 @@
     "ThumbURL": ""
   },
   "Makoto": {
-    "Title": "**Makoto (3★)** - **Non-Limited**",
+    "Title": "**Makoto (3★) - Best Waifu** - **Non-Limited**",
     "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - D, Multi - D\r\nQuest: D\r\nOverall: E\r\n\r\n**Role:** ```Single-target attacker, debuffer```\r\n**Initial Movement:** ```Skill 2 → Skill 1```**Loop Pattern:** ```Attack → Attack → Skill 2 → Attack → Skill 1```\r\n\r\n__**Union Burst: Wolfen Bite**__\r\nMakoto deals 125883 physical damage to the nearest enemy and lowers the target's P.DEF by 243.\r\n\r\n__**Skill 1: Hard Slash**__\r\nMakoto deals 55948 physical damage to the nearest enemy.\r\n__**Skill 1+: Hard Slash+**__\r\nMakoto deals 72825 physical damage to the nearest enemy and boosts her P.ATK by 2018.\r\n\r\n__**Skill 2: Brave Howling**__\r\nMakoto lowers the nearest enemy's P.DEF by 216.\r\n\r\n__**EX Skill: Rouga no Mougeki**__\r\nMakoto's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
     "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Makoto.webp",
     "Footer": "UE: Wolfen Blade",
@@ -904,7 +904,7 @@
     "ThumbURL": ""
   },
   "Summer_Makoto": {
-    "Title": "**Makoto - Summer (3★)** - **Limited**",
+    "Title": "**Makoto - Summer (3★) - Best Waifu** - **Limited**",
     "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - D, Multi - N/A\r\nQuest: N/A\r\nOverall: E\r\n\r\n**Role:** ```Single-target attacker, debuffer```\r\n**Initial Movement:** ```Skill 2 → Skill 1```**Loop Pattern:** ```Attack → Attack → Skill 2 → Attack → Skill 1```\r\n\r\n__**Union Burst: Summer Wolfen Blitz**__\r\nMakoto deals 125056 physical damage to the nearest enemy.\nIf there is only one remaining target, Makoto deals 174885 physical damage instead, and lowers the target's P.DEF by 296.\r\n\r\n__**Skill 1: Aqua Crossing**__\r\nMakoto deals 56178 physical damage to the nearest enemy.\nIf there is only one remaining target, Makoto deals an additional 28089 physical damage and lowers the target's P.DEF by 81.\r\n__**Skill 1+: Aqua Crossing+**__\r\nMakoto deals 58218 physical damage to the nearest enemy.\nIf there is only one remaining target, Makoto deals an additional 58218 physical damage, lowers the target's P.DEF by 135 and boosts her P.ATK by 1345.\r\n\r\n__**Skill 2: Blue Howling**__\r\nMakoto boosts her P.ATK by 2690.\nIf there is only one remaining target, this buff no longer expires.\r\n\r\n__**EX Skill: Kairou no Touki**__\r\nMakoto's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
     "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Summer_Makoto.webp",
     "Footer": "UE: Summer Wolfen Sword",
@@ -912,7 +912,7 @@
     "ThumbURL": ""
   },
   "Cinderella_Makoto": {
-    "Title": "**Makoto - Cinderella (3★)** - **Non-Limited**",
+    "Title": "**Makoto - Cinderella (3★) - Best Waifu** - **Non-Limited**",
     "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - C, Multi - C\r\nQuest: C\r\nOverall: D\r\n\r\n**Role:** ```Buffer, single-target attacker, debuffer```\r\n**Initial Movement:** ```Skill 1 → Skill 2```**Loop Pattern:** ```Attack → Skill 2 → Skill 1 → Attack → Skill 2 → Attack```\r\n\r\n__**Union Burst: Wolfen Rondo**__\r\nMakoto boosts the P.ATK and Action Speed of all allies in an area around her by 1722 and a medium amount (25%) respectively, and deals 139894 physical damage to the nearest enemy.\nThe potency of the P.ATK buff goes up according to the number of allies within the area.\r\n\r\n__**Skill 1: Chivalric Order**__\r\nMakoto boosts the P.ATK of all allies in an area around her by 861. The potency of the buff goes up according to the number of allies within the area.\r\n__**Skill 1+: Chivalric Order+**__\r\nMakoto boosts the P.ATK of all allies in an area around her by 861 and boosts her P.ATK by 1292. The potency of the buffs goes up according to the number of allies within the area.\r\n\r\n__**Skill 2: Cruel Dance**__\r\nMakoto deals 32484 physical damage to the nearest enemy and lowers the target's P.DEF by 108. The damage dealt increases according to the number of allies in an area around her.\r\n\r\n__**EX Skill: Reirou no Kenbu**__\r\nMakoto's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
     "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Cinderella_Makoto.webp",
     "Footer": "UE: Wolfen Rondo Dress",
