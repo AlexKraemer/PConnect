@@ -1806,5 +1806,21 @@
     "Footer": "UE: Coming Soon!",
     "Author": "Alter Maiden",
     "ThumbURL": ""
+  },
+  "Warlock_Djeeta": {
+    "Title": "**Djeeta - Warlock (3★)** - **Limited**",
+    "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - N/A, Multi - N/A\r\nQuest: N/A\r\nOverall: N/A\r\n\r\n**Role:** ```Attacker, buffer, debuffer, TP battery```\r\n**Initial Movement:** ```Skill 1 → Skill 2 → Attack → Skill 1 → Attack\t```**Loop Pattern:** ```Skill 2 → Attack → Skill 1 → Attack → Skill 2 → Attack → Skill 1 → Attack → Skill 2```\r\n\r\n__**Union Burst: Ether Blast**__\r\n:small_blue_diamond: Djeeta boosts her M.ATK by 8070 and deals 170142 magical damage to the nearest enemy. She also applies to herself Crest of All Creation.\r\n\r\n__**Skill 1: Black Haze**__\r\n:small_blue_diamond: Djeeta deploys a Magical Damage Field that deals 17014 magical damage every second and a Field that lowers M.ATK and M.DEF by 2421 and 243 respectively around the nearest enemy.\r\n\r\n__**Skill 2: Chaser**__\r\n:small_blue_diamond: Djeeta boosts the M.ATK, M.Critical and M.Critical Damage of all allies by 4035, 75 and 10% respectively and recovers their TP by 75.\nIf Djeeta has Crest of All Creation on herself, the potencies of the M.ATK, M.Critical and M.Critical Damage buffs increase.\r\n\r\n__**EX Skill: Madou no Tasshi**__\r\n:small_blue_diamond: Djeeta's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.\r\n\r\n",
+    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Warlock_Djeeta.webp",
+    "Footer": "UE: Coming Soon!",
+    "Author": "Collaboration",
+    "ThumbURL": ""
+  },
+  "Alchemist_Karin": {
+    "Title": "**Karin - Alchemist (1★)** - **Princess Fest**",
+    "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - N/A, Multi - N/A\r\nQuest: N/A\r\nOverall: N/A\r\n\r\n**Role:** ```Buffer, debuffer, healer```\r\n**Initial Movement:** ```Skill 1 → Skill 2```**Loop Pattern:** ```Attack → Skill 1 → Skill 2 → Skill 1 → Attack → Skill 2 → Skill 1 → Skill 2```\r\n\r\n__**Union Burst: Kijin no Gan'yaku**__\r\n:small_blue_diamond: Karin boosts the P.ATK and M.ATK of all allies in front of her by 10760 and applies to them a Regen buff that heals for 2354 HP per second.\r\n\r\n__**Skill 1: Miserable Mist**__\r\n:small_blue_diamond: Karin lowers the P.ATK, M.ATK, P.DEF and M.DEF of all enemies in front of her by 5649, 5649, 135 and 135 respectively.\r\n\r\n__**Skill 2: Medic**__\r\n:small_blue_diamond: Karin heals all allies in front of her for 11772 HP and boosts their P.DEF and M.DEF by 202.\r\n\r\n__**EX Skill: Alchemic Harmony**__\r\n:small_blue_diamond: Karin's M.DEF goes up by 538 (gains an additional +30 M.DEF at ★5) at the start of the battle.\r\n\r\n",
+    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Alchemist_Karin.webp",
+    "Footer": "UE: Coming Soon!",
+    "Author": "Extra",
+    "ThumbURL": ""
   }
 }
