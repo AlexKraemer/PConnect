@@ -1343,26 +1343,26 @@
     "Author": "Lucent Academy",
     "ThumbURL": ""
   },
-  "Monika": {
-    "Title": "**Monika (3★)** - **Non-Limited**",
+  "Monica": {
+    "Title": "**Monica (3★)** - **Non-Limited**",
     "Content": "Details:\r\nArena: ATK - S, DEF - B\r\nCB: ST - S, Multi - S\r\nQuest: S\r\nOverall: S\r\n\r\n**Role:** ```Buffer, debuffer, attacker```\r\n**Initial Movement:** ```Skill 1 → Attack → Skill 2```**Loop Pattern:** ```Attack → Attack → Skill 2```\r\n\r\n__**Union Burst: Shiden Issen**__\r\n:small_blue_diamond: Monica deals 39219 physical damage to all enemies in an area in front of her.\r\n__**★6 Union Burst: Senpuu Raisen Gekisazan**__\r\n:small_blue_diamond: Monica deals 79194 physical damage to all enemies in an area in front of her and afflicts them with a Stun debuff. She also boosts all allies' P.ATK and M.ATK by 3228 and Action Speed by a large amount (100%).\r\n\r\n__**Skill 1: Flügel Yell**__\r\n:small_blue_diamond: Monica boosts all allies' P.ATK and M.ATK by 404 and Action Speed by a small amount (50%).\r\n__**Skill 1+: Flügel Yell+**__\r\n:small_blue_diamond: Monica boosts all allies' P.ATK and M.ATK by 3228 and Action Speed by a large amount (100%).\r\n\r\n__**Skill 2: Musket Shot**__\r\n:small_blue_diamond: Monica deals 21788 physical damage to the nearest enemy and afflicts the target with a Stun debuff.\r\n\r\n__**EX Skill: Hakuyoku no Kago**__\r\n:small_blue_diamond: Monica's P.ATK goes up by 4035 (gains an additional +30 P.DEF at ★5) at the start of the battle.\r\n\r\n",
-    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Monika.webp",
+    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Monica.webp",
     "Footer": "UE: Flügel Coat",
     "Author": "Weiße Flügel Landosol",
     "ThumbURL": ""
   },
-  "Magical_Monika": {
-    "Title": "**Monika - Magical (3★)** - **Non-Limited**",
+  "Magical_Monica": {
+    "Title": "**Monica - Magical (3★)** - **Non-Limited**",
     "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - A, Multi - A\r\nQuest: C\r\nOverall: B\r\n\r\n**Role:** ```Buffer, debuffer, single-target attacker, single-target healer```\r\n**Initial Movement:** ```Skill 1 → Attack → Skill 2 → Skill 1 → Skill 2```**Loop Pattern:** ```Attack → Skill 1 → Skill 2 → Attack → Attack → Skill 1 → Attack → Skill 2```\r\n\r\n__**Union Burst: Sky Lovely Hurricane**__\r\n:small_blue_diamond: Monica deals 110550 physical damage to the nearest enemy and lowers the target's P.DEF by 243.\r\n\r\n__**Skill 1: Lovely Order**__\r\n:small_blue_diamond: Monica boosts the P.ATK of all allies in an area around her by 2018. The higher Monica's P.ATK, the higher the boost.\r\n__**Skill 1+: Lovely Order+**__\r\n:small_blue_diamond: Monica boosts the P.ATK and P.Critical of all allies in an area around her by 2018 and 100 respectively. The higher Monica's P.ATK and the number of allies in the area of effect, the higher the P.ATK boost.\r\n\r\n__**Skill 2: Lovely Impulse**__\r\n:small_blue_diamond: Monica deals 36850 physical damage to the nearest enemy and heals the ally with the lowest HP for 6217 HP. The higher the amount of damage Monica dealt with this Skill, the higher the amount healed.\r\n\r\n__**EX Skill: Magical Brave**__\r\n:small_blue_diamond: Monica's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
-    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Magical_Monika.webp",
+    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Magical_Monica.webp",
     "Footer": "UE: Magical Lovely Sword",
     "Author": "Weiße Flügel Landosol",
     "ThumbURL": ""
   },
-  "Cafe_Monika": {
-    "Title": "**Monika - Cafe (3★)** - **Non-Limited**",
+  "Cafe_Monica": {
+    "Title": "**Monica - Cafe (3★)** - **Non-Limited**",
     "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - A, Multi - B\r\nQuest: B\r\nOverall: B\r\n\r\n**Role:** ```Buffer, debuffer```\r\n**Initial Movement:** ```Skill 1 → Skill 2```**Loop Pattern:** ```Attack → Skill 1 → Attack → Skill 2 → Attack → Skill 1```\r\n\r\n__**Union Burst: Shoufuku Katzenregen**__\r\n:small_blue_diamond: Monica deals 147008 physical damage to the nearest enemy and lowers the target's P.DEF by 229.\r\n\r\n__**Skill 1: Bubblegum Pop**__\r\n:small_blue_diamond: Monica deals 58803 physical damage to the nearest enemy and lowers the target's P.DEF by 175.\r\n\r\n__**Skill 2: Candy Shower**__\r\n:small_blue_diamond: Monica applies to herself a TP Regen buff that recovers 15 TP per second and boosts the P.DEF of all allies by 202.\nShe also boosts the P.ATK of all allies by 40350, lasting until she gets hit 3 times or a certain amount of time passes.\r\n\r\n__**EX Skill: Coffee Break**__\r\n:small_blue_diamond: Monica's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
-    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Cafe_Monika.webp",
+    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Cafe_Monica.webp",
     "Footer": "UE: Coming Soon!",
     "Author": "Weiße Flügel Landosol",
     "ThumbURL": ""
