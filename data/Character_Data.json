@@ -1703,7 +1703,7 @@
     "Author": "Extra",
     "ThumbURL": ""
   },
-  "Kaiser Insight": {
+  "Kaiser_Insight": {
     "Title": "**Kaiser Insight (3★)** - **Extra**",
     "Content": "Details:\r\nArena: ATK - A, DEF - A\r\nCB: ST - N/A, Multi - N/A\r\nQuest: N/A\r\nOverall: B\r\n\r\n**Role:** ```Dispeller, debuffer, AoE attacker, TP disruptor```\r\n**Initial Movement:** ```Skill 2 → Skill 1```**Loop Pattern:** ```SP Skill → Skill 1 → SP Skill → Skill 2 → Skill 1 → SP Skill → SP Skill → Skill 1 → Skill 2 → SP Skill → Skill 1```\r\n\r\n__**Union Burst: Hadou Tensei: Metsukou**__\r\n:small_blue_diamond: Kaiser Insight removes Barriers and Status UP effects from all enemies and deals 80580 physical damage to them.\r\n\r\n__**Skill 1: Amenomurakumo no Tsurugi: Gishou**__\r\n:small_blue_diamond: Kaiser Insight deals 49588 physical damage to all enemies in front of her and lower their TP by 100. She also recovers her TP by 100.\r\n\r\n__**Skill 2: Yasakani no Magatama: Gensou**__\r\n:small_blue_diamond: Kaiser Insight afflicts all enemies in front of her with a debuff that increases the physical and magical damage they take by 12%, lowers their P.DEF and M.DEF by 135 and afflicts them with a debuff that lowers their physical and magical Critical Damage by 15%.\r\n\r\n__**EX Skill: Yata no Kagami: Kousai**__\r\n:small_blue_diamond: Kaiser Insight's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n__**SP 1: Amenomurakumo no Tsurugi: Kusanagi**__\r\n:small_blue_diamond: Kaiser Insight does a normal attack to all enemies in an area in front of her.\r\n\r\n",
     "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Kaiser Insight.webp",
@@ -1719,7 +1719,7 @@
     "Author": "Other",
     "ThumbURL": ""
   },
-  "Hatsune & Shiori": {
+  "Hatsune_&_Shiori": {
     "Title": "**Hatsune & Shiori (3★)** - **Princess Fest**",
     "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - N/A, Multi - B\r\nQuest: C\r\nOverall: D\r\n\r\n**Role:** ```Buffer, AoE attacker```\r\n**Initial Movement:** ```Skill 2 → Attack → Skill 1```**Loop Pattern:** ```Skill 2 → Skill 1 → Attack → Skill 1 → Skill 2 → Skill 1 → Attack → Skill 1 → Attack```\r\n\r\n__**Union Burst: My Dear Star**__\r\n:small_blue_diamond: Hatsune & Shiori boost their P.ATK by 6053 and deal 81548 physical damage to all enemies in front of them.\r\n\r\n__**Skill 1: Starlight Shoot**__\r\n:small_blue_diamond: Hatsune & Shiori deal 42827 physical damage to all enemies in front of them and recover their own TP by 310.\nThe amount of damage dealt and amount of TP recovered increases according to the number of enemies hit.\r\n【Post-S.Lv260】Damage increased (30580 → 42827), TP Recovery capped at 310.\r\n\r\n__**Skill 2: Sisters' Link**__\r\n:small_blue_diamond: Hatsune & Shiori boost the P.ATK, P.Critical and P.Critical Damage of all allies in an area around them by 807, 10 and 1% respectively. Each buff goes up to 4 times according to Hatsune & Shiori's P.ATK.\r\n\r\n__**EX Skill: Zenkai?Kizuna Power**__\r\n:small_blue_diamond: Hatsune & Shiori's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
     "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Hatsune & Shiori.webp",
@@ -1727,7 +1727,7 @@
     "Author": "Duos/Trios",
     "ThumbURL": ""
   },
-  "Misogi & Mimi & Kyouka": {
+  "Misogi_&_Mimi_&_Kyouka": {
     "Title": "**Misogi & Mimi & Kyouka (3★)** - **Princess Fest**",
     "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - A, Multi - B\r\nQuest: S\r\nOverall: A\r\n\r\n**Role:** ```Single-target attacker, debuffer```\r\n**Initial Movement:** ```Skill 2 → Skill 1 → Attack```**Loop Pattern:** ```Skill 2 → Skill 1 → Skill 1 → Skill 2 → Attack → Skill 1 → Skill 2 → Skill 1```\r\n\r\n__**Union Burst: Little Lyrical Parade!**__\r\n:small_blue_diamond: Misogi & Mimi & Kyouka deal 167901 physical damage to the nearest enemy and if the target's M.DEF is lower than P.DEF, deal 167901 physical damage that is treated as magical damage.\r\n\r\n__**Skill 1: Tri Adventure**__\r\n:small_blue_diamond: Misogi & Mimi & Kyouka deal 55967 physical damage to the nearest enemy and if the target's M.DEF is lower than P.DEF, deal 27983 physical damage that is treated as magical damage.\r\n\r\n__**Skill 2: Lyrical Dancing**__\r\n:small_blue_diamond: Misogi & Mimi & Kyouka boost their P.ATK and P.Critical by 2959 and 60 respectively, and lower the nearest enemy's P.DEF by 162. They also recover their TP by 50.\r\n\r\n__**EX Skill: Little Bravery**__\r\n:small_blue_diamond: Misogi & Mimi & Kyouka's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
     "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Misogi & Mimi & Kyouka.webp",
@@ -1735,7 +1735,7 @@
     "Author": "Duos/Trios",
     "ThumbURL": ""
   },
-  "Akino & Saren": {
+  "Akino_&_Saren": {
     "Title": "**Akino & Saren (3★)** - **Princess Fest**",
     "Content": "Details:\r\nArena: ATK - N/A, DEF - N/A\r\nCB: ST - S, Multi - S\r\nQuest: S\r\nOverall: A\r\n\r\n**Role:** ```Buffer, healer, TP battery, single-target attacker```\r\n**Initial Movement:** ```Skill 1 → Attack```**Loop Pattern:** ```Skill 2 → Skill 1 → Attack → Skill 1 → Skill 2 → Attack → Skill 1 → Attack```\r\n\r\n__**Union Burst: Noble Blaze**__\r\n:small_blue_diamond: Akino & Saren deal 138144 physical damage to the nearest enemy. The higher their remaining HP, the higher the damage. They also deploy a Physical Damage Field around the target that deals 10046 physical damage per second to all enemies within it.\r\n\r\n__**Skill 1: Fire Enhancement**__\r\n:small_blue_diamond: Akino & Saren boost the P.ATK, P.Critical and P.Critical Damage of all allies by 6456, 30 and 10% respectively.\r\n\r\n__**Skill 2: Glitter Force**__\r\n:small_blue_diamond: Akino & Saren deploy a Field around themselves that heals and recovers the HP and TP of all allies by 1169 and 10 per second respectively. They also recover their own TP by 280.\r\n\r\n__**EX Skill: Noble Glitter**__\r\n:small_blue_diamond: Akino & Saren's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
     "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Akino & Saren.webp",
@@ -1743,7 +1743,7 @@
     "Author": "Duos/Trios",
     "ThumbURL": ""
   },
-  "Anne & Grea": {
+  "Anne_&_Grea": {
     "Title": "**Anne & Grea (3★)** - **Princess Fest**",
     "Content": "Details:\r\nArena: ATK - D, DEF - N/A\r\nCB: ST - SS, Multi - S\r\nQuest: SS\r\nOverall: S\r\n\r\n**Role:** ```Single-target attacker, buffer```\r\n**Initial Movement:** ```Skill 2 → Skill 1```**Loop Pattern:** ```Attack → Skill 1 → Attack → Skill 1 → Attack → Skill 1 → Skill 1```\r\n\r\n__**Union Burst: Radiant Inferno**__\r\n:small_blue_diamond: Anne & Grea do 2 attacks that each deal 95853 magical damage to the nearest enemy. This Skill's damage goes up according to the number of Friendship Magic Seals. They also boost the M.ATK of all allies in an area around themselves by 5380.\r\n\r\n__**Skill 1: Friends Linkage**__\r\n:small_blue_diamond: Anne & Grea do 2 attacks that each deal 10270 magical damage to the nearest enemy. This Skill's damage goes up according to the number of Friendship Magic Seals.\r\n\r\n__**Skill 2: Friends Lead**__\r\n:small_blue_diamond: Anne & Grea gain 1 Friendship Magic Seal whenever they receive a Status UP effect. Friendship Magic Seal stacks up to 40 times.\nThey also boost their M.ATK, M.Critical and TP Fill Rate by 13450, 200 and 15 respectively.\r\n\r\n__**EX Skill: Manaria Heart**__\r\n:small_blue_diamond: Anne & Grea's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.\r\n\r\n",
     "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Anne & Grea.webp",
