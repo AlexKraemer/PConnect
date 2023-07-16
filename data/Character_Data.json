@@ -1754,7 +1754,7 @@
   "Re:Zero_Emilia": {
     "Title": "**Emilia - Re:Zero (3★)** - **Limited**",
     "Content": "Details:\r\nArena: ATK - D, DEF - C\r\nCB: ST - N/A, Multi - N/A\r\nQuest: D\r\nOverall: E\r\n\r\n**Role:** ```Single-target attacker, single-target healer, buffer```\r\n**Initial Movement:** ```Skill 1 → Skill 2```**Loop Pattern:** ```Attack → Skill 1 → Attack → Skill 1 → Skill 2 → Attack → Skill 1 → Attack → Skill 2```\r\n\r\n__**Union Burst: Yakusoku no Hanazono**__\r\n:small_blue_diamond: Emilia heals the ally with the lowest HP for 44836 HP and boosts the P.DEF and M.DEF of all allies by 243.\r\n\r\n__**Skill 1: Onegai, Puck!**__\r\n:small_blue_diamond: Emilia deals 36676 magical damage to the nearest enemy and boosts her M.ATK by 2959.\r\n__**Skill 1+: Onegai, Puck!+**__\r\n:small_blue_diamond: Emilia deals 115032 magical damage to the nearest enemy and boosts her M.ATK by 11298.\r\n\r\n__**Skill 2: Koori no Tsubute**__\r\n:small_blue_diamond: Emilia does 4 hits that each deal 18338 magical damage to a random enemy in an area in front of her.\r\n\r\n__**EX Skill: Daiseirei to no Keiyaku**__\r\n:small_blue_diamond: Emilia's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.\r\n\r\n",
-    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Re:Zero_Emilia.webp",
+    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/ReZero_Emilia.webp",
     "Footer": "UE: Yakusoku no Hanataba",
     "Author": "Collaboration",
     "ThumbURL": ""
@@ -1762,7 +1762,7 @@
   "Re:Zero_Rem": {
     "Title": "**Rem - Re:Zero (3★)** - **Limited**",
     "Content": "Details:\r\nArena: ATK - C, DEF - C\r\nCB: ST - N/A, Multi - N/A\r\nQuest: B\r\nOverall: C\r\n\r\n**Role:** ```Debuffer, attacker (AoE with Unique Equipment), single-target healer```\r\n**Initial Movement:** ```Skill 1 → Attack → Skill 1 → Skill 2```**Loop Pattern:** ```Attack → Attack → Skill 1 → Attack → Skill 2```\r\n\r\n__**Union Burst: Al Huma**__\r\n:small_blue_diamond: Rem deals 128205 physical damage to all incapacitated enemies in an area in front of her, and deals 71225 physical damage to all enemies that are not incapacitated in an area.\r\n\r\n__**Skill 1: El Huma**__\r\n:small_blue_diamond: Rem deals 42735 physical damage to the nearest enemy and afflicts the target with a Freeze debuff.\r\n__**Skill 1+: El Huma+**__\r\n:small_blue_diamond: Rem deals 57743 physical damage to all enemies in an area around the nearest enemy and afflicts them with a Freeze debuff.\r\n\r\n__**Skill 2: Aqua Healing**__\r\n:small_blue_diamond: Rem heals the ally with the lowest HP for 34267 HP.\r\n\r\n__**EX Skill: Onigakattemasu!**__\r\n:small_blue_diamond: Rem's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.\r\n\r\n",
-    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Re:Zero_Rem.webp",
+    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/ReZero_Rem.webp",
     "Footer": "UE: Rem no Kamikazari",
     "Author": "Collaboration",
     "ThumbURL": ""
@@ -1770,7 +1770,7 @@
   "Re:Zero_Ram": {
     "Title": "**Ram - Re:Zero (1★)** - **Event**",
     "Content": "Details:\r\nArena: ATK - B, DEF - B\r\nCB: ST - N/A, Multi - N/A\r\nQuest: N/A\r\nOverall: C\r\n\r\n**Role:** ```Debuffer, attacker```\r\n**Initial Movement:** ```Skill 2 → Skill 1```**Loop Pattern:** ```Attack → Attack → Skill 2 → Attack → Skill 1```\r\n\r\n__**Union Burst: Ram no jama wo shinai de**__\r\n:small_blue_diamond: Ram deals 35952 magical damage to all enemies and afflicts them with a Bind debuff.\r\n\r\n__**Skill 1: Fura**__\r\n:small_blue_diamond: Ram deals 80790 magical damage to the nearest enemy and pushes the target away by a large distance if the target was incapacitated,\nand deals 40395 magical damage and pushes the target away by a small distance if the target was not incapacitated.\r\n__**Skill 1+: Fura+**__\r\n:small_blue_diamond: Ram deals 165199 magical damage to the nearest enemy and pushes the target away by a large distance if the target was incapacitated,\nand deals 82599 magical damage and pushes the target away by a small distance if the target was not incapacitated.\r\n\r\n__**Skill 2: Senrigan**__\r\n:small_blue_diamond: Ram makes it such that the next physical attack from the enemy with the highest P.ATK will definitely be evaded.\r\n\r\n__**EX Skill: Gougan Fuson**__\r\n:small_blue_diamond: Ram's M.ATK goes up by 4035 (gains an additional +225 M.ATK at ★5) at the start of the battle.\r\n\r\n",
-    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/Re:Zero_Ram.webp",
+    "ImageURL": "https://raw.githubusercontent.com/AlexKraemer/PConnect/main/images/unit_icon_webp/ReZero_Ram.webp",
     "Footer": "UE: Ram no Kamikazari",
     "Author": "Collaboration",
     "ThumbURL": ""
